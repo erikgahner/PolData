@@ -1,0 +1,31 @@
+name;category;link;topics;coverage;year_start;year_end;availability;registration;note
+Afrobarometer;citizens;http://www.afrobarometer.org/;;Africa;1999;;;;
+American National Election Studies;citizens;http://www.electionstudies.org/;;USA;1948;;public archive;free, online;cross-sectional, panel
+Americas Barometer;citizens;http://www.vanderbilt.edu/lapop/about-americasbarometer.php;;Latin America;2004;;;;
+Arab Barometer;citizens;http://arabbarometer.org/;;Middle East;2006;;;;
+Asian Barometer;citizens;http://www.asianbarometer.org/;;Asia;2001;;;;
+British Household Panel Survey;citizens;https://www.iser.essex.ac.uk/bhps;;;1991;2009;;;panel
+Caucasus Barometer;citizens;http://caucasusbarometer.org/en/datasets/;;Caucasus;2008;;;;
+Comparative Political Data Set;political institutions;http://www.cpds-data.org/;;;;;;;
+Comparative Study of Electoral Systems;citizens;http://www.cses.org/;;;;;;;
+Correlates of War;international relations;http://www.correlatesofwar.org/;;world;1816;2007;public archive;free, online;
+Danish National Election Study;citizens;http://www.valgprojektet.dk/default.asp?l=eng;;Denmark;1971;;;;
+Democratic Accountability and Citizen-Politician Linkages;democracy;https://sites.duke.edu/democracylinkage/data/;;;;;;;
+Eurobarometer;citizens;http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm;;;;;;;
+Euromanifesto;governments and parties;http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/;;Europe;1979;;;;
+European Election Studies: Voter Study;citizens;http://europeanelectionstudies.net/ees-study-components/voter-study/;;Europe;1979;;;;
+European Election Study: Elite Study;political elites;http://europeanelectionstudies.net/ees-study-components/elite-study/;;Europe;1979;;;;
+European Election Study: Media Study;media;http://europeanelectionstudies.net/ees-study-components/media-study/;;Europe;1979;2009;;;
+European Quality of Life;citizens;https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys;;;;;;;
+European Social Survey;citizens;http://www.europeansocialsurvey.org/;Media and social trust, Subjective well-being, Human values, Immigration, Citizen involvement, Health and care, Economic morality, Family work and well-being, Timing of life, Personal well-being, Welfare attitudes, Ageism, Justice, Democracy, Social inequalities in health, Public attitudes to climate change;Europe;2002;;public archive;free, online;cross-sectional
+European Values Study;citizens;http://www.europeanvaluesstudy.eu/;;;;;;;
+General Social Survey_;citizens;http://gss.norc.org/;;USA;1972;;public archive;free, online;cross-sectional, panel
+German Socio-Economic Panel;citizens;https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP;;;;;;;panel
+International Social Survey Programme;citizens;http://www.issp.org/menu-top/home/;;;;;;;
+Latinobarometro;citizens;http://www.latinobarometro.org/lat.jsp;;Latin America;1995;;;;
+Longitudinal Internet Studies for the Social sciences;citizens;https://www.lissdata.nl/;Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation;Netherlands;2007;;public archive;free, letter;panel
+Parties, Governments and Legislatures Dataset;governments and parties;http://www.edac.eu/policies_desc.cfm?v_id=112;;;;;;;
+Pew Global Attitudes Survey;citizens;http://www.pewglobal.org/datasets/;Attitudes;world;2001;;public archive;free, online;cross-sectional
+Swiss Household Panel;citizens;http://forscenter.ch/en/our-surveys/swiss-household-panel/;;Switzerland;1999;;;;panel
+Understanding Society;citizens;https://www.understandingsociety.ac.uk/documentation/mainstage;;;;;;;
+World Values Survey;citizens;http://www.worldvaluessurvey.org/wvs.jsp;Political attitudes;world;1981;;public archive;free, online;cross-sectional
