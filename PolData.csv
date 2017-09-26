@@ -4,28 +4,52 @@ American National Election Studies;citizens;http://www.electionstudies.org/;;USA
 Americas Barometer;citizens;http://www.vanderbilt.edu/lapop/about-americasbarometer.php;;Latin America;2004;;;;
 Arab Barometer;citizens;http://arabbarometer.org/;;Middle East;2006;;;;
 Asian Barometer;citizens;http://www.asianbarometer.org/;;Asia;2001;;;;
+British Election Study;citizens;http://www.britishelectionstudy.com/;;Britain;1964;;;;
 British Household Panel Survey;citizens;https://www.iser.essex.ac.uk/bhps;;;1991;2009;;;panel
+British Social Attitudes;citizens;http://www.natcen.ac.uk/our-research/research/british-social-attitudes/;;Britain;;;;;
+Cabinets and Coalition Bargaining;cabinets;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
 Caucasus Barometer;citizens;http://caucasusbarometer.org/en/datasets/;;Caucasus;2008;;;;
+Chapel Hill Expert Survey;parties and politicians;https://www.chesdata.eu/our-surveys/;;;;;;;
+Coalition Governments in Western Europe;cabinets;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
+Comparative Constitutions Project;constitutions;http://comparativeconstitutionsproject.org/download-data/;;;;;;;
 Comparative Political Data Set;political institutions;http://www.cpds-data.org/;;;;;;;
 Comparative Study of Electoral Systems;citizens;http://www.cses.org/;;;;;;;
 Correlates of War;international relations;http://www.correlatesofwar.org/;;world;1816;2007;public archive;free, online;
 Danish National Election Study;citizens;http://www.valgprojektet.dk/default.asp?l=eng;;Denmark;1971;;;;
 Democratic Accountability and Citizen-Politician Linkages;democracy;https://sites.duke.edu/democracylinkage/data/;;;;;;;
+EPRG MEP Surveys;parties and politicians;https://mepsurvey.eu/data-objects/data/;;;;;;;
 Eurobarometer;citizens;http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm;;;;;;;
-Euromanifesto;governments and parties;http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/;;Europe;1979;;;;
+Euromanifesto;parties and politicians;http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/;;Europe;1979;;;;
+European Central Bank: Statistical Data Warehouse;economics;http://sdw.ecb.europa.eu/;;;;;;;
 European Election Studies: Voter Study;citizens;http://europeanelectionstudies.net/ees-study-components/voter-study/;;Europe;1979;;;;
 European Election Study: Elite Study;political elites;http://europeanelectionstudies.net/ees-study-components/elite-study/;;Europe;1979;;;;
 European Election Study: Media Study;media;http://europeanelectionstudies.net/ees-study-components/media-study/;;Europe;1979;2009;;;
 European Quality of Life;citizens;https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys;;;;;;;
+European Representative Democracy;cabinets;http://www.erdda.se/index.php/projects/erd/data-archive;;;;;;free, online;
 European Social Survey;citizens;http://www.europeansocialsurvey.org/;Media and social trust, Subjective well-being, Human values, Immigration, Citizen involvement, Health and care, Economic morality, Family work and well-being, Timing of life, Personal well-being, Welfare attitudes, Ageism, Justice, Democracy, Social inequalities in health, Public attitudes to climate change;Europe;2002;;public archive;free, online;cross-sectional
 European Values Study;citizens;http://www.europeanvaluesstudy.eu/;;;;;;;
 General Social Survey_;citizens;http://gss.norc.org/;;USA;1972;;public archive;free, online;cross-sectional, panel
+German General Social Survey;citizens;https://www.gesis.org/en/institute/competence-centers/rdc-allbus//;;Germany;1980;;;;
 German Socio-Economic Panel;citizens;https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP;;;;;;;panel
+Immigration Policies in Comparison;policy;http://www.impic-project.eu/data/;;;;;;;
+Institutions and Elections Project;political institutions;https://havardhegre.net/iaep/;;;;;;free, online;
 International Social Survey Programme;citizens;http://www.issp.org/menu-top/home/;;;;;;;
 Latinobarometro;citizens;http://www.latinobarometro.org/lat.jsp;;Latin America;1995;;;;
 Longitudinal Internet Studies for the Social sciences;citizens;https://www.lissdata.nl/;Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation;Netherlands;2007;;public archive;free, letter;panel
-Parties, Governments and Legislatures Dataset;governments and parties;http://www.edac.eu/policies_desc.cfm?v_id=112;;;;;;;
+Manifesto Project Main Dataset (Party Preferences);parties and politicians;https://manifesto-project.wzb.eu/datasets;;;;;;;
+Multiculturalism Policies in Contemporary Democracies;policy;http://www.queensu.ca/mcp/about/definitionsdata;;;;;;;
+Parliaments and governments database;cabinets;http://www.parlgov.org/;;;;;;;
+Parties, Governments and Legislatures Dataset;parties and politicians;http://www.edac.eu/policies_desc.cfm?v_id=112;;;;;;;
+Party Government Data Set;cabinets;https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx;;Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (IVth and Vth republics), Germany, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland , Turkey, United Kingdom;1945;2008;;free, online;
+Party Policy in Modern Democracies;parties and politicians;http://www.tcd.ie/Political_Science/ppmd/;;;;;;;
 Pew Global Attitudes Survey;citizens;http://www.pewglobal.org/datasets/;Attitudes;world;2001;;public archive;free, online;cross-sectional
+Polity IV Project: Political Regime Characteristics and Transitions;democracy;http://www.systemicpeace.org/polity/polity4.htm;;;1800;2013;;;
+Portfolio Allocation in Western Europe;cabinets;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
+Quality of Government;democracy;http://qog.pol.gu.se/data/datadownloads/qogstandarddata;;;;;;;
+Swedish National Election Studies;citizens;http://valforskning.pol.gu.se/english;;Sweden;1956;;;;cross-sectional
 Swiss Household Panel;citizens;http://forscenter.ch/en/our-surveys/swiss-household-panel/;;Switzerland;1999;;;;panel
 Understanding Society;citizens;https://www.understandingsociety.ac.uk/documentation/mainstage;;;;;;;
+Uppsala Conflict Data Program;international relations;http://ucdp.uu.se/downloads/;;;;;;;
+Veto Players Data;cabinets;https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/;;;;;;;
+Women in National Parliaments;parties and politicians;http://www.ipu.org/wmn-e/world-arc.htm;;;;;;;
 World Values Survey;citizens;http://www.worldvaluessurvey.org/wvs.jsp;Political attitudes;world;1981;;public archive;free, online;cross-sectional
