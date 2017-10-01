@@ -31,14 +31,18 @@ European Values Study;citizens;http://www.europeanvaluesstudy.eu/;;;;;;;
 General Social Survey_;citizens;http://gss.norc.org/;;USA;1972;;public archive;free, online;cross-sectional, panel
 German General Social Survey;citizens;https://www.gesis.org/en/institute/competence-centers/rdc-allbus//;;Germany;1980;;;;
 German Socio-Economic Panel;citizens;https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP;;;;;;;panel
+Global Terrorism Database;international relations;http://www.start.umd.edu/gtd/;;world;;;;;
+Governments Data, 1950-1995;cabinets;https://www.binghamton.edu/political-science/research.html/;;;;;;;
 Immigration Policies in Comparison;policy;http://www.impic-project.eu/data/;;;;;;;
 Institutions and Elections Project;political institutions;https://havardhegre.net/iaep/;;;;;;free, online;
 International Social Survey Programme;citizens;http://www.issp.org/menu-top/home/;;;;;;;
 Latinobarometro;citizens;http://www.latinobarometro.org/lat.jsp;;Latin America;1995;;;;
 Longitudinal Internet Studies for the Social sciences;citizens;https://www.lissdata.nl/;Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation;Netherlands;2007;;public archive;free, letter;panel
 Manifesto Project Main Dataset (Party Preferences);parties and politicians;https://manifesto-project.wzb.eu/datasets;;;;;;;
+Median Voter;citizens;https://www.binghamton.edu/political-science/research.html/;;;;;;;
 Multiculturalism Policies in Contemporary Democracies;policy;http://www.queensu.ca/mcp/about/definitionsdata;;;;;;;
 Parliaments and governments database;cabinets;http://www.parlgov.org/;;;;;;;
+Parties in Parliaments and Governments, 1950-1995;cabinets;https://www.binghamton.edu/political-science/research.html/;;;;;;;
 Parties, Governments and Legislatures Dataset;parties and politicians;http://www.edac.eu/policies_desc.cfm?v_id=112;;;;;;;
 Party Government Data Set;cabinets;https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx;;Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (IVth and Vth republics), Germany, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland , Turkey, United Kingdom;1945;2008;;free, online;
 Party Policy in Modern Democracies;parties and politicians;http://www.tcd.ie/Political_Science/ppmd/;;;;;;;
@@ -46,6 +50,7 @@ Pew Global Attitudes Survey;citizens;http://www.pewglobal.org/datasets/;Attitude
 Polity IV Project: Political Regime Characteristics and Transitions;democracy;http://www.systemicpeace.org/polity/polity4.htm;;;1800;2013;;;
 Portfolio Allocation in Western Europe;cabinets;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
 Quality of Government;democracy;http://qog.pol.gu.se/data/datadownloads/qogstandarddata;;;;;;;
+Seats and Votes, 1950-1995;parties and politicians;https://www.binghamton.edu/political-science/research.html/;;;;;;;
 Swedish National Election Studies;citizens;http://valforskning.pol.gu.se/english;;Sweden;1956;;;;cross-sectional
 Swiss Household Panel;citizens;http://forscenter.ch/en/our-surveys/swiss-household-panel/;;Switzerland;1999;;;;panel
 Understanding Society;citizens;https://www.understandingsociety.ac.uk/documentation/mainstage;;;;;;;

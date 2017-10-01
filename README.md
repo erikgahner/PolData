@@ -27,7 +27,9 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
+- [Governments Data, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Parliaments and governments database](http://www.parlgov.org/)
+- [Parties in Parliaments and Governments, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Party Government Data Set](https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx)
 - [Portfolio Allocation in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Veto Players Data](https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/)
@@ -67,6 +69,10 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Swiss Household Panel](http://forscenter.ch/en/our-surveys/swiss-household-panel/)
 - [Understanding Society](https://www.understandingsociety.ac.uk/documentation/mainstage)
 
+#### Aggregated
+
+- [Median Voter](https://www.binghamton.edu/political-science/research.html/)
+
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
@@ -84,6 +90,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
+- [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
 
 ### Democracy
@@ -101,6 +108,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### International relations
 
 - [Correlates of War](http://www.correlatesofwar.org/)
+- [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 
 ### Media
