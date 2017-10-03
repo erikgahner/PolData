@@ -3,7 +3,9 @@ Afrobarometer;citizens;http://www.afrobarometer.org/;;Africa;1999;;;;
 American National Election Studies;citizens;http://www.electionstudies.org/;;USA;1948;;public archive;free, online;cross-sectional, panel
 Americas Barometer;citizens;http://www.vanderbilt.edu/lapop/about-americasbarometer.php;;Latin America;2004;;;;
 Arab Barometer;citizens;http://arabbarometer.org/;;Middle East;2006;;;;
+Archigos: A Data Base on Leaders 1875-2004;political elites;http://www.rochester.edu/college/faculty/hgoemans/data.htm;;;;;;;
 Asian Barometer;citizens;http://www.asianbarometer.org/;;Asia;2001;;;;
+Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010;democracy;https://sites.google.com/site/mkmtwo/data;;;;;;;
 British Election Study;citizens;http://www.britishelectionstudy.com/;;Britain;1964;;;;
 British Household Panel Survey;citizens;https://www.iser.essex.ac.uk/bhps;;;1991;2009;;;panel
 British Social Attitudes;citizens;http://www.natcen.ac.uk/our-research/research/british-social-attitudes/;;Britain;;;;;
@@ -11,16 +13,25 @@ Cabinets and Coalition Bargaining;cabinets;http://www.erdda.se/index.php/project
 Caucasus Barometer;citizens;http://caucasusbarometer.org/en/datasets/;;Caucasus;2008;;;;
 Chapel Hill Expert Survey;parties and politicians;https://www.chesdata.eu/our-surveys/;;;;;;;
 Coalition Governments in Western Europe;cabinets;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
+Comparative Agendas Project;parties and politicians;http://www.comparativeagendas.net/datasets_codebooks;;;;;;;
+Comparative Agendas Project: Media;media;http://www.comparativeagendas.net/datasets_codebooks;;Belgium, Hungary, Spain, State of Pennsylvania, Switzerland, United Kingdom, United States;;;;;
+Comparative Agendas Project: Public Opinion & Interest Groups;citizens;http://www.comparativeagendas.net/datasets_codebooks;;Hungary, Switzerland, United Kingdom, United States;;;;;
 Comparative Constitutions Project;constitutions;http://comparativeconstitutionsproject.org/download-data/;;;;;;;
+Comparative Parties Data Set;parties and politicians;http://www.marquette.edu/polisci/faculty_swank.shtml;;;;;;;
 Comparative Political Data Set;political institutions;http://www.cpds-data.org/;;;;;;;
 Comparative Study of Electoral Systems;citizens;http://www.cses.org/;;;;;;;
+Comparative Welfare Entitlements Dataset;policy;http://cwed2.org/download.php;;;;;;;
+Comparative Welfare States Data Set;policy;http://www.lisdatacenter.org/resources/other-databases/;;;1960;2011;public archive;free;
+Constituency-Level Elections Archive;elections;http://www.electiondataarchive.org/;;;;;;;
 Correlates of War;international relations;http://www.correlatesofwar.org/;;world;1816;2007;public archive;free, online;
 Danish National Election Study;citizens;http://www.valgprojektet.dk/default.asp?l=eng;;Denmark;1971;;;;
 Democratic Accountability and Citizen-Politician Linkages;democracy;https://sites.duke.edu/democracylinkage/data/;;;;;;;
+Election Studies Eastern Europe;citizens;https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/;;Belarus, Bulgaria, the Czech Republic, Croatia, Macedonia, Poland, Serbia, Slovakia, Slovenia, Ukraine;;;;;
 EPRG MEP Surveys;parties and politicians;https://mepsurvey.eu/data-objects/data/;;;;;;;
 Eurobarometer;citizens;http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm;;;;;;;
 Euromanifesto;parties and politicians;http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/;;Europe;1979;;;;
 European Central Bank: Statistical Data Warehouse;economics;http://sdw.ecb.europa.eu/;;;;;;;
+European Election Database;elections;http://www.nsd.uib.no/european_election_database;;;;;;;
 European Election Studies: Voter Study;citizens;http://europeanelectionstudies.net/ees-study-components/voter-study/;;Europe;1979;;;;
 European Election Study: Elite Study;political elites;http://europeanelectionstudies.net/ees-study-components/elite-study/;;Europe;1979;;;;
 European Election Study: Media Study;media;http://europeanelectionstudies.net/ees-study-components/media-study/;;Europe;1979;2009;;;
@@ -47,14 +58,20 @@ Parties, Governments and Legislatures Dataset;parties and politicians;http://www
 Party Government Data Set;cabinets;https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx;;Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (IVth and Vth republics), Germany, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland , Turkey, United Kingdom;1945;2008;;free, online;
 Party Policy in Modern Democracies;parties and politicians;http://www.tcd.ie/Political_Science/ppmd/;;;;;;;
 Pew Global Attitudes Survey;citizens;http://www.pewglobal.org/datasets/;Attitudes;world;2001;;public archive;free, online;cross-sectional
+PIP: Left-Right Party Scores;parties and politicians;http://comparativepolitics.uni-greifswald.de/data.html;;;;;;;
 Polity IV Project: Political Regime Characteristics and Transitions;democracy;http://www.systemicpeace.org/polity/polity4.htm;;;1800;2013;;;
 Portfolio Allocation in Western Europe;cabinets;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
 Quality of Government;democracy;http://qog.pol.gu.se/data/datadownloads/qogstandarddata;;;;;;;
 Seats and Votes, 1950-1995;parties and politicians;https://www.binghamton.edu/political-science/research.html/;;;;;;;
+Social Citizenship Indicator Program;policy;http://www.spin.su.se/datasets/scip;;;;;;;
 Swedish National Election Studies;citizens;http://valforskning.pol.gu.se/english;;Sweden;1956;;;;cross-sectional
 Swiss Household Panel;citizens;http://forscenter.ch/en/our-surveys/swiss-household-panel/;;Switzerland;1999;;;;panel
+The 'Most Important Problem' Dataset;citizens;http://web.missouri.edu/~williamslaro/mipdata.html;;;;;;;
+The CIRI Human Rights Dataset;international relations;http://www.humanrightsdata.com/p/data-documentation.html;;;;;;;
 Understanding Society;citizens;https://www.understandingsociety.ac.uk/documentation/mainstage;;;;;;;
 Uppsala Conflict Data Program;international relations;http://ucdp.uu.se/downloads/;;;;;;;
+Vanhanen's index of democracy;democracy;https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/;;;;;;;
 Veto Players Data;cabinets;https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/;;;;;;;
+Voter Turnout Database;elections;https://www.idea.int/data-tools/data/voter-turnout;;;;;;;
 Women in National Parliaments;parties and politicians;http://www.ipu.org/wmn-e/world-arc.htm;;;;;;;
 World Values Survey;citizens;http://www.worldvaluessurvey.org/wvs.jsp;Political attitudes;world;1981;;public archive;free, online;cross-sectional
