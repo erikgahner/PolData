@@ -3,7 +3,7 @@ A dataset with political datasets
 
 ### Description
 
-A collection of political datasets.
+A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`) with detailed information on the topics, coverage and availability of the respective datasets.
 
 ## Variables in the dataset
 
@@ -84,6 +84,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Political institutions
 
 - [Comparative Political Data Set](http://www.cpds-data.org/)
+- [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
 - [Institutions and Elections Project](https://havardhegre.net/iaep/)
 
 ### Parties and politicians
@@ -114,6 +115,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Elections
 
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
+- [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
@@ -133,6 +135,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
+- [fRDB-IZA Social Reforms Database](http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027)
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Multiculturalism Policies in Contemporary Democracies](http://www.queensu.ca/mcp/about/definitionsdata)
 - [Social Citizenship Indicator Program](http://www.spin.su.se/datasets/scip)
