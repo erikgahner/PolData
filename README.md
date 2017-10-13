@@ -16,6 +16,13 @@ A collection of political datasets. The datasets are listed below within specifi
 - `year_end` = Time coverage, year end
 - `availability` = Availability of dataset
 - `registration` = Requirements for data access
+- `codebook` = URL to documentation (usually `.pdf`)
+- `file_csv` = URL to dataset (`.csv`)
+- `file_dta` = URL to dataset (`.dta`)
+- `file_sav` = URL to dataset (`.sav`)
+- `file_excel` = URL to dataset (Excel)
+- `file_r` = URL to dataset (`.Rdata`)
+- `file_zip` = URL to data package (`.zip`)
 - `note` = Additional info
 
 #### Something missing?
