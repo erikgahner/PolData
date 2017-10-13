@@ -22,8 +22,9 @@ A collection of political datasets. The datasets are listed below within specifi
 
 Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
-### Cabinets
+### Cabinets and parliaments
 
+- [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
@@ -80,15 +81,21 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
+- [Religion and State Project Constitutions Dataset](http://www.thearda.com/archive/files/Descriptions/RASCONS.asp)
 
 ### Political institutions
 
 - [Comparative Political Data Set](http://www.cpds-data.org/)
 - [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
+- [Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts](http://www.uva-aias.net/en/ictwss)
+- [Institutional Quality Dataset](https://sites.google.com/site/aljazkuncic/research)
 - [Institutions and Elections Project](https://havardhegre.net/iaep/)
+- [Rule of Law Index](https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data)
+- [The Political Constraint Index](https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/)
 
 ### Parties and politicians
 
+- [Age, gender and profession of parliamentarians](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Chapel Hill Expert Survey](https://www.chesdata.eu/our-surveys/)
 - [Comparative Agendas Project](http://www.comparativeagendas.net/datasets_codebooks)
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)
@@ -102,27 +109,58 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Democracy
 
+- [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
 - [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
+- [Electoral Systems and the Personal Vote](http://hdl.handle.net/1902.1/17901)
 - [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
-- [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 - [Vanhanen's index of democracy](https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/)
+- [Varieties of Democracy](https://www.v-dem.net/en/data/)
+
+### Governance
+
+- [Administrative Capacities](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
+- [Corruption Perceptions Index](https://www.transparency.org/research/cpi/)
+- [Democratic Innovations Data](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
+- [European Union Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
+- [Global Integrity Report](https://www.globalintegrity.org/downloads/)
+- [Governance Challenges Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
+- [Ibrahim Index of African Governance](http://mo.ibrahim.foundation/iiag/downloads/)
+- [Infrastructure Governance Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
+- [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
+- [The Worldwide Governance Indicators](https://data.worldbank.org/data-catalog/worldwide-governance-indicators)
 
 ### Economics
 
+- [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
+- [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
+- [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
+- [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
+- [World Wealth and Income Database](http://wid.world/data/)
 
 ### Elections
 
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
+- [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
+- [Perceptions of Electoral Integrity](https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
 ### International relations
 
+- [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Correlates of War](http://www.correlatesofwar.org/)
+- [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
+- [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
+- [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
+- [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
+- [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
+- [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
+- [State Failure Problem Set](http://www.systemicpeace.org/inscrdata.html)
+- [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 
@@ -130,12 +168,14 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Comparative Agendas Project: Media](http://www.comparativeagendas.net/datasets_codebooks)
 - [European Election Study: Media Study](http://europeanelectionstudies.net/ees-study-components/media-study/)
+- [World Press Freedom Index](https://rsf.org/en/ranking_table)
 
 ### Policy
 
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
 - [fRDB-IZA Social Reforms Database](http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027)
+- [Government Revenue Dataset](https://www.wider.unu.edu/database/additional-data-files-grd)
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Multiculturalism Policies in Contemporary Democracies](http://www.queensu.ca/mcp/about/definitionsdata)
 - [Social Citizenship Indicator Program](http://www.spin.su.se/datasets/scip)
@@ -145,14 +185,23 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 
+### Other
+
+- [Environmental Performance Index](http://epi.yale.edu/downloads)
+- [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
+- [KOF Globalization Index](http://globalization.kof.ethz.ch/)
+- [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
+
 ### Additional overviews of datasets
 
 - [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) (hundres of datasets, political and non-political)
 - [Data on EU Legislative Politics](http://www.elprg.eu/data.htm)
+- [Economic Data freely available online](https://www.economicsnetwork.ac.uk/data_sets)
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
 - [ERDDA: Comparative links](http://www.erdda.se/index.php/comparative-links)
 - [European Representative Democracy Data Archive](http://www.erdda.se/)
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
+- [International IDEA](https://www.idea.int/data-tools)
 - [Norwegian Centre for Research Data: Data Services](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 - [The MacroDataGuide](http://www.nsd.uib.no/macrodataguide/index.html)
 - [Quantitative Methods Initiative Datasets](http://www.quantitativemethods.ac.uk/datasets/)
