@@ -8,6 +8,7 @@ Americas Barometer;citizens;http://www.vanderbilt.edu/lapop/about-americasbarome
 Arab Barometer;citizens;http://arabbarometer.org/;;Middle East;2006;;;;
 Archigos: A Data Base on Leaders 1875-2004;political elites;http://www.rochester.edu/college/faculty/hgoemans/data.htm;;;;;;;
 Asian Barometer;citizens;http://www.asianbarometer.org/;;Asia;2001;;;;
+Austrian National Election Study;citizens;http://www.autnes.at/en/data-download/;;Austria;2002;;public archive;free, registration;
 Authoritarian Regimes Dataset;democracy;https://sites.google.com/site/authoritarianregimedataset/data;;;1972;2014;public archive;free, online;
 Basic data on parliaments;cabinets and parliaments;http://archive.ipu.org/gpr-e/downloads/index.htm;;;;;public archive;free, online;
 Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010;democracy;https://sites.google.com/site/mkmtwo/data;;;;;;;
@@ -15,6 +16,7 @@ British Election Study;citizens;http://www.britishelectionstudy.com/;;Britain;19
 British Household Panel Survey;citizens;https://www.iser.essex.ac.uk/bhps;;;1991;2009;;;panel
 British Social Attitudes;citizens;http://www.natcen.ac.uk/our-research/research/british-social-attitudes/;;Britain;;;;;
 Cabinets and Coalition Bargaining;cabinets and parliaments;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
+Canadian Election Study;citizens;http://ces-eec.arts.ubc.ca/english-section/surveys/;;Canada;2004;;public archive;free, online;
 Caucasus Barometer;citizens;http://caucasusbarometer.org/en/datasets/;;Caucasus;2008;;;;
 Chapel Hill Expert Survey;parties and politicians;https://www.chesdata.eu/our-surveys/;;;;;;;
 Coalition Governments in Western Europe;cabinets and parliaments;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
@@ -61,6 +63,7 @@ fRDB-IZA Social Reforms Database;policy;http://www.frdb.org/page/data/scheda/frd
 General Social Survey_;citizens;http://gss.norc.org/;;USA;1972;;public archive;free, online;
 German General Social Survey;citizens;https://www.gesis.org/en/institute/competence-centers/rdc-allbus//;;Germany;1980;;;;
 German Socio-Economic Panel;citizens;https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP;;;;;;;
+Global Elections Database;elections;http://www.globalelectionsdatabase.com/index.php/datasets;;world;;;public archive;free, registration;
 Global Integrity Report;governance;https://www.globalintegrity.org/downloads/;;;;;public archive;free, online;
 Global Terrorism Database;international relations;http://www.start.umd.edu/gtd/;;world;;;;;
 Governance Challenges Indicators;governance;https://www.hertie-school.org/en/governancereport/govreport-indicators/;;;;;public archive;free, online;
@@ -74,6 +77,7 @@ Institutional Characteristics of Trade Unions, Wage Setting, State Intervention 
 Institutional Quality Dataset;political institutions;https://sites.google.com/site/aljazkuncic/research;;;1990;2010;public archive;free, online;
 Institutions and Elections Project;political institutions;https://havardhegre.net/iaep/;;;;;;free, online;panel
 International Social Survey Programme;citizens;http://www.issp.org/menu-top/home/;;;;;;;
+Israel National Election Studies;citizens;http://www.ines.tau.ac.il/elections.html;;Israel;1969;;public archive;free, online form;
 KOF Globalization Index;other;http://globalization.kof.ethz.ch/;economic globalization, political globalization, social globalization;207 countries;1970;2014;public archive;free, online;
 Latinobarometro;citizens;http://www.latinobarometro.org/lat.jsp;;Latin America;1995;;;;
 Longitudinal Internet Studies for the Social sciences;citizens;https://www.lissdata.nl/;Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation;Netherlands;2007;;public archive;free, letter;
@@ -83,6 +87,7 @@ Manifesto Project Main Dataset (Party Preferences);parties and politicians;https
 Measuring Income Inequality Database;economics;http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20699070~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html;;138 countries;1890;1996;public archive;free, online;
 Median Voter;citizens;https://www.binghamton.edu/political-science/research.html/;;;;;;;
 Memberships in Conventional Intergovernmental Organizations;international relations;http://www.systemicpeace.org/inscrdata.html;;;1952;1997;public archive;free, online;
+Minorities at Risk;international relations;http://www.mar.umd.edu/mar_data.asp;;;2004;2006;public archive;free, online;
 Multiculturalism Policies in Contemporary Democracies;policy;http://www.queensu.ca/mcp/about/definitionsdata;;;;;;;
 National Accounts Main Aggregates Database;economics;https://unstats.un.org/unsd/snaama/dnlList.asp;;;;;;;
 National Elections Across Democracy and Autocracy;elections;http://www.nelda.co/;;world;1960;2006;public archive;free, online form;
@@ -98,16 +103,21 @@ PIP: Left-Right Party Scores;parties and politicians;http://comparativepolitics.
 Political Terror Scale;international relations;http://www.politicalterrorscale.org/Data/Download.html;;;1976;2016;public archive;free, online;
 Polity IV Project: Political Regime Characteristics and Transitions;democracy;http://www.systemicpeace.org/polity/polity4.htm;;;1800;2013;;;
 Portfolio Allocation in Western Europe;cabinets and parliaments;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
+Protest events;other;https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/;;France, Germany, Switzerland, the Netherlands;1975;1989;public archive;free, online;
+Protest events in the Federal Republic of Germany;other;https://www.wzb.eu/en/research/completed-research-programs/civil-society-and-political-mobilization/projects/prodat-dokumentation-un;;Germany;1950;1996;public archive;free, online;
 Quality of Government;governance;http://qog.pol.gu.se/data/datadownloads/qogstandarddata;;;;;;;cross-sectional
+Regional Authority Index;other;https://www.arjanschakel.nl/regauth_dat.html;;81 countries;1950;2010;public archive;free, online;
 Religion and State Project Constitutions Dataset;constitutions;http://www.thearda.com/archive/files/Descriptions/RASCONS.asp;;;1990;2008;;;
 Rule of Law Index;political institutions;https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data;;;;;public archive;free, online;
 Seats and Votes, 1950-1995;parties and politicians;https://www.binghamton.edu/political-science/research.html/;;;;;;;panel
 Social Citizenship Indicator Program;policy;http://www.spin.su.se/datasets/scip;;;;;;;
+Social Conflict Analysis Database;international relations;https://www.strausscenter.org/scad.html;;Africa, Mexico, Central America, the Caribbean;1990;2015;public archive;free, online form;
 State Antiquity Index;other;http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm;;149 countries;;;public archive;free, online;
 State Failure Problem Set;international relations;http://www.systemicpeace.org/inscrdata.html;;;1955;2016;public archive;free, online;
 State Fragility Index;international relations;http://www.systemicpeace.org/inscrdata.html;;;1995;2016;public archive;free, online;
 Swedish National Election Studies;citizens;http://valforskning.pol.gu.se/english;;Sweden;1956;;;;
 Swiss Household Panel;citizens;http://forscenter.ch/en/our-surveys/swiss-household-panel/;;Switzerland;1999;;;;
+Terrorism in Western Europe: Events Data;international relations;http://folk.uib.no/sspje/tweed.htm;;18 countries;1950;2004;public archive;free, online;
 The 'Most Important Problem' Dataset;citizens;http://web.missouri.edu/~williamslaro/mipdata.html;;;;;;;
 The CIRI Human Rights Dataset;international relations;http://www.humanrightsdata.com/p/data-documentation.html;;;;;;;
 The Political Constraint Index;political institutions;https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/;;;;;public archive;free, online;
