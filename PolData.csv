@@ -32,6 +32,7 @@ Comparative Welfare States Data Set;policy;http://www.lisdatacenter.org/resource
 Constituency-Level Elections Archive;elections;http://www.electiondataarchive.org/;;;;;;;
 Correlates of War;international relations;http://www.correlatesofwar.org/;;world;1816;2007;public archive;free, online;
 Corruption Perceptions Index;governance;https://www.transparency.org/research/cpi/;;;1995;;public archive;free, online;
+Danish General Election Results;elections;https://github.com/Straubinger/folketingsvalg;;Denmark;1953;;public archive;free, online;
 Danish National Election Study;citizens;http://www.valgprojektet.dk/default.asp?l=eng;;Denmark;1971;;;;
 Database of Political Institutions;political institutions;http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html;;180 countries;1975;2015;public archive;free, online;
 Democratic Accountability and Citizen-Politician Linkages;democracy;https://sites.duke.edu/democracylinkage/data/;;;;;;;
@@ -78,6 +79,7 @@ Institutional Quality Dataset;political institutions;https://sites.google.com/si
 Institutions and Elections Project;political institutions;https://havardhegre.net/iaep/;;;;;;free, online;panel
 International Social Survey Programme;citizens;http://www.issp.org/menu-top/home/;;;;;;;
 Israel National Election Studies;citizens;http://www.ines.tau.ac.il/elections.html;;Israel;1969;;public archive;free, online form;
+Judicial Checks and Balances;constitutions;http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/;;71 countries;;;public archive;free, online;
 KOF Globalization Index;other;http://globalization.kof.ethz.ch/;economic globalization, political globalization, social globalization;207 countries;1970;2014;public archive;free, online;
 Latinobarometro;citizens;http://www.latinobarometro.org/lat.jsp;;Latin America;1995;;;;
 Longitudinal Internet Studies for the Social sciences;citizens;https://www.lissdata.nl/;Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation;Netherlands;2007;;public archive;free, letter;
@@ -105,6 +107,7 @@ Polity IV Project: Political Regime Characteristics and Transitions;democracy;ht
 Portfolio Allocation in Western Europe;cabinets and parliaments;http://www.erdda.se/index.php/projects/cpd/data-archive;;;;;;free, online;
 Protest events;other;https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/;;France, Germany, Switzerland, the Netherlands;1975;1989;public archive;free, online;
 Protest events in the Federal Republic of Germany;other;https://www.wzb.eu/en/research/completed-research-programs/civil-society-and-political-mobilization/projects/prodat-dokumentation-un;;Germany;1950;1996;public archive;free, online;
+Public support for political parties in Denmark;citizens;https://github.com/erikgahner/polls;;Denmark;2010;;public archive;free, online;
 Quality of Government;governance;http://qog.pol.gu.se/data/datadownloads/qogstandarddata;;;;;;;cross-sectional
 Regional Authority Index;other;https://www.arjanschakel.nl/regauth_dat.html;;81 countries;1950;2010;public archive;free, online;
 Religion and State Project Constitutions Dataset;constitutions;http://www.thearda.com/archive/files/Descriptions/RASCONS.asp;;;1990;2008;;;
@@ -116,14 +119,17 @@ State Antiquity Index;other;http://www.brown.edu/Departments/Economics/Faculty/L
 State Failure Problem Set;international relations;http://www.systemicpeace.org/inscrdata.html;;;1955;2016;public archive;free, online;
 State Fragility Index;international relations;http://www.systemicpeace.org/inscrdata.html;;;1995;2016;public archive;free, online;
 Swedish National Election Studies;citizens;http://valforskning.pol.gu.se/english;;Sweden;1956;;;;
+SwedishPolls;citizens;https://github.com/MansMeg/SwedishPolls;;Sweden;1998;;public archive;free, online;
 Swiss Household Panel;citizens;http://forscenter.ch/en/our-surveys/swiss-household-panel/;;Switzerland;1999;;;;
 Terrorism in Western Europe: Events Data;international relations;http://folk.uib.no/sspje/tweed.htm;;18 countries;1950;2004;public archive;free, online;
 The 'Most Important Problem' Dataset;citizens;http://web.missouri.edu/~williamslaro/mipdata.html;;;;;;;
 The CIRI Human Rights Dataset;international relations;http://www.humanrightsdata.com/p/data-documentation.html;;;;;;;
 The Political Constraint Index;political institutions;https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/;;;;;public archive;free, online;
+The Timeline of Elections;citizens;http://doi.org/10.7910/DVN/28856;;45 countries;1942;;public archive;free, online;
 The Worldwide Governance Indicators;governance;https://data.worldbank.org/data-catalog/worldwide-governance-indicators;;;1996;2016;public archive;free, online;
 Understanding Society;citizens;https://www.understandingsociety.ac.uk/documentation/mainstage;;;;;;;
 Uppsala Conflict Data Program;international relations;http://ucdp.uu.se/downloads/;;;;;;;
+US Presidential Elections;elections;https://github.com/zonination/election-history;;USA;1789;;public archive;free, online;
 Vanhanen's index of democracy;democracy;https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/;;;;;;;
 Varieties of Democracy;democracy;https://www.v-dem.net/en/data/;;world;1900;;public archive;free, online;
 Veto Players Data;cabinets and parliaments;https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/;;;;;;;cross-sectional

@@ -83,9 +83,15 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [The 'Most Important Problem' Dataset](http://web.missouri.edu/~williamslaro/mipdata.html)
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
 
+#### Polls, vote intention
+- [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
+- [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
+- [The Timeline of Elections](http://doi.org/10.7910/DVN/28856)
+
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
+- [Judicial Checks and Balances](http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/)
 - [Religion and State Project Constitutions Dataset](http://www.thearda.com/archive/files/Descriptions/RASCONS.asp)
 
 ### Political institutions
@@ -148,10 +154,12 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
+- [Danish General Election Results](https://github.com/Straubinger/folketingsvalg)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
 - [Perceptions of Electoral Integrity](https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2)
+- [US Presidential Elections](https://github.com/zonination/election-history)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
 ### International relations
