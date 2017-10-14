@@ -3,7 +3,7 @@ A dataset with political datasets
 
 ### Description
 
-A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`) with detailed information on the topics, coverage and availability of the respective datasets.
+A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`, `.Rdata`) with detailed information on the topics, coverage and availability of the respective datasets.
 
 ## Variables in the dataset
 
@@ -57,6 +57,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Canadian Election Study](http://ces-eec.arts.ubc.ca/english-section/surveys/)
 - [Caucasus Barometer](http://caucasusbarometer.org/en/datasets/)
 - [Comparative Study of Electoral Systems](http://www.cses.org/)
+- [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Danish National Election Study](http://www.valgprojektet.dk/default.asp?l=eng)
 - [Election Studies Eastern Europe](https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/)
 - [Eurobarometer](http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm)
@@ -77,6 +78,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [American National Election Studies](http://www.electionstudies.org/)
 - [British Household Panel Survey](https://www.iser.essex.ac.uk/bhps)
+- [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Canadian Election Study](http://ces-eec.arts.ubc.ca/english-section/surveys/)
 - [German Socio-Economic Panel](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP)
 - [Israel National Election Studies](http://www.ines.tau.ac.il/elections.html)
@@ -120,6 +122,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [EPRG MEP Surveys](https://mepsurvey.eu/data-objects/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
+- [Norwegian Parliamentary Elections, 1906-2013](https://doi.org/10.18712/NSD-NSD2405-V1)
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
@@ -234,3 +237,6 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Norwegian Centre for Research Data: Data Services](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 - [The MacroDataGuide](http://www.nsd.uib.no/macrodataguide/index.html)
 - [Quantitative Methods Initiative Datasets](http://www.quantitativemethods.ac.uk/datasets/)
+
+### Acknowledgements
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Shiro Kuriwaki and Niclas Darville.

@@ -30,6 +30,7 @@
 "Comparative Welfare Entitlements Dataset","policy","http://cwed2.org/download.php",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Comparative Welfare States Data Set","policy","http://www.lisdatacenter.org/resources/other-databases/",NA,NA,1960,2011,"public archive","free",NA,NA,NA,NA,NA,NA,NA,NA
 "Constituency-Level Elections Archive","elections","http://www.electiondataarchive.org/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cooperative Congressional Election Study","citizens","https://cces.gov.harvard.edu/","Political attitudes, voting behavior, political participation, socio-demographic characteristics","USA",2006,NA,"online","free, no registration",NA,NA,NA,NA,NA,NA,NA,NA
 "Correlates of War","international relations","http://www.correlatesofwar.org/",NA,"world",1816,2007,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Corruption Perceptions Index","governance","https://www.transparency.org/research/cpi/",NA,NA,1995,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Danish General Election Results","elections","https://github.com/Straubinger/folketingsvalg",NA,"Denmark",1953,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
@@ -93,6 +94,7 @@
 "Multiculturalism Policies in Contemporary Democracies","policy","http://www.queensu.ca/mcp/about/definitionsdata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "National Accounts Main Aggregates Database","economics","https://unstats.un.org/unsd/snaama/dnlList.asp",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "National Elections Across Democracy and Autocracy","elections","http://www.nelda.co/",NA,"world",1960,2006,"public archive","free, online form",NA,NA,NA,NA,NA,NA,NA,NA
+"Norwegian Parliamentary Elections, 1906-2013","parties and politicians","https://doi.org/10.18712/NSD-NSD2405-V1","Elections, parliamentary elections, parliamentary candidates, politicians","Norway",1906,2013,"delivered after acceptance of form","free, order form and declaration of secrecy",NA,NA,NA,NA,NA,NA,NA,"Data on candidates running for parliamentary (Storting)."
 "Oil and Gas Data","economics","http://dx.doi.org/10.7910/DVN/ZTPW0Y",NA,NA,1932,2014,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Parliaments and governments database","cabinets and parliaments","http://www.parlgov.org/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Parties in Parliaments and Governments, 1950-1995","cabinets and parliaments","https://www.binghamton.edu/political-science/research.html/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
