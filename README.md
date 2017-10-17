@@ -153,6 +153,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Economics
 
+- [Central Bank Governors](https://www.kof.ethz.ch/services/daten/data-on-central-bank-governors.html)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
@@ -189,6 +190,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
+- [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 
 ### Media

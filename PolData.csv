@@ -18,6 +18,7 @@
 "Cabinets and Coalition Bargaining","cabinets and parliaments","http://www.erdda.se/index.php/projects/cpd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Canadian Election Study","citizens","http://ces-eec.arts.ubc.ca/english-section/surveys/",NA,"Canada",2004,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Caucasus Barometer","citizens","http://caucasusbarometer.org/en/datasets/",NA,"Caucasus",2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Central Bank Governors","economics","https://www.kof.ethz.ch/services/daten/data-on-central-bank-governors.html",NA,"world",1970,NA,"online","free, no registration",NA,NA,NA,NA,"https://www.ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/central_bank_governors/cbg_turnover.xlsx",NA,NA,NA
 "Chapel Hill Expert Survey","parties and politicians","https://www.chesdata.eu/our-surveys/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Coalition Governments in Western Europe","cabinets and parliaments","http://www.erdda.se/index.php/projects/cpd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Comparative Agendas Project","parties and politicians","http://www.comparativeagendas.net/datasets_codebooks",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -130,6 +131,7 @@
 "The Timeline of Elections","citizens","http://doi.org/10.7910/DVN/28856",NA,"45 countries",1942,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "The Worldwide Governance Indicators","governance","https://data.worldbank.org/data-catalog/worldwide-governance-indicators",NA,NA,1996,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Understanding Society","citizens","https://www.understandingsociety.ac.uk/documentation/mainstage",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United Nations Security Council membership","international relations","http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html",NA,"193 countries",1951,NA,"online","free, no registration",NA,NA,NA,NA,"http://www.axel-dreher.de/UNSCdata.xls",NA,NA,NA
 "Uppsala Conflict Data Program","international relations","http://ucdp.uu.se/downloads/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "US Presidential Elections","elections","https://github.com/zonination/election-history",NA,"USA",1789,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Vanhanen's index of democracy","democracy","https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
