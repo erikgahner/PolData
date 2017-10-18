@@ -213,6 +213,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
+- [EUSpeech](http://dx.doi.org/10.7910/DVN/XPCVEI)
 
 ### Other
 
@@ -241,4 +242,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Quantitative Methods Initiative Datasets](http://www.quantitativemethods.ac.uk/datasets/)
 
 ### Acknowledgements
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Shiro Kuriwaki and Niclas Darville.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki and Niclas Darville.
