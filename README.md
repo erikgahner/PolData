@@ -72,6 +72,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Latinobarómetro](http://www.latinobarometro.org/lat.jsp)
 - [Pew Global Attitudes Survey](http://www.pewglobal.org/datasets/)
 - [Swedish National Election Studies](http://valforskning.pol.gu.se/english)
+- [The SOM Institute Cumulative Dataset](https://snd.gu.se/en/catalogue/study/snd0905)
 - [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)
 
 #### Panel
@@ -190,6 +191,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
+- [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 
