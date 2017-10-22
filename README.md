@@ -221,6 +221,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Other
 
+- [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
