@@ -182,6 +182,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
+- [Latent Human Rights Protection Scores](http://dx.doi.org/10.7910/DVN/24872)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
