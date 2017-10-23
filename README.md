@@ -123,6 +123,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [EPRG MEP Surveys](https://mepsurvey.eu/data-objects/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
+- [Members and Activists of Political Parties](https://zenodo.org/record/61234)
 - [Norwegian Parliamentary Elections, 1906-2013](https://doi.org/10.18712/NSD-NSD2405-V1)
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
@@ -200,6 +201,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Comparative Agendas Project: Media](http://www.comparativeagendas.net/datasets_codebooks)
 - [European Election Study: Media Study](http://europeanelectionstudies.net/ees-study-components/media-study/)
+- [Global Media Freedom Dataset](http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx)
 - [World Press Freedom Index](https://rsf.org/en/ranking_table)
 
 ### Policy

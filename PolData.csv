@@ -70,6 +70,7 @@
 "German Socio-Economic Panel","citizens","https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Global Elections Database","elections","http://www.globalelectionsdatabase.com/index.php/datasets",NA,"world",NA,NA,"public archive","free, registration",NA,NA,NA,NA,NA,NA,NA,NA
 "Global Integrity Report","governance","https://www.globalintegrity.org/downloads/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
+"Global Media Freedom Dataset","media","http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx",NA,"196 countries",1948,2012,"online","free, no registration",NA,"http://faculty.uml.edu/Jenifer_whittenwoodring/GMFD_V2.csv",NA,NA,NA,NA,NA,"See also this article for more info https://doi.org/10.1017/psrm.2015.68"
 "Global Terrorism Database","international relations","http://www.start.umd.edu/gtd/",NA,"world",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Governance Challenges Indicators","governance","https://www.hertie-school.org/en/governancereport/govreport-indicators/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Government Revenue Dataset","policy","https://www.wider.unu.edu/database/additional-data-files-grd",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
@@ -94,6 +95,7 @@
 "Manifesto Project Main Dataset (Party Preferences)","parties and politicians","https://manifesto-project.wzb.eu/datasets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Measuring Income Inequality Database","economics","http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20699070~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html",NA,"138 countries",1890,1996,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Median Voter","citizens","https://www.binghamton.edu/political-science/research.html/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Members and Activists of Political Parties","parties and politicians","https://zenodo.org/record/61234",NA,"Australia, Austria, Belgium, Brazil, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Israel, Italy, Lithuania, Mexico, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Spain, Sweden, Switzerland, United Kingdom",1946,2014,"online","free, no registration",NA,NA,NA,NA,"https://zenodo.org/record/61234/files/MAPP_dataset_-_Version_2.0.xlsx",NA,NA,"See also this link for more documentation https://doi.org/10.1057/s41304-016-0098-z"
 "Memberships in Conventional Intergovernmental Organizations","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1952,1997,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Minorities at Risk","international relations","http://www.mar.umd.edu/mar_data.asp",NA,NA,2004,2006,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Multiculturalism Policies in Contemporary Democracies","policy","http://www.queensu.ca/mcp/about/definitionsdata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
