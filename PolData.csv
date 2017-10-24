@@ -112,6 +112,7 @@
 "Pew Global Attitudes Survey","citizens","http://www.pewglobal.org/datasets/","Attitudes","world",2001,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "PIP: Left-Right Party Scores","parties and politicians","http://comparativepolitics.uni-greifswald.de/data.html",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Political Terror Scale","international relations","http://www.politicalterrorscale.org/Data/Download.html",NA,NA,1976,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
+"Political TV Ad Archive","media","http://politicaladarchive.org/data/",NA,"USA",2015,2016,"online","free, no registration",NA,"http://politicaladarchive.org/api/v1/ad_instances?output=csv",NA,NA,NA,NA,NA,NA
 "Polity IV Project: Political Regime Characteristics and Transitions","democracy","http://www.systemicpeace.org/polity/polity4.htm",NA,NA,1800,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Portfolio Allocation in Western Europe","cabinets and parliaments","http://www.erdda.se/index.php/projects/cpd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Protest events","other","https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/",NA,"France, Germany, Switzerland, the Netherlands",1975,1989,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
@@ -146,6 +147,7 @@
 "Varieties of Democracy","democracy","https://www.v-dem.net/en/data/",NA,"world",1900,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "Veto Players Data","cabinets and parliaments","https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cross-sectional"
 "Voter Turnout Database","elections","https://www.idea.int/data-tools/data/voter-turnout",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wesleyan Media Project: Media Advertising","media","http://mediaproject.wesleyan.edu/dataaccess/",NA,"USA",1996,2016,"online","not free",NA,NA,NA,NA,NA,NA,NA,NA
 "Women in National Parliaments","parties and politicians","http://www.ipu.org/wmn-e/world-arc.htm",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "World Migration Matrix","other","http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/world%20migration%20matrix.htm",NA,"165 countries",1500,2000,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
 "World Press Freedom Index","media","https://rsf.org/en/ranking_table",NA,NA,2013,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA

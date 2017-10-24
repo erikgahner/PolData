@@ -202,6 +202,8 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Agendas Project: Media](http://www.comparativeagendas.net/datasets_codebooks)
 - [European Election Study: Media Study](http://europeanelectionstudies.net/ees-study-components/media-study/)
 - [Global Media Freedom Dataset](http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx)
+- [Political TV Ad Archive](http://politicaladarchive.org/data/)
+- [Wesleyan Media Project: Media Advertising](http://mediaproject.wesleyan.edu/dataaccess/)
 - [World Press Freedom Index](https://rsf.org/en/ranking_table)
 
 ### Policy
