@@ -1,155 +1,155 @@
-"name","category","link","topics","coverage","year_start","year_end","availability","registration","codebook","file_csv","file_dta","file_sav","file_excel","file_r","file_zip","note"
-"Administrative Capacities","governance","https://www.hertie-school.org/en/governancereport/govreport-indicators/","Crime control, education provision, civil justice provision, revenue collection capacity, legitimacy and effectiveness, regulatory capacity and quality, coordination capacity, self-monitoring","195 countries",2014,2014,"online","free, no registration","https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_IndicatorsCodebook.pdf","https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.csv","https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.dta",NA,"https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.xlsx","https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.RData",NA,"Comprised of data from multiple organisations and data providers."
-"Afrobarometer","citizens","http://www.afrobarometer.org/","Conflict and crime, democracy, elections, gender equality, governance, identity, macroeconomics and markets, political participation, poverty, public services, social capital, tolerance, citizenship, energy","Africa",1999,NA,"online","free, no registration","http://afrobarometer.org/sites/default/files/data/round-6/merged_round_6_codebook_28082017.pdf",NA,NA,"http://afrobarometer.org/sites/default/files/data/round-6/merged_r6_data_2016_36countries2.sav",NA,NA,NA,"Cross-sectional. Data and codebook link is to the 2016 merged Round 6."
-"Age, gender and profession of parliamentarians","parties and politicians","http://archive.ipu.org/gpr-e/downloads/index.htm","Chamber, gender, age, profession","world",2012,2012,"online","free, no registration","http://archive.ipu.org/gpr-e/downloads/dataset-notes-e.pdf",NA,NA,NA,"http://archive.ipu.org/gpr-e/downloads/data-age-gender-profession-e.xls",NA,NA,NA
-"AidData","international relations","http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0","International development flows","96 countries",1947,2013,"online","free, no registration","http://docs.aiddata.org/ad4/files/inline/readme.pdf",NA,NA,NA,NA,NA,"https://github.com/AidData-WM/public_datasets/releases/download/v3.0/AidDataCore_ResearchRelease_Level1_v3.0.zip",NA
-"American National Election Studies","citizens","http://www.electionstudies.org/","Political attitudes, voting behavior, political participation, socio-demographic characteristics","USA",1948,NA,"online","free, online registration",NA,NA,NA,NA,NA,NA,NA,"Cross-sectional and panel datasets"
-"Americas Barometer","citizens","http://www.vanderbilt.edu/lapop/about-americasbarometer.php","Political attitudes, political participation, socio-demographic characteristics","Latin America",2004,NA,"online","free, no registration (free registration for full data)","http://datasets.americasbarometer.org/database/files/12364388022004-2014%20Grand%20Merge%20Codebook_V3.0_Free_W.pdf",NA,NA,NA,NA,NA,"http://datasets.americasbarometer.org/database/files/746278534AmericasBarometer%20Grand%20Merge%202004-2014%20v3.0_FREE_dta.zip","Cross-sectional dataset. Link to zip file is to the 2004-2014 merged Stata file."
-"Arab Barometer","citizens","http://arabbarometer.org/","Political attitudes, political participation, socio-demographic characteristics","Middle East",2006,NA,"online","free, no registration","http://www.arabbarometer.org/sites/default/files/code_book/AB4%20English%20Codebook%20Final%20English.pdf",NA,"http://www.arabbarometer.org/sites/default/files/Arab_Barometer_Fourth_Wave_English_Data_Set_v1.dta","http://www.arabbarometer.org/sites/default/files/Arab_Barometer_Fourth_Wave_English_Data_Set_v1.sav",NA,NA,NA,"Cross-sectional dataset. Links are to the Arab Barometer IV data files."
-"Archigos: A Data Base on Leaders 1875-2004","political elites","http://www.rochester.edu/college/faculty/hgoemans/data.htm",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Asian Barometer","citizens","http://www.asianbarometer.org/",NA,"Asia",2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Austrian National Election Study","citizens","http://www.autnes.at/en/data-download/",NA,"Austria",2002,NA,"public archive","free, registration",NA,NA,NA,NA,NA,NA,NA,NA
-"Authoritarian Regimes Dataset","democracy","https://sites.google.com/site/authoritarianregimedataset/data",NA,NA,1972,2014,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Basic data on parliaments","cabinets and parliaments","http://archive.ipu.org/gpr-e/downloads/index.htm",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010","democracy","https://sites.google.com/site/mkmtwo/data",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"British Election Study","citizens","http://www.britishelectionstudy.com/",NA,"Britain",1964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"British Household Panel Survey","citizens","https://www.iser.essex.ac.uk/bhps",NA,NA,1991,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,"panel"
-"British Social Attitudes","citizens","http://www.natcen.ac.uk/our-research/research/british-social-attitudes/",NA,"Britain",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Cabinets and Coalition Bargaining","cabinets and parliaments","http://www.erdda.se/index.php/projects/cpd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Canadian Election Study","citizens","http://ces-eec.arts.ubc.ca/english-section/surveys/",NA,"Canada",2004,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Caucasus Barometer","citizens","http://caucasusbarometer.org/en/datasets/",NA,"Caucasus",2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Central Bank Governors","economics","https://www.kof.ethz.ch/services/daten/data-on-central-bank-governors.html",NA,"world",1970,NA,"online","free, no registration",NA,NA,NA,NA,"https://www.ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/central_bank_governors/cbg_turnover.xlsx",NA,NA,NA
-"Chapel Hill Expert Survey","parties and politicians","https://www.chesdata.eu/our-surveys/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Coalition Governments in Western Europe","cabinets and parliaments","http://www.erdda.se/index.php/projects/cpd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Agendas Project","parties and politicians","http://www.comparativeagendas.net/datasets_codebooks",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Agendas Project: Media","media","http://www.comparativeagendas.net/datasets_codebooks",NA,"Belgium, Hungary, Spain, State of Pennsylvania, Switzerland, United Kingdom, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Agendas Project: Public Opinion & Interest Groups","citizens","http://www.comparativeagendas.net/datasets_codebooks",NA,"Hungary, Switzerland, United Kingdom, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Constitutions Project","constitutions","http://comparativeconstitutionsproject.org/download-data/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Parties Data Set","parties and politicians","http://www.marquette.edu/polisci/faculty_swank.shtml",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Political Data Set","political institutions","http://www.cpds-data.org/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Study of Electoral Systems","citizens","http://www.cses.org/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Welfare Entitlements Dataset","policy","http://cwed2.org/download.php",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Comparative Welfare States Data Set","policy","http://www.lisdatacenter.org/resources/other-databases/",NA,NA,1960,2011,"public archive","free",NA,NA,NA,NA,NA,NA,NA,NA
-"Constituency-Level Elections Archive","elections","http://www.electiondataarchive.org/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Cooperative Congressional Election Study","citizens","https://cces.gov.harvard.edu/","Political attitudes, voting behavior, political participation, socio-demographic characteristics","USA",2006,NA,"online","free, no registration",NA,NA,NA,NA,NA,NA,NA,NA
-"Correlates of War","international relations","http://www.correlatesofwar.org/",NA,"world",1816,2007,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Corruption Perceptions Index","governance","https://www.transparency.org/research/cpi/",NA,NA,1995,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Danish General Election Results","elections","https://github.com/Straubinger/folketingsvalg",NA,"Denmark",1953,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Danish National Election Study","citizens","http://www.valgprojektet.dk/default.asp?l=eng",NA,"Denmark",1971,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Database of Political Institutions","political institutions","http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html",NA,"180 countries",1975,2015,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Decision-making in the European Union","other","http://www.robertthomson.info/research/resolving-controversy-in-the-eu",NA,"Europe",NA,NA,"online","free, no registration","http://www.robertthomson.info/wp-content/uploads/2011/01/Issues_list_new_26March2012.pdf","http://www.robertthomson.info/wp-content/uploads/2011/01/deu15_27_26March2012.csv",NA,NA,NA,NA,NA,NA
-"Democratic Accountability and Citizen-Politician Linkages","democracy","https://sites.duke.edu/democracylinkage/data/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Democratic Electoral Systems","elections","http://mattgolder.com/elections",NA,NA,1946,2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Democratic Innovations Data","governance","https://www.hertie-school.org/en/governancereport/govreport-indicators/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Economic Freedom of the World","economics","https://www.fraserinstitute.org/economic-freedom/dataset",NA,NA,1970,2015,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Election Studies Eastern Europe","citizens","https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/",NA,"Belarus, Bulgaria, the Czech Republic, Croatia, Macedonia, Poland, Serbia, Slovakia, Slovenia, Ukraine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Electoral Systems and the Personal Vote","democracy","http://hdl.handle.net/1902.1/17901",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Environmental Performance Index","other","http://epi.yale.edu/downloads",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"EPRG MEP Surveys","parties and politicians","https://mepsurvey.eu/data-objects/data/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Eurobarometer","citizens","http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Euromanifesto","parties and politicians","http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/",NA,"Europe",1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"European Central Bank: Statistical Data Warehouse","economics","http://sdw.ecb.europa.eu/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"European Election Database","elections","http://www.nsd.uib.no/european_election_database",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"European Election Studies: Voter Study","citizens","http://europeanelectionstudies.net/ees-study-components/voter-study/",NA,"Europe",1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"European Election Study: Elite Study","political elites","http://europeanelectionstudies.net/ees-study-components/elite-study/",NA,"Europe",1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"European Election Study: Media Study","media","http://europeanelectionstudies.net/ees-study-components/media-study/",NA,"Europe",1979,2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"European Quality of Life","citizens","https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cross-sectional"
-"European Representative Democracy","cabinets and parliaments","http://www.erdda.se/index.php/projects/erd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"European Social Survey","citizens","http://www.europeansocialsurvey.org/","Media and social trust, Subjective well-being, Human values, Immigration, Citizen involvement, Health and care, Economic morality, Family work and well-being, Timing of life, Personal well-being, Welfare attitudes, Ageism, Justice, Democracy, Social inequalities in health, Public attitudes to climate change","Europe",2002,NA,"public archive","free, online registration",NA,NA,NA,NA,NA,NA,NA,"cross-sectional, panel"
-"European Union Indicators","governance","https://www.hertie-school.org/en/governancereport/govreport-indicators/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"European Values Study","citizens","http://www.europeanvaluesstudy.eu/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Eurostat","other","http://ec.europa.eu/eurostat/data/bulkdownload",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"EUSpeech","political elites","http://dx.doi.org/10.7910/DVN/XPCVEI","Sentiment, political topics, ideology","Europe",2007,2015,"online","free, no registration",NA,NA,NA,NA,NA,NA,NA,"Text data on leader speeches in the European Union."
-"Expanded Trade and GDP Data","economics","http://privatewww.essex.ac.uk/~ksg/exptradegdp.html",NA,NA,1948,2000,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Forcibly Displaced Populations","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1964,2008,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Fractionalization","other","http://www.anderson.ucla.edu/faculty_pages/romain.wacziarg/papersum.html",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Fragile States Index","international relations","http://fundforpeace.org/fsi/data/",NA,NA,2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"fRDB-IZA Social Reforms Database","policy","http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027",NA,NA,1980,2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,"panel"
-"General Social Survey​","citizens","http://gss.norc.org/",NA,"USA",1972,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"German General Social Survey","citizens","https://www.gesis.org/en/institute/competence-centers/rdc-allbus//",NA,"Germany",1980,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"German Socio-Economic Panel","citizens","https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Global Elections Database","elections","http://www.globalelectionsdatabase.com/index.php/datasets",NA,"world",NA,NA,"public archive","free, registration",NA,NA,NA,NA,NA,NA,NA,NA
-"Global Integrity Report","governance","https://www.globalintegrity.org/downloads/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Global Media Freedom Dataset","media","http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx",NA,"196 countries",1948,2012,"online","free, no registration",NA,"http://faculty.uml.edu/Jenifer_whittenwoodring/GMFD_V2.csv",NA,NA,NA,NA,NA,"See also this article for more info https://doi.org/10.1017/psrm.2015.68"
-"Global Terrorism Database","international relations","http://www.start.umd.edu/gtd/",NA,"world",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Governance Challenges Indicators","governance","https://www.hertie-school.org/en/governancereport/govreport-indicators/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Government Revenue Dataset","policy","https://www.wider.unu.edu/database/additional-data-files-grd",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Governments Data, 1950-1995","cabinets and parliaments","https://www.binghamton.edu/political-science/research.html/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"High Casualty Terrorist Bombings","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1989,2017,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Ibrahim Index of African Governance","governance","http://mo.ibrahim.foundation/iiag/downloads/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Immigration Policies in Comparison","policy","http://www.impic-project.eu/data/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Infrastructure Governance Indicators","governance","https://www.hertie-school.org/en/governancereport/govreport-indicators/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts","political institutions","http://www.uva-aias.net/en/ictwss",NA,"51 countries",1960,2014,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Institutional Quality Dataset","political institutions","https://sites.google.com/site/aljazkuncic/research",NA,NA,1990,2010,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Institutions and Elections Project","political institutions","https://havardhegre.net/iaep/",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,"panel"
-"International Social Survey Programme","citizens","http://www.issp.org/menu-top/home/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Israel National Election Studies","citizens","http://www.ines.tau.ac.il/elections.html",NA,"Israel",1969,NA,"public archive","free, online form",NA,NA,NA,NA,NA,NA,NA,NA
-"Judicial Checks and Balances","constitutions","http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/",NA,"71 countries",NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"KOF Globalization Index","other","http://globalization.kof.ethz.ch/","economic globalization, political globalization, social globalization","207 countries",1970,2014,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Latent Human Rights Protection Scores","international relations","http://dx.doi.org/10.7910/DVN/24872","Accountability, repression, human rights","world",1949,2013,"online","free, no registration",NA,NA,NA,NA,NA,NA,NA,NA
-"Latinobarometro","citizens","http://www.latinobarometro.org/lat.jsp",NA,"Latin America",1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Leader Experience and Attribute Descriptions","political elites","http://dx.doi.org/10.7910/DVN/SYZZEY","Military experiences, childhood, education, personal, family life","world",1875,2004,"online","free, no registration",NA,NA,NA,NA,NA,NA,NA,NA
-"Longitudinal Internet Studies for the Social sciences","citizens","https://www.lissdata.nl/","Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation","Netherlands",2007,NA,"public archive","free, letter",NA,NA,NA,NA,NA,NA,NA,NA
-"Maddison Project Database","economics","http://www.ggdc.net/maddison/maddison-project/data.htm",NA,NA,1,2010,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Major Episodes of Political Violence","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1946,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Manifesto Project Main Dataset (Party Preferences)","parties and politicians","https://manifesto-project.wzb.eu/datasets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Measuring Income Inequality Database","economics","http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20699070~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html",NA,"138 countries",1890,1996,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Median Voter","citizens","https://www.binghamton.edu/political-science/research.html/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Members and Activists of Political Parties","parties and politicians","https://zenodo.org/record/61234",NA,"Australia, Austria, Belgium, Brazil, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Israel, Italy, Lithuania, Mexico, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Spain, Sweden, Switzerland, United Kingdom",1946,2014,"online","free, no registration",NA,NA,NA,NA,"https://zenodo.org/record/61234/files/MAPP_dataset_-_Version_2.0.xlsx",NA,NA,"See also this link for more documentation https://doi.org/10.1057/s41304-016-0098-z"
-"Memberships in Conventional Intergovernmental Organizations","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1952,1997,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Minorities at Risk","international relations","http://www.mar.umd.edu/mar_data.asp",NA,NA,2004,2006,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Multiculturalism Policies in Contemporary Democracies","policy","http://www.queensu.ca/mcp/about/definitionsdata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"National Accounts Main Aggregates Database","economics","https://unstats.un.org/unsd/snaama/dnlList.asp",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"National Elections Across Democracy and Autocracy","elections","http://www.nelda.co/",NA,"world",1960,2006,"public archive","free, online form",NA,NA,NA,NA,NA,NA,NA,NA
-"Norwegian Parliamentary Elections, 1906-2013","parties and politicians","https://doi.org/10.18712/NSD-NSD2405-V1","Elections, parliamentary elections, parliamentary candidates, politicians","Norway",1906,2013,"delivered after acceptance of form","free, order form and declaration of secrecy",NA,NA,NA,NA,NA,NA,NA,"Data on candidates running for parliamentary (Storting)."
-"Oil and Gas Data","economics","http://dx.doi.org/10.7910/DVN/ZTPW0Y",NA,NA,1932,2014,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Parliaments and governments database","cabinets and parliaments","http://www.parlgov.org/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Parties in Parliaments and Governments, 1950-1995","cabinets and parliaments","https://www.binghamton.edu/political-science/research.html/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Parties, Governments and Legislatures Dataset","parties and politicians","http://www.edac.eu/policies_desc.cfm?v_id=112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cross-sectional"
-"Party Government Data Set","cabinets and parliaments","https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx",NA,"Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (IVth and Vth republics), Germany, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland , Turkey, United Kingdom",1945,2008,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Party Policy in Modern Democracies","parties and politicians","http://www.tcd.ie/Political_Science/ppmd/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Perceptions of Electoral Integrity","elections","https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2",NA,"world",2012,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Pew Global Attitudes Survey","citizens","http://www.pewglobal.org/datasets/","Attitudes","world",2001,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"PIP: Left-Right Party Scores","parties and politicians","http://comparativepolitics.uni-greifswald.de/data.html",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Political Terror Scale","international relations","http://www.politicalterrorscale.org/Data/Download.html",NA,NA,1976,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Political TV Ad Archive","media","http://politicaladarchive.org/data/",NA,"USA",2015,2016,"online","free, no registration",NA,"http://politicaladarchive.org/api/v1/ad_instances?output=csv",NA,NA,NA,NA,NA,NA
-"Polity IV Project: Political Regime Characteristics and Transitions","democracy","http://www.systemicpeace.org/polity/polity4.htm",NA,NA,1800,2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Portfolio Allocation in Western Europe","cabinets and parliaments","http://www.erdda.se/index.php/projects/cpd/data-archive",NA,NA,NA,NA,NA,"free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Protest events","other","https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/",NA,"France, Germany, Switzerland, the Netherlands",1975,1989,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Protest events in the Federal Republic of Germany","other","https://www.wzb.eu/en/research/completed-research-programs/civil-society-and-political-mobilization/projects/prodat-dokumentation-un",NA,"Germany",1950,1996,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Public support for political parties in Denmark","citizens","https://github.com/erikgahner/polls",NA,"Denmark",2010,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Quality of Government","governance","http://qog.pol.gu.se/data/datadownloads/qogstandarddata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cross-sectional"
-"Regional Authority Index","other","https://www.arjanschakel.nl/regauth_dat.html",NA,"81 countries",1950,2010,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Religion and State Project Constitutions Dataset","constitutions","http://www.thearda.com/archive/files/Descriptions/RASCONS.asp",NA,NA,1990,2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Rule of Law Index","political institutions","https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Seats and Votes, 1950-1995","parties and politicians","https://www.binghamton.edu/political-science/research.html/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"panel"
-"Social Citizenship Indicator Program","policy","http://www.spin.su.se/datasets/scip",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Social Conflict Analysis Database","international relations","https://www.strausscenter.org/scad.html",NA,"Africa, Mexico, Central America, the Caribbean",1990,2015,"public archive","free, online form",NA,NA,NA,NA,NA,NA,NA,NA
-"State Antiquity Index","other","http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm",NA,"149 countries",NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"State Failure Problem Set","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1955,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"State Fragility Index","international relations","http://www.systemicpeace.org/inscrdata.html",NA,NA,1995,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Swedish National Election Studies","citizens","http://valforskning.pol.gu.se/english",NA,"Sweden",1956,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"SwedishPolls","citizens","https://github.com/MansMeg/SwedishPolls",NA,"Sweden",1998,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Swiss Household Panel","citizens","http://forscenter.ch/en/our-surveys/swiss-household-panel/",NA,"Switzerland",1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Terrorism in Western Europe: Events Data","international relations","http://folk.uib.no/sspje/tweed.htm",NA,"18 countries",1950,2004,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"The 'Most Important Problem' Dataset","citizens","http://web.missouri.edu/~williamslaro/mipdata.html",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"The CIRI Human Rights Dataset","international relations","http://www.humanrightsdata.com/p/data-documentation.html",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"The Dyadic Cyber Incident and Dispute Data","international relations","https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset",NA,"world",2000,2014,"online","free, no registration","https://docs.wixstatic.com/ugd/4b99a4_4c7971ea7791464a8ac551fff85fb1f1.pdf",NA,NA,NA,"https://docs.wixstatic.com/ugd/4b99a4_294fde43b8094872999ca63f62972765.xlsx?dn=DCID%20Version%201.1.xlsx",NA,NA,NA
-"The Political Constraint Index","political institutions","https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"The SOM Institute Cumulative Dataset","citizens","https://snd.gu.se/en/catalogue/study/snd0905","General health and well-being, media, information society, employment, unemployment, environment and conservation, political behaviour and attitudes, elections, international politics and organisations, social welfare policy, leisure, tourism and sport, social behaviour and attitudes, cultural activities and participation, Political Science, Media and Communications","Sweden",1986,2015,"delivered after acceptance of form","free, order form","https://snd.gu.se/catalogue/file/5665",NA,NA,NA,NA,NA,NA,NA
-"The Timeline of Elections","citizens","http://doi.org/10.7910/DVN/28856",NA,"45 countries",1942,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"The Worldwide Governance Indicators","governance","https://data.worldbank.org/data-catalog/worldwide-governance-indicators",NA,NA,1996,2016,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Understanding Society","citizens","https://www.understandingsociety.ac.uk/documentation/mainstage",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"United Nations Security Council membership","international relations","http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html",NA,"193 countries",1951,NA,"online","free, no registration",NA,NA,NA,NA,"http://www.axel-dreher.de/UNSCdata.xls",NA,NA,NA
-"Uppsala Conflict Data Program","international relations","http://ucdp.uu.se/downloads/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"US Presidential Elections","elections","https://github.com/zonination/election-history",NA,"USA",1789,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Vanhanen's index of democracy","democracy","https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Varieties of Democracy","democracy","https://www.v-dem.net/en/data/",NA,"world",1900,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"Veto Players Data","cabinets and parliaments","https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cross-sectional"
-"Voter Turnout Database","elections","https://www.idea.int/data-tools/data/voter-turnout",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wesleyan Media Project: Media Advertising","media","http://mediaproject.wesleyan.edu/dataaccess/",NA,"USA",1996,2016,"online","not free",NA,NA,NA,NA,NA,NA,NA,NA
-"Women in National Parliaments","parties and politicians","http://www.ipu.org/wmn-e/world-arc.htm",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"World Migration Matrix","other","http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/world%20migration%20matrix.htm",NA,"165 countries",1500,2000,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"World Press Freedom Index","media","https://rsf.org/en/ranking_table",NA,NA,2013,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"World Values Survey","citizens","http://www.worldvaluessurvey.org/wvs.jsp","Political attitudes","world",1981,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
-"World Wealth and Income Database","economics","http://wid.world/data/",NA,NA,NA,NA,"public archive","free, online",NA,NA,NA,NA,NA,NA,NA,NA
+name,category,link,topics,coverage,year_start,year_end,availability,registration,codebook,file_csv,file_dta,file_sav,file_excel,file_r,file_zip,note
+Administrative Capacities,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,"Crime control, education provision, civil justice provision, revenue collection capacity, legitimacy and effectiveness, regulatory capacity and quality, coordination capacity, self-monitoring",195 countries,2014,2014,online,"free, no registration",https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_IndicatorsCodebook.pdf,https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.csv,https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.dta,,https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.xlsx,https://www.hertie-school.org/fileadmin/2_Research/1_About_our_research/4_The_Governance_Report/Indicators/2014/Downloads/GovReport2014_Indicators_Indicators.RData,,Comprised of data from multiple organisations and data providers.
+Afrobarometer,citizens,http://www.afrobarometer.org/,"Conflict and crime, democracy, elections, gender equality, governance, identity, macroeconomics and markets, political participation, poverty, public services, social capital, tolerance, citizenship, energy",Africa,1999,,online,"free, no registration",http://afrobarometer.org/sites/default/files/data/round-6/merged_round_6_codebook_28082017.pdf,,,http://afrobarometer.org/sites/default/files/data/round-6/merged_r6_data_2016_36countries2.sav,,,,Cross-sectional. Data and codebook link is to the 2016 merged Round 6.
+"Age, gender and profession of parliamentarians",parties and politicians,http://archive.ipu.org/gpr-e/downloads/index.htm,"Chamber, gender, age, profession",world,2012,2012,online,"free, no registration",http://archive.ipu.org/gpr-e/downloads/dataset-notes-e.pdf,,,,http://archive.ipu.org/gpr-e/downloads/data-age-gender-profession-e.xls,,,
+AidData,international relations,http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0,International development flows,96 countries,1947,2013,online,"free, no registration",http://docs.aiddata.org/ad4/files/inline/readme.pdf,,,,,,https://github.com/AidData-WM/public_datasets/releases/download/v3.0/AidDataCore_ResearchRelease_Level1_v3.0.zip,
+American National Election Studies,citizens,http://www.electionstudies.org/,"Political attitudes, voting behavior, political participation, socio-demographic characteristics",USA,1948,,online,"free, online registration",,,,,,,,Cross-sectional and panel datasets
+Americas Barometer,citizens,http://www.vanderbilt.edu/lapop/about-americasbarometer.php,"Political attitudes, political participation, socio-demographic characteristics",Latin America,2004,,online,"free, no registration (free registration for full data)",http://datasets.americasbarometer.org/database/files/12364388022004-2014%20Grand%20Merge%20Codebook_V3.0_Free_W.pdf,,,,,,http://datasets.americasbarometer.org/database/files/746278534AmericasBarometer%20Grand%20Merge%202004-2014%20v3.0_FREE_dta.zip,Cross-sectional dataset. Link to zip file is to the 2004-2014 merged Stata file.
+Arab Barometer,citizens,http://arabbarometer.org/,"Political attitudes, political participation, socio-demographic characteristics",Middle East,2006,,online,"free, no registration",http://www.arabbarometer.org/sites/default/files/code_book/AB4%20English%20Codebook%20Final%20English.pdf,,http://www.arabbarometer.org/sites/default/files/Arab_Barometer_Fourth_Wave_English_Data_Set_v1.dta,http://www.arabbarometer.org/sites/default/files/Arab_Barometer_Fourth_Wave_English_Data_Set_v1.sav,,,,Cross-sectional dataset. Links are to the Arab Barometer IV data files.
+Archigos: A Data Base on Leaders 1875-2004,political elites,http://www.rochester.edu/college/faculty/hgoemans/data.htm,"Political leaders, leader characteristics",world,1875,2015,online,"free, no registration",http://www.rochester.edu/college/faculty/hgoemans/Archigos_4.1.pdf,,http://www.rochester.edu/college/faculty/hgoemans/Archigos_4.1_stata14.dta,,,,,Stata link is to Version 4.1.
+Asian Barometer,citizens,http://www.asianbarometer.org/,,Asia,2001,,,,,,,,,,,
+Austrian National Election Study,citizens,http://www.autnes.at/en/data-download/,,Austria,2002,,public archive,"free, registration",,,,,,,,
+Authoritarian Regimes Dataset,democracy,https://sites.google.com/site/authoritarianregimedataset/data,,,1972,2014,public archive,"free, online",,,,,,,,
+Basic data on parliaments,cabinets and parliaments,http://archive.ipu.org/gpr-e/downloads/index.htm,,,,,public archive,"free, online",,,,,,,,
+"Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010",democracy,https://sites.google.com/site/mkmtwo/data,,,,,,,,,,,,,,
+British Election Study,citizens,http://www.britishelectionstudy.com/,,Britain,1964,,,,,,,,,,,
+British Household Panel Survey,citizens,https://www.iser.essex.ac.uk/bhps,,,1991,2009,,,,,,,,,,panel
+British Social Attitudes,citizens,http://www.natcen.ac.uk/our-research/research/british-social-attitudes/,,Britain,,,,,,,,,,,,
+Cabinets and Coalition Bargaining,cabinets and parliaments,http://www.erdda.se/index.php/projects/cpd/data-archive,,,,,,"free, online",,,,,,,,
+Canadian Election Study,citizens,http://ces-eec.arts.ubc.ca/english-section/surveys/,,Canada,2004,,public archive,"free, online",,,,,,,,
+Caucasus Barometer,citizens,http://caucasusbarometer.org/en/datasets/,,Caucasus,2008,,,,,,,,,,,
+Central Bank Governors,economics,https://www.kof.ethz.ch/services/daten/data-on-central-bank-governors.html,,world,1970,,online,"free, no registration",,,,,https://www.ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/central_bank_governors/cbg_turnover.xlsx,,,
+Chapel Hill Expert Survey,parties and politicians,https://www.chesdata.eu/our-surveys/,,,,,,,,,,,,,,
+Coalition Governments in Western Europe,cabinets and parliaments,http://www.erdda.se/index.php/projects/cpd/data-archive,,,,,,"free, online",,,,,,,,
+Comparative Agendas Project,parties and politicians,http://www.comparativeagendas.net/datasets_codebooks,,,,,,,,,,,,,,
+Comparative Agendas Project: Media,media,http://www.comparativeagendas.net/datasets_codebooks,,"Belgium, Hungary, Spain, State of Pennsylvania, Switzerland, United Kingdom, United States",,,,,,,,,,,,
+Comparative Agendas Project: Public Opinion & Interest Groups,citizens,http://www.comparativeagendas.net/datasets_codebooks,,"Hungary, Switzerland, United Kingdom, United States",,,,,,,,,,,,
+Comparative Constitutions Project,constitutions,http://comparativeconstitutionsproject.org/download-data/,,,,,,,,,,,,,,
+Comparative Parties Data Set,parties and politicians,http://www.marquette.edu/polisci/faculty_swank.shtml,,,,,,,,,,,,,,
+Comparative Political Data Set,political institutions,http://www.cpds-data.org/,,,,,,,,,,,,,,
+Comparative Study of Electoral Systems,citizens,http://www.cses.org/,,,,,,,,,,,,,,
+Comparative Welfare Entitlements Dataset,policy,http://cwed2.org/download.php,,,,,,,,,,,,,,
+Comparative Welfare States Data Set,policy,http://www.lisdatacenter.org/resources/other-databases/,,,1960,2011,public archive,free,,,,,,,,
+Constituency-Level Elections Archive,elections,http://www.electiondataarchive.org/,,,,,,,,,,,,,,
+Cooperative Congressional Election Study,citizens,https://cces.gov.harvard.edu/,"Political attitudes, voting behavior, political participation, socio-demographic characteristics",USA,2006,,online,"free, no registration",,,,,,,,
+Correlates of War,international relations,http://www.correlatesofwar.org/,,world,1816,2007,public archive,"free, online",,,,,,,,
+Corruption Perceptions Index,governance,https://www.transparency.org/research/cpi/,,,1995,,public archive,"free, online",,,,,,,,
+Danish General Election Results,elections,https://github.com/Straubinger/folketingsvalg,,Denmark,1953,,public archive,"free, online",,,,,,,,
+Danish National Election Study,citizens,http://www.valgprojektet.dk/default.asp?l=eng,,Denmark,1971,,,,,,,,,,,
+Database of Political Institutions,political institutions,"http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html",,180 countries,1975,2015,public archive,"free, online",,,,,,,,
+Decision-making in the European Union,other,http://www.robertthomson.info/research/resolving-controversy-in-the-eu,,Europe,,,online,"free, no registration",http://www.robertthomson.info/wp-content/uploads/2011/01/Issues_list_new_26March2012.pdf,http://www.robertthomson.info/wp-content/uploads/2011/01/deu15_27_26March2012.csv,,,,,,
+Democratic Accountability and Citizen-Politician Linkages,democracy,https://sites.duke.edu/democracylinkage/data/,,,,,,,,,,,,,,
+Democratic Electoral Systems,elections,http://mattgolder.com/elections,,,1946,2016,,,,,,,,,,
+Democratic Innovations Data,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,,,,,public archive,"free, online",,,,,,,,
+Economic Freedom of the World,economics,https://www.fraserinstitute.org/economic-freedom/dataset,,,1970,2015,public archive,"free, online",,,,,,,,
+Election Studies Eastern Europe,citizens,https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/,,"Belarus, Bulgaria, the Czech Republic, Croatia, Macedonia, Poland, Serbia, Slovakia, Slovenia, Ukraine",,,,,,,,,,,,
+Electoral Systems and the Personal Vote,democracy,http://hdl.handle.net/1902.1/17901,,,,,public archive,"free, online",,,,,,,,
+Environmental Performance Index,other,http://epi.yale.edu/downloads,,,,,public archive,"free, online",,,,,,,,
+EPRG MEP Surveys,parties and politicians,https://mepsurvey.eu/data-objects/data/,,,,,,,,,,,,,,
+Eurobarometer,citizens,http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm,,,,,,,,,,,,,,
+Euromanifesto,parties and politicians,http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/,,Europe,1979,,,,,,,,,,,
+European Central Bank: Statistical Data Warehouse,economics,http://sdw.ecb.europa.eu/,,,,,,,,,,,,,,
+European Election Database,elections,http://www.nsd.uib.no/european_election_database,,,,,,,,,,,,,,
+European Election Studies: Voter Study,citizens,http://europeanelectionstudies.net/ees-study-components/voter-study/,,Europe,1979,,,,,,,,,,,
+European Election Study: Elite Study,political elites,http://europeanelectionstudies.net/ees-study-components/elite-study/,,Europe,1979,,,,,,,,,,,
+European Election Study: Media Study,media,http://europeanelectionstudies.net/ees-study-components/media-study/,,Europe,1979,2009,,,,,,,,,,
+European Quality of Life,citizens,https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys,,,,,,,,,,,,,,cross-sectional
+European Representative Democracy,cabinets and parliaments,http://www.erdda.se/index.php/projects/erd/data-archive,,,,,,"free, online",,,,,,,,
+European Social Survey,citizens,http://www.europeansocialsurvey.org/,"Media and social trust, Subjective well-being, Human values, Immigration, Citizen involvement, Health and care, Economic morality, Family work and well-being, Timing of life, Personal well-being, Welfare attitudes, Ageism, Justice, Democracy, Social inequalities in health, Public attitudes to climate change",Europe,2002,,public archive,"free, online registration",,,,,,,,"cross-sectional, panel"
+European Union Indicators,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,,,,,public archive,"free, online",,,,,,,,
+European Values Study,citizens,http://www.europeanvaluesstudy.eu/,,,,,,,,,,,,,,
+Eurostat,other,http://ec.europa.eu/eurostat/data/bulkdownload,,,,,,,,,,,,,,
+EUSpeech,political elites,http://dx.doi.org/10.7910/DVN/XPCVEI,"Sentiment, political topics, ideology",Europe,2007,2015,online,"free, no registration",,,,,,,,Text data on leader speeches in the European Union.
+Expanded Trade and GDP Data,economics,http://privatewww.essex.ac.uk/~ksg/exptradegdp.html,,,1948,2000,public archive,"free, online",,,,,,,,
+Forcibly Displaced Populations,international relations,http://www.systemicpeace.org/inscrdata.html,,,1964,2008,public archive,"free, online",,,,,,,,
+Fractionalization,other,http://www.anderson.ucla.edu/faculty_pages/romain.wacziarg/papersum.html,,,,,public archive,"free, online",,,,,,,,
+Fragile States Index,international relations,http://fundforpeace.org/fsi/data/,,,2006,,,,,,,,,,,
+fRDB-IZA Social Reforms Database,policy,http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027,,,1980,2007,,,,,,,,,,panel
+General Social Survey​,citizens,http://gss.norc.org/,,USA,1972,,public archive,"free, online",,,,,,,,
+German General Social Survey,citizens,https://www.gesis.org/en/institute/competence-centers/rdc-allbus//,,Germany,1980,,,,,,,,,,,
+German Socio-Economic Panel,citizens,https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP,,,,,,,,,,,,,,
+Global Elections Database,elections,http://www.globalelectionsdatabase.com/index.php/datasets,,world,,,public archive,"free, registration",,,,,,,,
+Global Integrity Report,governance,https://www.globalintegrity.org/downloads/,,,,,public archive,"free, online",,,,,,,,
+Global Media Freedom Dataset,media,http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx,,196 countries,1948,2012,online,"free, no registration",,http://faculty.uml.edu/Jenifer_whittenwoodring/GMFD_V2.csv,,,,,,See also this article for more info https://doi.org/10.1017/psrm.2015.68
+Global Terrorism Database,international relations,http://www.start.umd.edu/gtd/,,world,,,,,,,,,,,,
+Governance Challenges Indicators,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,,,,,public archive,"free, online",,,,,,,,
+Government Revenue Dataset,policy,https://www.wider.unu.edu/database/additional-data-files-grd,,,,,public archive,"free, online",,,,,,,,
+"Governments Data, 1950-1995",cabinets and parliaments,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,
+High Casualty Terrorist Bombings,international relations,http://www.systemicpeace.org/inscrdata.html,,,1989,2017,public archive,"free, online",,,,,,,,
+Ibrahim Index of African Governance,governance,http://mo.ibrahim.foundation/iiag/downloads/,,,,,public archive,"free, online",,,,,,,,
+Immigration Policies in Comparison,policy,http://www.impic-project.eu/data/,,,,,,,,,,,,,,
+Infrastructure Governance Indicators,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,,,,,public archive,"free, online",,,,,,,,
+"Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts",political institutions,http://www.uva-aias.net/en/ictwss,,51 countries,1960,2014,public archive,"free, online",,,,,,,,
+Institutional Quality Dataset,political institutions,https://sites.google.com/site/aljazkuncic/research,,,1990,2010,public archive,"free, online",,,,,,,,
+Institutions and Elections Project,political institutions,https://havardhegre.net/iaep/,,,,,,"free, online",,,,,,,,panel
+International Social Survey Programme,citizens,http://www.issp.org/menu-top/home/,,,,,,,,,,,,,,
+Israel National Election Studies,citizens,http://www.ines.tau.ac.il/elections.html,,Israel,1969,,public archive,"free, online form",,,,,,,,
+Judicial Checks and Balances,constitutions,http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/,,71 countries,,,public archive,"free, online",,,,,,,,
+KOF Globalization Index,other,http://globalization.kof.ethz.ch/,"economic globalization, political globalization, social globalization",207 countries,1970,2014,public archive,"free, online",,,,,,,,
+Latent Human Rights Protection Scores,international relations,http://dx.doi.org/10.7910/DVN/24872,"Accountability, repression, human rights",world,1949,2013,online,"free, no registration",,,,,,,,
+Latinobarometro,citizens,http://www.latinobarometro.org/lat.jsp,,Latin America,1995,,,,,,,,,,,
+Leader Experience and Attribute Descriptions,political elites,http://dx.doi.org/10.7910/DVN/SYZZEY,"Military experiences, childhood, education, personal, family life",world,1875,2004,online,"free, no registration",,,,,,,,
+Longitudinal Internet Studies for the Social sciences,citizens,https://www.lissdata.nl/,"Health, Religion and Ethnicity, Social Integration and Leisure, Family and Household, Work and Schooling, Personality, Politics and Values, Economic Situation",Netherlands,2007,,public archive,"free, letter",,,,,,,,
+Maddison Project Database,economics,http://www.ggdc.net/maddison/maddison-project/data.htm,,,1,2010,public archive,"free, online",,,,,,,,
+Major Episodes of Political Violence,international relations,http://www.systemicpeace.org/inscrdata.html,,,1946,2016,public archive,"free, online",,,,,,,,
+Manifesto Project Main Dataset (Party Preferences),parties and politicians,https://manifesto-project.wzb.eu/datasets,,,,,,,,,,,,,,
+Measuring Income Inequality Database,economics,"http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20699070~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html",,138 countries,1890,1996,public archive,"free, online",,,,,,,,
+Median Voter,citizens,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,
+Members and Activists of Political Parties,parties and politicians,https://zenodo.org/record/61234,,"Australia, Austria, Belgium, Brazil, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland, Israel, Italy, Lithuania, Mexico, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Spain, Sweden, Switzerland, United Kingdom",1946,2014,online,"free, no registration",,,,,https://zenodo.org/record/61234/files/MAPP_dataset_-_Version_2.0.xlsx,,,See also this link for more documentation https://doi.org/10.1057/s41304-016-0098-z
+Memberships in Conventional Intergovernmental Organizations,international relations,http://www.systemicpeace.org/inscrdata.html,,,1952,1997,public archive,"free, online",,,,,,,,
+Minorities at Risk,international relations,http://www.mar.umd.edu/mar_data.asp,,,2004,2006,public archive,"free, online",,,,,,,,
+Multiculturalism Policies in Contemporary Democracies,policy,http://www.queensu.ca/mcp/about/definitionsdata,,,,,,,,,,,,,,
+National Accounts Main Aggregates Database,economics,https://unstats.un.org/unsd/snaama/dnlList.asp,,,,,,,,,,,,,,
+National Elections Across Democracy and Autocracy,elections,http://www.nelda.co/,,world,1960,2006,public archive,"free, online form",,,,,,,,
+"Norwegian Parliamentary Elections, 1906-2013",parties and politicians,https://doi.org/10.18712/NSD-NSD2405-V1,"Elections, parliamentary elections, parliamentary candidates, politicians",Norway,1906,2013,delivered after acceptance of form,"free, order form and declaration of secrecy",,,,,,,,Data on candidates running for parliamentary (Storting).
+Oil and Gas Data,economics,http://dx.doi.org/10.7910/DVN/ZTPW0Y,,,1932,2014,public archive,"free, online",,,,,,,,
+Parliaments and governments database,cabinets and parliaments,http://www.parlgov.org/,,,,,,,,,,,,,,
+"Parties in Parliaments and Governments, 1950-1995",cabinets and parliaments,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,
+"Parties, Governments and Legislatures Dataset",parties and politicians,http://www.edac.eu/policies_desc.cfm?v_id=112,,,,,,,,,,,,,,cross-sectional
+Party Government Data Set,cabinets and parliaments,https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx,,"Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (IVth and Vth republics), Germany, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland , Turkey, United Kingdom",1945,2008,,"free, online",,,,,,,,
+Party Policy in Modern Democracies,parties and politicians,http://www.tcd.ie/Political_Science/ppmd/,,,,,,,,,,,,,,
+Perceptions of Electoral Integrity,elections,https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2,,world,2012,2016,public archive,"free, online",,,,,,,,
+Pew Global Attitudes Survey,citizens,http://www.pewglobal.org/datasets/,Attitudes,world,2001,,public archive,"free, online",,,,,,,,
+PIP: Left-Right Party Scores,parties and politicians,http://comparativepolitics.uni-greifswald.de/data.html,,,,,,,,,,,,,,
+Political Terror Scale,international relations,http://www.politicalterrorscale.org/Data/Download.html,,,1976,2016,public archive,"free, online",,,,,,,,
+Political TV Ad Archive,media,http://politicaladarchive.org/data/,,USA,2015,2016,online,"free, no registration",,http://politicaladarchive.org/api/v1/ad_instances?output=csv,,,,,,
+Polity IV Project: Political Regime Characteristics and Transitions,democracy,http://www.systemicpeace.org/polity/polity4.htm,,,1800,2013,,,,,,,,,,
+Portfolio Allocation in Western Europe,cabinets and parliaments,http://www.erdda.se/index.php/projects/cpd/data-archive,,,,,,"free, online",,,,,,,,
+Protest events,other,https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/,,"France, Germany, Switzerland, the Netherlands",1975,1989,public archive,"free, online",,,,,,,,
+Protest events in the Federal Republic of Germany,other,https://www.wzb.eu/en/research/completed-research-programs/civil-society-and-political-mobilization/projects/prodat-dokumentation-un,,Germany,1950,1996,public archive,"free, online",,,,,,,,
+Public support for political parties in Denmark,citizens,https://github.com/erikgahner/polls,,Denmark,2010,,public archive,"free, online",,,,,,,,
+Quality of Government,governance,http://qog.pol.gu.se/data/datadownloads/qogstandarddata,,,,,,,,,,,,,,cross-sectional
+Regional Authority Index,other,https://www.arjanschakel.nl/regauth_dat.html,,81 countries,1950,2010,public archive,"free, online",,,,,,,,
+Religion and State Project Constitutions Dataset,constitutions,http://www.thearda.com/archive/files/Descriptions/RASCONS.asp,,,1990,2008,,,,,,,,,,
+Rule of Law Index,political institutions,https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data,,,,,public archive,"free, online",,,,,,,,
+"Seats and Votes, 1950-1995",parties and politicians,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,panel
+Social Citizenship Indicator Program,policy,http://www.spin.su.se/datasets/scip,,,,,,,,,,,,,,
+Social Conflict Analysis Database,international relations,https://www.strausscenter.org/scad.html,,"Africa, Mexico, Central America, the Caribbean",1990,2015,public archive,"free, online form",,,,,,,,
+State Antiquity Index,other,http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm,,149 countries,,,public archive,"free, online",,,,,,,,
+State Failure Problem Set,international relations,http://www.systemicpeace.org/inscrdata.html,,,1955,2016,public archive,"free, online",,,,,,,,
+State Fragility Index,international relations,http://www.systemicpeace.org/inscrdata.html,,,1995,2016,public archive,"free, online",,,,,,,,
+Swedish National Election Studies,citizens,http://valforskning.pol.gu.se/english,,Sweden,1956,,,,,,,,,,,
+SwedishPolls,citizens,https://github.com/MansMeg/SwedishPolls,,Sweden,1998,,public archive,"free, online",,,,,,,,
+Swiss Household Panel,citizens,http://forscenter.ch/en/our-surveys/swiss-household-panel/,,Switzerland,1999,,,,,,,,,,,
+Terrorism in Western Europe: Events Data,international relations,http://folk.uib.no/sspje/tweed.htm,,18 countries,1950,2004,public archive,"free, online",,,,,,,,
+The 'Most Important Problem' Dataset,citizens,http://web.missouri.edu/~williamslaro/mipdata.html,,,,,,,,,,,,,,
+The CIRI Human Rights Dataset,international relations,http://www.humanrightsdata.com/p/data-documentation.html,,,,,,,,,,,,,,
+The Dyadic Cyber Incident and Dispute Data,international relations,https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset,,world,2000,2014,online,"free, no registration",https://docs.wixstatic.com/ugd/4b99a4_4c7971ea7791464a8ac551fff85fb1f1.pdf,,,,https://docs.wixstatic.com/ugd/4b99a4_294fde43b8094872999ca63f62972765.xlsx?dn=DCID%20Version%201.1.xlsx,,,
+The Political Constraint Index,political institutions,https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/,,,,,public archive,"free, online",,,,,,,,
+The SOM Institute Cumulative Dataset,citizens,https://snd.gu.se/en/catalogue/study/snd0905,"General health and well-being, media, information society, employment, unemployment, environment and conservation, political behaviour and attitudes, elections, international politics and organisations, social welfare policy, leisure, tourism and sport, social behaviour and attitudes, cultural activities and participation, Political Science, Media and Communications",Sweden,1986,2015,delivered after acceptance of form,"free, order form",https://snd.gu.se/catalogue/file/5665,,,,,,,
+The Timeline of Elections,citizens,http://doi.org/10.7910/DVN/28856,,45 countries,1942,,public archive,"free, online",,,,,,,,
+The Worldwide Governance Indicators,governance,https://data.worldbank.org/data-catalog/worldwide-governance-indicators,,,1996,2016,public archive,"free, online",,,,,,,,
+Understanding Society,citizens,https://www.understandingsociety.ac.uk/documentation/mainstage,,,,,,,,,,,,,,
+United Nations Security Council membership,international relations,http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html,,193 countries,1951,,online,"free, no registration",,,,,http://www.axel-dreher.de/UNSCdata.xls,,,
+Uppsala Conflict Data Program,international relations,http://ucdp.uu.se/downloads/,,,,,,,,,,,,,,
+US Presidential Elections,elections,https://github.com/zonination/election-history,,USA,1789,,public archive,"free, online",,,,,,,,
+Vanhanen's index of democracy,democracy,https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/,,,,,,,,,,,,,,
+Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,,world,1900,,public archive,"free, online",,,,,,,,
+Veto Players Data,cabinets and parliaments,https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/,,,,,,,,,,,,,,cross-sectional
+Voter Turnout Database,elections,https://www.idea.int/data-tools/data/voter-turnout,,,,,,,,,,,,,,
+Wesleyan Media Project: Media Advertising,media,http://mediaproject.wesleyan.edu/dataaccess/,,USA,1996,2016,online,not free,,,,,,,,
+Women in National Parliaments,parties and politicians,http://www.ipu.org/wmn-e/world-arc.htm,,,,,,,,,,,,,,
+World Migration Matrix,other,http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/world%20migration%20matrix.htm,,165 countries,1500,2000,public archive,"free, online",,,,,,,,
+World Press Freedom Index,media,https://rsf.org/en/ranking_table,,,2013,,public archive,"free, online",,,,,,,,
+World Values Survey,citizens,http://www.worldvaluessurvey.org/wvs.jsp,Political attitudes,world,1981,,public archive,"free, online",,,,,,,,
+World Wealth and Income Database,economics,http://wid.world/data/,,,,,public archive,"free, online",,,,,,,,
