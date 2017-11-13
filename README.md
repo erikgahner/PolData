@@ -40,6 +40,8 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Parties in Parliaments and Governments, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Party Government Data Set](https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx)
 - [Portfolio Allocation in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
+- [Seki-Williams Governments Dataset](http://faculty.missouri.edu/williamslaro/govtdata.html)
+- [Seki-Williams Ministers Dataset](http://faculty.missouri.edu/williamslaro/govtdata.html)
 - [Veto Players Data](https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/)
 
 ### Citizens
