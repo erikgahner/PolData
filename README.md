@@ -187,6 +187,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
+- [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
 - [Latent Human Rights Protection Scores](http://dx.doi.org/10.7910/DVN/24872)
@@ -233,6 +234,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
+- [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
