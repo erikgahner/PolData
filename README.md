@@ -99,7 +99,8 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [The 'Most Important Problem' Dataset](http://web.missouri.edu/~williamslaro/mipdata.html)
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
 
-#### Polls, vote intention
+#### Opinion polls
+- [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
 - [The Timeline of Elections](http://doi.org/10.7910/DVN/28856)
@@ -185,6 +186,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Correlates of War](http://www.correlatesofwar.org/)
+- [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
