@@ -185,6 +185,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### International relations
 
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
+- [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
