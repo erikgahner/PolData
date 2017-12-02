@@ -141,6 +141,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
 - [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
+- [Democracy Crossnational Data](https://sites.hks.harvard.edu/fs/pnorris/Data/Data.htm)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
 - [Electoral Systems and the Personal Vote](http://hdl.handle.net/1902.1/17901)
 - [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
