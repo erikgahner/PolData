@@ -187,6 +187,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
+- [Chance-Corrected Measures of Foreign Policy Similarity](http://dx.doi.org/10.7910/DVN/ALVXLM)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
@@ -205,6 +206,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
+- [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 
