@@ -206,6 +206,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
+- [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
