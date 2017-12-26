@@ -33,6 +33,7 @@ Comparative Study of Electoral Systems,citizens,http://www.cses.org/,,,,,,,,,,,,
 Comparative Welfare Entitlements Dataset,policy,http://cwed2.org/download.php,,,,,,,,,,,,,,
 Comparative Welfare States Data Set,policy,http://www.lisdatacenter.org/resources/other-databases/,,,1960,2011,public archive,free,,,,,,,,
 Constituency-Level Elections Archive,elections,http://www.electiondataarchive.org/,,,,,,,,,,,,,,
+Constitutional Court of Turkey Justice Decisions Dataset,constitutions,http://dx.doi.org/10.7910/DVN/F8ITEB,,Turkey,1982,2011,online,"free, no registration",,,,,,,,
 Cooperative Congressional Election Study,citizens,https://cces.gov.harvard.edu/,"Political attitudes, voting behavior, political participation, socio-demographic characteristics",USA,2006,,online,"free, no registration",,,,,,,,
 Correlates of State Policy,policy,http://www.ippsr.msu.edu/public-policy/correlates-state-policy,,USA,1900,2016,online,"free, no registration",http://ippsr.msu.edu/sites/default/files/CorrelatesCodebook.pdf,http://ippsr.msu.edu/sites/default/files/correlatesofstatepolicyprojectv1_13.csv,http://ippsr.msu.edu/sites/default/files/correlatesofstatepolicyprojectv1_13.dta,,http://ippsr.msu.edu/sites/default/files/correlatesofstatepolicyprojectv1_13.xlsx,,,
 Correlates of War,international relations,http://www.correlatesofwar.org/,,world,1816,2007,public archive,"free, online",,,,,,,,
@@ -72,6 +73,7 @@ Forcibly Displaced Populations,international relations,http://www.systemicpeace.
 Fractionalization,other,http://www.anderson.ucla.edu/faculty_pages/romain.wacziarg/papersum.html,,,,,public archive,"free, online",,,,,,,,
 Fragile States Index,international relations,http://fundforpeace.org/fsi/data/,,,2006,,,,,,,,,,,
 fRDB-IZA Social Reforms Database,policy,http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027,,,1980,2007,,,,,,,,,,panel
+Free and Fair Elections Database,elections,http://www.csae.ox.ac.uk/general/free-and-fair-elections-database,"Elections, counting of votes, electoral rights, legal framework, media access",world,1975,2012,online,"free, no registration",http://www.csae.ox.ac.uk/materials/data/151/csae-data-ffelectionscodebookmarch2014.pdf,http://www.csae.ox.ac.uk/materials/data/151/csae-data-ffelections-v11-dates.csv,,,http://www.csae.ox.ac.uk/materials/data/151/csae-data-ffelections-v11-dates.xlsx,,,
 From Empire to Nation-State,international relations,http://www.columbia.edu/~aw2951/Datasets.html,,world,1816,2001,online,"free, no registration",http://www.columbia.edu/~aw2951/EmpireNSdataset.pdf,http://www.columbia.edu/~aw2951/WimmerMin1.0.xls,http://www.columbia.edu/~aw2951/WimmerMin1.0.dta,,,,,
 General Social Survey​,citizens,http://gss.norc.org/,,USA,1972,,public archive,"free, online",,,,,,,,
 German General Social Survey,citizens,https://www.gesis.org/en/institute/competence-centers/rdc-allbus//,,Germany,1980,,,,,,,,,,,
@@ -122,6 +124,7 @@ Party Policy in Modern Democracies,parties and politicians,http://www.tcd.ie/Pol
 Perceptions of Electoral Integrity,elections,https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2,,world,2012,2016,public archive,"free, online",,,,,,,,
 Pew Global Attitudes Survey,citizens,http://www.pewglobal.org/datasets/,Attitudes,world,2001,,public archive,"free, online",,,,,,,,
 PIP: Left-Right Party Scores,parties and politicians,http://comparativepolitics.uni-greifswald.de/data.html,,,,,,,,,,,,,,
+Police Reforms in Peace Agreements,international relations,http://journals.sagepub.com/doi/abs/10.1177/0022343316628932,"Police reform, capacity, training, human rights standards, accountability, force composition, international training, monitoring",world,1975,2011,online,"free, no registration",,,,,,,"http://file.prio.no/journals/JPR/2016/53/4/Nadine%20Ansorg,%20Felix%20Haass%20&%20Julia%20Strasheim.zip",
 Political Terror Scale,international relations,http://www.politicalterrorscale.org/Data/Download.html,,,1976,2016,public archive,"free, online",,,,,,,,
 Political TV Ad Archive,media,http://politicaladarchive.org/data/,,USA,2015,2016,online,"free, no registration",,http://politicaladarchive.org/api/v1/ad_instances?output=csv,,,,,,
 Polity IV Project: Political Regime Characteristics and Transitions,democracy,http://www.systemicpeace.org/polity/polity4.htm,,,1800,2013,,,,,,,,,,
@@ -133,6 +136,7 @@ Public support for political parties in Denmark,citizens,https://github.com/erik
 Quality of Government,governance,http://qog.pol.gu.se/data/datadownloads/qogstandarddata,,,,,,,,,,,,,,cross-sectional
 Regional Authority Index,other,https://www.arjanschakel.nl/regauth_dat.html,,81 countries,1950,2010,public archive,"free, online",,,,,,,,
 Religion and State Project Constitutions Dataset,constitutions,http://www.thearda.com/archive/files/Descriptions/RASCONS.asp,,,1990,2008,,,,,,,,,,
+Reputation of Terror Groups,international relations,http://www.efetokdemir.com/data.html,"Terrorist groups, reputations",world,1980,2011,online,"free, no registration",http://www.efetokdemir.com/uploads/3/7/3/2/37326045/rtg_dataset_-_codebook.pdf,,http://www.efetokdemir.com/uploads/3/7/3/2/37326045/replicationdatajpr-oldstata.dta,,,,,
 Rule of Law Index,political institutions,https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data,,,,,public archive,"free, online",,,,,,,,
 "Seats and Votes, 1950-1995",parties and politicians,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,panel
 Seki-Williams Governments Dataset,cabinets and parliaments,http://faculty.missouri.edu/williamslaro/govtdata.html,,,,,online,"free, no registration",http://faculty.missouri.edu/williamslaro/SW%202016%20Codebook--Governments.pdf,http://faculty.missouri.edu/williamslaro/Seki-Williams%20Governments--Version%202.0.csv,http://faculty.missouri.edu/williamslaro/Seki-Williams%20Governments--Version%202.0.dta,,,,,

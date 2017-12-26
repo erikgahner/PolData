@@ -108,6 +108,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
+- [Constitutional Court of Turkey Justice Decisions Dataset](http://dx.doi.org/10.7910/DVN/F8ITEB)
 - [Judicial Checks and Balances](http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/)
 - [Religion and State Project Constitutions Dataset](http://www.thearda.com/archive/files/Descriptions/RASCONS.asp)
 
@@ -177,6 +178,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [Danish General Election Results](https://github.com/Straubinger/folketingsvalg)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
+- [Free and Fair Elections Database][http://www.csae.ox.ac.uk/general/free-and-fair-elections-database]
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
 - [Perceptions of Electoral Integrity](https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2)
@@ -200,7 +202,9 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](http://dx.doi.org/10.7910/DVN/FB0R8A)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
+- [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
 - [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
+- [Reputation of Terror Groups](http://www.efetokdemir.com/data.html)
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
 - [State Failure Problem Set](http://www.systemicpeace.org/inscrdata.html)
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
