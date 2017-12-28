@@ -178,7 +178,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [Danish General Election Results](https://github.com/Straubinger/folketingsvalg)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
-- [Free and Fair Elections Database][http://www.csae.ox.ac.uk/general/free-and-fair-elections-database]
+- [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
 - [Perceptions of Electoral Integrity](https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2)
