@@ -21,6 +21,7 @@ Canadian Election Study,citizens,http://ces-eec.arts.ubc.ca/english-section/surv
 Caucasus Barometer,citizens,http://caucasusbarometer.org/en/datasets/,,Caucasus,2008,,,,,,,,,,,
 Central Bank Governors,economics,https://www.kof.ethz.ch/services/daten/data-on-central-bank-governors.html,,world,1970,,online,"free, no registration",,,,,https://www.ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/central_bank_governors/cbg_turnover.xlsx,,,
 Chance-Corrected Measures of Foreign Policy Similarity,international relations,http://dx.doi.org/10.7910/DVN/ALVXLM,Foreign policy,world,1946,2012,online,"free, no registration",,,,,,,,
+Change in Source of Leader Support,international relations,http://www.chisols.org/,Leader transitions,world,1919,2008,online,"free, no registration",http://www.chisols.org/uploads/1/1/2/6/11264284/chisolsusermanualv4.0.pdf,,,,,,http://www.chisols.org/uploads/1/1/2/6/11264284/chisolsstyr4_0.zip,zip file is for the state-year datasets
 Chapel Hill Expert Survey,parties and politicians,https://www.chesdata.eu/our-surveys/,,,,,,,,,,,,,,
 Coalition Governments in Western Europe,cabinets and parliaments,http://www.erdda.se/index.php/projects/cpd/data-archive,,,,,,"free, online",,,,,,,,
 Comparative Agendas Project,parties and politicians,http://www.comparativeagendas.net/datasets_codebooks,,,,,,,,,,,,,,
@@ -121,6 +122,7 @@ Parliaments and governments database,cabinets and parliaments,http://www.parlgov
 "Parties, Governments and Legislatures Dataset",parties and politicians,http://www.edac.eu/policies_desc.cfm?v_id=112,,,,,,,,,,,,,,cross-sectional
 Party Government Data Set,cabinets and parliaments,https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx,,"Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France (IVth and Vth republics), Germany, Greece, Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland , Turkey, United Kingdom",1945,2008,,"free, online",,,,,,,,
 Party Policy in Modern Democracies,parties and politicians,http://www.tcd.ie/Political_Science/ppmd/,,,,,,,,,,,,,,
+Peace Accords Matrix Implementation,international relations,https://peaceaccords.nd.edu/research,"Intrastate peace, peace agreements, implementation",world,1989,2012,online,"free, no registration",http://peaceaccords.nd.edu/sites/default/files/PAM_ID%20CODEBOOK%20V.1.5%2029July2015.pdf,,,,http://peaceaccords.nd.edu/sites/default/files/PAM_ID%20V.1.5%20Updated%2029JULY2015.xlsx,,,
 Perceptions of Electoral Integrity,elections,https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2,,world,2012,2016,public archive,"free, online",,,,,,,,
 Pew Global Attitudes Survey,citizens,http://www.pewglobal.org/datasets/,Attitudes,world,2001,,public archive,"free, online",,,,,,,,
 PIP: Left-Right Party Scores,parties and politicians,http://comparativepolitics.uni-greifswald.de/data.html,,,,,,,,,,,,,,
