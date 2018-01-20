@@ -204,6 +204,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](http://dx.doi.org/10.7910/DVN/FB0R8A)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
+- [Nonviolent & Violent Campaigns and Outcomes](https://www.du.edu/korbel/sie/research/chenow_navco_data.html)
 - [Peace Accords Matrix Implementation](https://peaceaccords.nd.edu/research)
 - [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
 - [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
