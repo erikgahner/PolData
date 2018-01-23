@@ -142,6 +142,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Democracy
 
 - [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
+- [Autocratic Regime Data](http://sites.psu.edu/dictators/)
 - [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
 - [Democracy Crossnational Data](https://sites.hks.harvard.edu/fs/pnorris/Data/Data.htm)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
@@ -278,4 +279,5 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Quantitative Methods Initiative Datasets](http://www.quantitativemethods.ac.uk/datasets/)
 
 ### Acknowledgements
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki and Niclas Darville.
+
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville and Alexey Gridnev.
