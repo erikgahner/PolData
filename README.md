@@ -210,6 +210,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
 - [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
 - [Reputation of Terror Groups](http://www.efetokdemir.com/data.html)
+- [Sexual Violence in Armed Conflict](http://www.sexualviolencedata.org/dataset/)
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
 - [State Failure Problem Set](http://www.systemicpeace.org/inscrdata.html)
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
@@ -280,4 +281,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville and Alexey Gridnev.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev and Anne-Kathrin Kreft.
