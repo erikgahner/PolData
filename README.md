@@ -53,6 +53,9 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Americas Barometer](http://www.vanderbilt.edu/lapop/about-americasbarometer.php)
 - [Arab Barometer](http://arabbarometer.org/)
 - [Asian Barometer](http://www.asianbarometer.org/)
+- [Australian Constitutional Referendum Study](http://www.australianelectionstudy.org/other_studies_acrs.html)
+- [Australian Election Studies: Voter Studies](http://www.australianelectionstudy.org/voter_studies.html)
+- [Australian National Political Attitudes Surveys](http://www.australianelectionstudy.org/anpas.html)
 - [Austrian National Election Study](http://www.autnes.at/en/data-download/)
 - [British Election Study](http://www.britishelectionstudy.com/)
 - [British Social Attitudes](http://www.natcen.ac.uk/our-research/research/british-social-attitudes/)
@@ -245,6 +248,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Political elites
 
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
+- [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 - [EUSpeech](http://dx.doi.org/10.7910/DVN/XPCVEI)
 - [Leader Experience and Attribute Descriptions](http://dx.doi.org/10.7910/DVN/SYZZEY)
@@ -281,4 +285,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev and Anne-Kathrin Kreft.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft and Feodor Snagovsky.
