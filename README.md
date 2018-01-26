@@ -147,6 +147,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
 - [Autocratic Regime Data](http://sites.psu.edu/dictators/)
 - [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
+- [Democracy Barometer](http://www.democracybarometer.org/dataset_en.html)
 - [Democracy Crossnational Data](https://sites.hks.harvard.edu/fs/pnorris/Data/Data.htm)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
 - [Electoral Systems and the Personal Vote](http://hdl.handle.net/1902.1/17901)
@@ -217,6 +218,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
 - [State Failure Problem Set](http://www.systemicpeace.org/inscrdata.html)
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
+- [Suicide Attack Database](http://cpostdata.uchicago.edu/search_new.php)
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
@@ -285,4 +287,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft and Feodor Snagovsky.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky and Michael Strebel.
