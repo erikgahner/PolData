@@ -34,6 +34,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
+- [Dutch Parliamentary Voting Dataset](http://dx.doi.org/10.7910/DVN/UXIBNO)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
 - [Governments Data, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Parliaments and governments database](http://www.parlgov.org/)
@@ -104,6 +105,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [The American Ideology Project](http://americanideologyproject.com/)
 
 #### Opinion polls
+
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
@@ -144,9 +146,11 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Democracy
 
+- [A Lexicial Index of Electoral Democracy](http://dx.doi.org/10.7910/DVN/29106)
 - [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
 - [Autocratic Regime Data](http://sites.psu.edu/dictators/)
 - [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
+- [Civil Liberty Dataset](http://ps.au.dk/forskning/forskningsprojekter/dedere/datasets/)
 - [Democracy Barometer](http://www.democracybarometer.org/dataset_en.html)
 - [Democracy Crossnational Data](https://sites.hks.harvard.edu/fs/pnorris/Data/Data.htm)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
@@ -287,4 +291,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky and Michael Strebel.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan and Michael Strebel.
