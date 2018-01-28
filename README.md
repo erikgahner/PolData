@@ -203,11 +203,14 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Change in Source of Leader Support](http://www.chisols.org/)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
+- [Domestic Terrorist Victims dataset](http://hdl.handle.net/1902.1/14717)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
+- [Ill-Treatment and Torture](http://faculty.ucmerced.edu/cconrad2/Academic/Data.html)
+- [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
 - [Latent Human Rights Protection Scores](http://dx.doi.org/10.7910/DVN/24872)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
@@ -274,6 +277,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Additional overviews of datasets
 
+- [Annotated Database Bibliography (ADBB) of Datasets on Institutions and Conflict in Divided Societies](https://datorium.gesis.org/xmlui/handle/10.7802/67)
 - [Charles Stewart's Congressional Data Page](http://web.mit.edu/17.251/www/data_page.html)
 - [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) (hundres of datasets, political and non-political)
 - [Data on EU Legislative Politics](http://www.elprg.eu/data.htm)
@@ -291,4 +295,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan and Michael Strebel.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel and Felix Haass.
