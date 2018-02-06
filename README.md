@@ -262,6 +262,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Political elites
 
+- [An Automated Database of the European Parliament](http://folk.uio.no/bjornkho/MEP/)
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
