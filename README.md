@@ -233,6 +233,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
 - [Suicide Attack Database](http://cpostdata.uchicago.edu/search_new.php)
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
+- [The Affinity of Nations: Similarity of State Voting Positions in the UNGA](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
 - [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
