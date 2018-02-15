@@ -172,6 +172,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Ibrahim Index of African Governance](http://mo.ibrahim.foundation/iiag/downloads/)
 - [Infrastructure Governance Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
+- [Relative Political Capacity Dataset](http://hdl.handle.net/1902.1/16845)
 - [The Worldwide Governance Indicators](https://data.worldbank.org/data-catalog/worldwide-governance-indicators)
 
 ### Economics
