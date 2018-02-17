@@ -236,6 +236,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
 - [The Affinity of Nations: Similarity of State Voting Positions in the UNGA](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
+- [The Continent of International Law](http://www.isr.umich.edu/cps/coil/files.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
 - [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
