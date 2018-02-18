@@ -222,6 +222,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](http://dx.doi.org/10.7910/DVN/FB0R8A)
+- [Militarized Compellent Threats](http://hdl.handle.net/1902.1/17315)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
 - [Nonviolent & Violent Campaigns and Outcomes](https://www.du.edu/korbel/sie/research/chenow_navco_data.html)
 - [Peace Accords Matrix Implementation](https://peaceaccords.nd.edu/research)
@@ -242,6 +243,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
+- [Women's Participation in NATO Forces and Operations](http://hdl.handle.net/1902.1/22328)
 
 ### Media
 
