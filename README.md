@@ -185,6 +185,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)
 - [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
 - [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
+- [Union Centralization among Advanced Industrial Societies](http://hdl.handle.net/1902.1/10193)
 - [World Wealth and Income Database](http://wid.world/data/)
 
 ### Elections
