@@ -177,7 +177,6 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Economics
 
-- [Central Bank Governors](https://www.kof.ethz.ch/services/daten/data-on-central-bank-governors.html)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
