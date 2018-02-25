@@ -34,7 +34,7 @@ A collection of political datasets. The datasets are listed below within specifi
 - `variable_cow` = Name of Correlates of War numeric identifier variable
 - `doi_article` = DOI for article on dataset
 - `doi_dataset` = DOI for dataset
-- `revised` = Date for last revision in PolData (ISO 8601, YYMMDD)
+- `revised` = Date for last revision in PolData (ISO 8601, YYYYMMDD)
 - `note` = Additional info
 
 #### Something missing?
