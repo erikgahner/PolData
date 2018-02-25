@@ -7,22 +7,34 @@ A collection of political datasets. The datasets are listed below within specifi
 
 ## Variables in the dataset
 
-- `name` = Name of the dataset
+- `name` = Name of dataset
 - `category` = Dataset category (`cabinets`, `citizens` etc.)
 - `link` = URL to dataset
 - `topics`= Specific topics of interest in the dataset
-- `coverage` = Geographical coverage
+- `country` = Name of country (for single country datasets)
+- `region_africa` = Country in African Group (United Nations Regional Groups of Member States)
+- `region_asia` = Country in Asia-Pacific Group (United Nations Regional Groups of Member States)
+- `region_easteurope` = Country in Eastern European Group (United Nations Regional Groups of Member States)
+- `region_latinamerica` = Country in Latin American and Caribbean Group (United Nations Regional Groups of Member States)
+- `region_westeurope` = Country in Western European and Others Group (United Nations Regional Groups of Member States)
 - `year_start` = Time coverage, year start
 - `year_end` = Time coverage, year end
 - `availability` = Availability of dataset
 - `registration` = Requirements for data access
-- `codebook` = URL to documentation (usually `.pdf`)
+- `free`= Free access to data (1 = Yes, 0 = No)
+- `file_codebook` = URL to documentation (usually `.pdf`)
 - `file_csv` = URL to dataset (`.csv`)
 - `file_dta` = URL to dataset (`.dta`)
 - `file_sav` = URL to dataset (`.sav`)
 - `file_excel` = URL to dataset (Excel)
 - `file_r` = URL to dataset (`.Rdata`)
 - `file_zip` = URL to data package (`.zip`)
+- `variable_country` = Name of country string variable
+- `variable_year` = Name of year variable
+- `variable_cow` = Name of Correlates of War numeric identifier variable
+- `doi_article` = DOI for article on dataset
+- `doi_dataset` = DOI for dataset
+- `revised` = Date for last revision in PolData (ISO 8601, YYMMDD)
 - `note` = Additional info
 
 #### Something missing?
