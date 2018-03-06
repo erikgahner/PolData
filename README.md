@@ -86,6 +86,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [General Social Survey​](http://gss.norc.org/)
 - [German General Social Survey](https://www.gesis.org/en/institute/competence-centers/rdc-allbus//)
 - [German Longitudinal Election Study](https://www.gesis.org/en/elections-home/gles/data/)
+- [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes)
 - [International Social Survey Programme](http://www.issp.org/menu-top/home/)
 - [Israel National Election Studies](http://www.ines.tau.ac.il/elections.html)
 - [Latinobarómetro](http://www.latinobarometro.org/lat.jsp)
@@ -321,4 +322,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel and Felix Haass.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass and Agnar Freyr Helgason.
