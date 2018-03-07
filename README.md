@@ -91,6 +91,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Israel National Election Studies](http://www.ines.tau.ac.il/elections.html)
 - [Latinobarómetro](http://www.latinobarometro.org/lat.jsp)
 - [Life in Transition Survey](http://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html)
+- [New Zealand Election Study](http://www.nzes.org/exec/show/data)
 - [Pew Global Attitudes Survey](http://www.pewglobal.org/datasets/)
 - [Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/data-documentation/share-data-releases.html)
 - [Swedish National Election Studies](http://valforskning.pol.gu.se/english)
