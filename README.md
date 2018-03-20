@@ -173,6 +173,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
 - [Electoral Systems and the Personal Vote](http://hdl.handle.net/1902.1/17901)
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
+- [Political Regimes of the World](https://link.springer.com/article/10.1057/s41304-018-0149-8)
 - [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
 - [Vanhanen's index of democracy](https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/)
 - [Varieties of Democracy](https://www.v-dem.net/en/data/)
