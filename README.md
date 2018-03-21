@@ -102,6 +102,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 #### Panel
 
 - [American National Election Studies](http://www.electionstudies.org/)
+- [American Trends Panel Datasets](http://www.pewresearch.org/american-trends-panel-datasets/)
 - [British Household Panel Survey](https://www.iser.essex.ac.uk/bhps)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Canadian Election Study](http://ces-eec.arts.ubc.ca/english-section/surveys/)
