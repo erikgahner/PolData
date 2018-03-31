@@ -91,6 +91,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes)
 - [International Social Survey Programme](http://www.issp.org/menu-top/home/)
 - [Israel National Election Studies](http://www.ines.tau.ac.il/elections.html)
+- [Italian National Election Studies](http://www.itanes.org/en/)
 - [Latinobarómetro](http://www.latinobarometro.org/lat.jsp)
 - [Life in Transition Survey](http://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html)
 - [New Zealand Election Study](http://www.nzes.org/exec/show/data)
@@ -224,6 +225,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### International relations
 
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
+- [Alliance Treaty Obligations and Provisions](http://atop.rice.edu/data)
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
 - [Chance-Corrected Measures of Foreign Policy Similarity](http://dx.doi.org/10.7910/DVN/ALVXLM)
 - [Change in Source of Leader Support](http://www.chisols.org/)
