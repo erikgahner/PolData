@@ -77,6 +77,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Study of Electoral Systems](http://www.cses.org/)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Danish National Election Study](http://www.valgprojektet.dk/default.asp?l=eng)
+- [Dutch Parliamentary Electoral Studies](http://www.dpes.nl/en/)
 - [Election Studies Eastern Europe](https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/)
 - [Eurobarometer](http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm)
 - [European Election Studies: Voter Study](http://europeanelectionstudies.net/ees-study-components/voter-study/)
@@ -195,6 +196,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Economics
 
+- [Barro-Ursua Macroeconomic Data](https://scholar.harvard.edu/barro/publications/barro-ursua-macroeconomic-data)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
@@ -215,7 +217,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
-- [Perceptions of Electoral Integrity](https://sites.google.com/site/electoralintegrityproject4/projects/expert-survey-2)
+- [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
 - [US Presidential Elections](https://github.com/zonination/election-history)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
@@ -261,6 +263,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
+- [Water-Related Intrastate Conflict and Cooperation](http://hdl.handle.net/1902.1/20496)
 - [Women's Participation in NATO Forces and Operations](http://hdl.handle.net/1902.1/22328)
 
 ### Media
@@ -303,6 +306,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
 - [Protest events in the Federal Republic of Germany](https://www.wzb.eu/en/research/completed-research-programs/civil-society-and-political-mobilization/projects/prodat-dokumentation-un)
 - [Regional Authority Index](https://www.arjanschakel.nl/regauth_dat.html)
+- [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
 
 ### Additional overviews of datasets
