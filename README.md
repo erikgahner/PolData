@@ -313,7 +313,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Annotated Database Bibliography (ADBB) of Datasets on Institutions and Conflict in Divided Societies](https://datorium.gesis.org/xmlui/handle/10.7802/67)
 - [Charles Stewart's Congressional Data Page](http://web.mit.edu/17.251/www/data_page.html)
-- [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) (hundres of datasets, political and non-political)
+- [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) (hundreds of datasets, political and non-political)
 - [Data on EU Legislative Politics](http://www.elprg.eu/data.htm)
 - [Data Resources for Studies in Comparative Politics](https://docs.google.com/spreadsheets/d/1S-dMeDrg8kXElEvZyWelQfMANCmpmwpprbqGglYs4Ws/pubhtml?gid=325169251&single=true)
 - [Datasets for development economists](http://devecondata.blogspot.com)
