@@ -74,6 +74,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [British Social Attitudes](http://www.natcen.ac.uk/our-research/research/british-social-attitudes/)
 - [Canadian Election Study](http://ces-eec.arts.ubc.ca/english-section/surveys/)
 - [Caucasus Barometer](http://caucasusbarometer.org/en/datasets/)
+- [Chinese General Social Survey](http://www.chinagss.org/index.php?r=index/index&hl=en)
 - [Comparative Study of Electoral Systems](http://www.cses.org/)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Danish National Election Study](http://www.valgprojektet.dk/default.asp?l=eng)
@@ -98,6 +99,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Pew Global Attitudes Survey](http://www.pewglobal.org/datasets/)
 - [Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/data-documentation/share-data-releases.html)
 - [Swedish National Election Studies](http://valforskning.pol.gu.se/english)
+- [Swiss Electoral Studies](http://forscenter.ch/en/our-surveys/selects/1993-2/)
 - [The SOM Institute Cumulative Dataset](https://snd.gu.se/en/catalogue/study/snd0905)
 - [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)
 
