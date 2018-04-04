@@ -97,6 +97,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Life in Transition Survey](http://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html)
 - [New Zealand Election Study](http://www.nzes.org/exec/show/data)
 - [Pew Global Attitudes Survey](http://www.pewglobal.org/datasets/)
+- [Portuguese Voters Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/data-documentation/share-data-releases.html)
 - [Swedish National Election Studies](http://valforskning.pol.gu.se/english)
 - [Swiss Electoral Studies](http://forscenter.ch/en/our-surveys/selects/1993-2/)
@@ -298,6 +299,8 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 - [EUSpeech](http://dx.doi.org/10.7910/DVN/XPCVEI)
 - [Leader Experience and Attribute Descriptions](http://dx.doi.org/10.7910/DVN/SYZZEY)
+- [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
+- [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
 
 ### Other
 
