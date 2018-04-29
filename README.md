@@ -78,6 +78,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Study of Electoral Systems](http://www.cses.org/)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Danish National Election Study](http://www.valgprojektet.dk/default.asp?l=eng)
+- [Democracy Fund Voter Study Group](https://www.voterstudygroup.org/data)
 - [Dutch Parliamentary Electoral Studies](http://www.dpes.nl/en/)
 - [Election Studies Eastern Europe](https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/)
 - [Eurobarometer](http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm)
