@@ -214,7 +214,7 @@ United Nations Security Council membership,international relations,http://www.un
 Uppsala Conflict Data Program,international relations,http://ucdp.uu.se/downloads/,,,,,,,,,,,,,,,,,,,,,,,,,,
 US Presidential Elections,elections,https://github.com/zonination/election-history,,USA,,,,,,1789,,public archive,"free, online",,,,,,,,,,,,,,,
 Vanhanen's index of democracy,democracy,https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/,,,,,,,,,,,,,,,,,,,,,,,,,,
-Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,,world,,,,,,1900,,public archive,"free, online",,,,,,,,,,,,,,,
+Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,"democracy, institutions, rights, elections, parties",world,1,1,1,1,1,1789,2017,online,online form,1,,,,,,,,country_name,year,COWcode,,,20180501,
 Veto Players Data,cabinets and parliaments,https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/,,,,,,,,,,,,,,,,,,,,,,,,,,cross-sectional
 Voter Turnout Database,elections,https://www.idea.int/data-tools/data/voter-turnout,,,,,,,,,,,,,,,,,,,,,,,,,,
 Water-Related Intrastate Conflict and Cooperation,international relations,http://hdl.handle.net/1902.1/20496,"water conflict, water cooperation",,1,1,0,0,0,1997,2009,online,no,1,,,,,,,,,year,,,1902.1/20496,20180331,
