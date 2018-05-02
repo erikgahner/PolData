@@ -142,6 +142,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Political institutions
 
+- [ACLP Political and Economic Database](https://sites.google.com/site/joseantoniocheibub/datasets/democracy-and-development-aclp)
 - [Comparative Political Data Set](http://www.cpds-data.org/)
 - [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
 - [Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts](http://www.uva-aias.net/en/ictwss)
