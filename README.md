@@ -211,7 +211,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
 - [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
 - [Union Centralization among Advanced Industrial Societies](http://hdl.handle.net/1902.1/10193)
-- [World Economic Outlook][http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/download.aspx]
+- [World Economic Outlook](http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/download.aspx)
 - [World Wealth and Income Database](http://wid.world/data/)
 
 ### Elections
