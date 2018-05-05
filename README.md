@@ -237,6 +237,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Change in Source of Leader Support](http://www.chisols.org/)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
+- [Cross-Cutting Cleavage Dataset](https://sites.google.com/site/joelsawatselway/CROSS-CUTTING-CLEAVAGES-DATA)
 - [Domestic Terrorist Victims dataset](http://hdl.handle.net/1902.1/14717)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
