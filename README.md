@@ -297,6 +297,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Multiculturalism Policies in Contemporary Democracies](http://www.queensu.ca/mcp/about/definitionsdata)
 - [Social Citizenship Indicator Program](http://www.spin.su.se/datasets/scip)
+- [State Policy Innovation and Diffusion](https://dataverse.harvard.edu/dataverse/spid)
 
 ### Political elites
 
