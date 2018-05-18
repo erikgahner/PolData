@@ -239,6 +239,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
 - [Chance-Corrected Measures of Foreign Policy Similarity](http://dx.doi.org/10.7910/DVN/ALVXLM)
 - [Change in Source of Leader Support](http://www.chisols.org/)
+- [Conflict Catalog](http://www.cgeh.nl/data#conflict)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
 - [Cross-Cutting Cleavage Dataset](https://sites.google.com/site/joelsawatselway/CROSS-CUTTING-CLEAVAGES-DATA)
