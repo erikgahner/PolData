@@ -46,7 +46,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
-- [Dutch Parliamentary Voting Dataset](http://dx.doi.org/10.7910/DVN/UXIBNO)
+- [Dutch Parliamentary Voting Dataset](https://doi.org/10.7910/DVN/UXIBNO)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
 - [Governments Data, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [ParlGov: Cabinets](http://www.parlgov.org/)
@@ -132,12 +132,12 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
-- [The Timeline of Elections](http://doi.org/10.7910/DVN/28856)
+- [The Timeline of Elections](https://doi.org/10.7910/DVN/28856)
 
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
-- [Constitutional Court of Turkey Justice Decisions Dataset](http://dx.doi.org/10.7910/DVN/F8ITEB)
+- [Constitutional Court of Turkey Justice Decisions Dataset](https://doi.org/10.7910/DVN/F8ITEB)
 - [Judicial Checks and Balances](http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/)
 - [Religion and State Project Constitutions Dataset](http://www.thearda.com/archive/files/Descriptions/RASCONS.asp)
 
@@ -173,7 +173,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Democracy
 
-- [A Lexicial Index of Electoral Democracy](http://dx.doi.org/10.7910/DVN/29106)
+- [A Lexicial Index of Electoral Democracy](https://doi.org/10.7910/DVN/29106)
 - [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
 - [Autocratic Regime Data](http://sites.psu.edu/dictators/)
 - [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
@@ -237,7 +237,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Alliance Treaty Obligations and Provisions](http://atop.rice.edu/data)
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
-- [Chance-Corrected Measures of Foreign Policy Similarity](http://dx.doi.org/10.7910/DVN/ALVXLM)
+- [Chance-Corrected Measures of Foreign Policy Similarity](https://doi.org/10.7910/DVN/ALVXLM)
 - [Change in Source of Leader Support](http://www.chisols.org/)
 - [Conflict Catalog](http://www.cgeh.nl/data#conflict)
 - [Correlates of War](http://www.correlatesofwar.org/)
@@ -252,13 +252,13 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
 - [Ill-Treatment and Torture](http://faculty.ucmerced.edu/cconrad2/Academic/Data.html)
 - [International Military Intervention](https://www.k-state.edu/polsci/intervention/)
-- [International Political Economy Data Resource](http://dx.doi.org/10.7910/DVN/X093TV)
+- [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
-- [Latent Human Rights Protection Scores](http://dx.doi.org/10.7910/DVN/24872)
+- [Latent Human Rights Protection Scores](https://doi.org/10.7910/DVN/24872)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Mass Mobilization in Autocracies Database](https://mmadatabase.org/)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
-- [Militant Group Electoral Participation Dataset](http://dx.doi.org/10.7910/DVN/FB0R8A)
+- [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
 - [Militarized Compellent Threats](http://hdl.handle.net/1902.1/17315)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
 - [Nonviolent & Violent Campaigns and Outcomes](https://www.du.edu/korbel/sie/research/chenow_navco_data.html)
@@ -312,8 +312,8 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
-- [EUSpeech](http://dx.doi.org/10.7910/DVN/XPCVEI)
-- [Leader Experience and Attribute Descriptions](http://dx.doi.org/10.7910/DVN/SYZZEY)
+- [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
+- [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
 
