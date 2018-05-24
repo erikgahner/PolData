@@ -250,6 +250,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
+- [Genocides and Politicides events](http://www.gpanet.org/content/genocides-and-politicides-events-1955-2002)
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
