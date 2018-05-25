@@ -280,6 +280,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
 - [The Continent of International Law](http://www.isr.umich.edu/cps/coil/files.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
+- [The Logic of Political Survival](http://www.nyu.edu/gsas/dept/politics/data/bdm2s2/Logic.htm)
 - [Threat and Imposition of Sanctions](http://www.unc.edu/~bapat/TIES.htm)
 - [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
 - [UN Targeted Sanctions](https://www.prio.org/JPR/Datasets/)
