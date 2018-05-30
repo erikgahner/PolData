@@ -129,7 +129,9 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 #### Opinion polls
 
+- [FiveThirtyEight's Pollster Ratings](https://github.com/fivethirtyeight/data/tree/master/pollster-ratings)
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
+- [Poll of Polls](https://pollofpolls.eu/)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
 - [The Timeline of Elections](https://doi.org/10.7910/DVN/28856)
