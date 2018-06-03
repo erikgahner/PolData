@@ -185,6 +185,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Democracy Barometer](http://www.democracybarometer.org/dataset_en.html)
 - [Democracy Crossnational Data](https://sites.hks.harvard.edu/fs/pnorris/Data/Data.htm)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
+- [Democratic Diffusion](https://www3.nd.edu/~mcoppedg/crd/datacrd.htm)
 - [Electoral Systems and the Personal Vote](http://hdl.handle.net/1902.1/17901)
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
 - [Political Regimes of the World](https://link.springer.com/article/10.1057/s41304-018-0149-8)
