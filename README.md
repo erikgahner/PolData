@@ -90,6 +90,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [General Social Survey​](http://gss.norc.org/)
 - [German General Social Survey](https://www.gesis.org/en/institute/competence-centers/rdc-allbus//)
 - [German Longitudinal Election Study](https://www.gesis.org/en/elections-home/gles/data/)
+- [Global Preferences Survey](https://www.briq-institute.org/global-preferences/downloads)
 - [Korean General Social Survey](http://kgss.skku.edu/?page_id=39)
 - [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes)
 - [International Social Survey Programme](http://www.issp.org/menu-top/home/)
