@@ -133,9 +133,9 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [FiveThirtyEight's Pollster Ratings](https://github.com/fivethirtyeight/data/tree/master/pollster-ratings)
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [Poll of Polls](https://pollofpolls.eu/)
+- [Polls and the Timeline of Elections](https://liberalarts.utexas.edu/government/faculty/cw26629#datasets-on-polls-and-the-timeline-of-elections)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
-- [The Timeline of Elections](https://doi.org/10.7910/DVN/28856)
 
 ### Constitutions
 
