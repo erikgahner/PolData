@@ -173,6 +173,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
+- [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
 
 ### Democracy
@@ -186,7 +187,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Democracy/Autocracy Data Set](https://hdl.handle.net/1902.1/18836)
 - [Democracy Barometer](http://www.democracybarometer.org/dataset_en.html)
 - [Democracy Crossnational Data](https://sites.hks.harvard.edu/fs/pnorris/Data/Data.htm)
-- [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/))
+- [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/)
 - [Democratic Diffusion](https://www3.nd.edu/~mcoppedg/crd/datacrd.htm)
 - [Electoral Systems and the Personal Vote](http://hdl.handle.net/1902.1/17901)
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
