@@ -279,6 +279,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Peacekeeping and the Peacekept](http://www.columbia.edu/~vpf4/research.htm)
 - [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
 - [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
+- [Power-Sharing Event Dataset](http://www.martinottmann.com/project/psed/)
 - [Reputation of Terror Groups](http://www.efetokdemir.com/data.html)
 - [Sexual Violence in Armed Conflict](http://www.sexualviolencedata.org/dataset/)
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
