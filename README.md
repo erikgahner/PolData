@@ -217,6 +217,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
+- [Federico-Tena World Trade Historical Database](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)
 - [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
@@ -236,6 +237,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
+- [Net Volatility in Western Europe](https://soc.kuleuven.be/web/staticpage/11/95/eng/1197)
 - [ParlGov: Elections](http://www.parlgov.org/)
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
 - [US Presidential Elections](https://github.com/zonination/election-history)
@@ -368,6 +370,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
 - [International IDEA](https://www.idea.int/data-tools)
 - [Large datasets for social science, genomics and medicine](https://docs.google.com/spreadsheets/d/1ISYoRpx6A098m582lS4XDS2P9fdfKdAfA4ILjW44byY/edit)
+- [Max Planck Institute for Demographic Research: Online Databases](https://www.demogr.mpg.de/en/projects_publications/online_databases_1906/default.htm)
 - [MIT Election Data and Science Lab](https://electionlab.mit.edu/data)
 - [Norwegian Centre for Research Data: Data Services](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 - [Open datasets](https://docs.google.com/spreadsheets/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/edit#gid=0)
@@ -378,4 +381,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass and Agnar Freyr Helgason.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass, Simon Straubinger and Agnar Freyr Helgason.
