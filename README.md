@@ -336,6 +336,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [An Automated Database of the European Parliament](http://folk.uio.no/bjornkho/MEP/)
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
+- [Comparative Candidates Survey](http://www.comparativecandidates.org/data-access)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 - [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
