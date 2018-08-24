@@ -283,6 +283,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
 - [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
 - [Power-Sharing Event Dataset](http://www.martinottmann.com/project/psed/)
+- [Quantified Political Relationships](http://www.simonweschle.com/data)
 - [Rebel Contraband Dataset](http://civilwardynamics.org/data/)
 - [Reputation of Terror Groups](http://www.efetokdemir.com/data.html)
 - [Sexual Violence in Armed Conflict](http://www.sexualviolencedata.org/dataset/)
