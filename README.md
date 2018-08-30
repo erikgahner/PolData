@@ -266,6 +266,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
 - [Ill-Treatment and Torture](http://faculty.ucmerced.edu/cconrad2/Academic/Data.html)
+- [Implementation of Pacts](https://www.pcr.uu.se/data/impact-dataset/)
 - [International Military Intervention](https://www.k-state.edu/polsci/intervention/)
 - [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
