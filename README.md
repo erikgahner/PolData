@@ -118,6 +118,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [German Socio-Economic Panel](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP)
 - [Israel National Election Studies](http://www.ines.tau.ac.il/elections.html)
 - [Longitudinal Internet Studies for the Social sciences](https://www.lissdata.nl/)
+- [Short-term Campaign Panel](https://doi.org/10.4232/1.13129)
 - [Swiss Household Panel](http://forscenter.ch/en/our-surveys/swiss-household-panel/)
 - [Understanding Society](https://www.understandingsociety.ac.uk/documentation/mainstage)
 
