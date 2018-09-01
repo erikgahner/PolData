@@ -128,6 +128,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
 - [The 'Most Important Problem' Dataset](http://web.missouri.edu/~williamslaro/mipdata.html)
 - [The American Ideology Project](http://americanideologyproject.com/)
+- [Worlds of Journalism](http://www.worldsofjournalism.org/data/data-and-key-tables-2012-2016/)
 
 #### Opinion polls
 
