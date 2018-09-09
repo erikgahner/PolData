@@ -240,6 +240,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
+- [Negative Campaigning Comparative Expert Survey](https://www.alessandro-nai.com/negex-data)
 - [Net Volatility in Western Europe](https://soc.kuleuven.be/web/staticpage/11/95/eng/1197)
 - [ParlGov: Elections](http://www.parlgov.org/)
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
