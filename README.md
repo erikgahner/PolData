@@ -365,6 +365,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Regional Authority Index](https://www.arjanschakel.nl/regauth_dat.html)
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
+- [Sustainable Society Index](http://www.ssfindex.com/data-all-countries/)
 
 ### Additional overviews of datasets
 
