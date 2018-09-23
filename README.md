@@ -336,6 +336,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Multiculturalism Policies in Contemporary Democracies](http://www.queensu.ca/mcp/about/definitionsdata)
 - [Social Citizenship Indicator Program](http://www.spin.su.se/datasets/scip)
+- [Social Assistance, Politics, and Institutions database](https://www.wider.unu.edu/project/sapi-social-assistance-politics-and-institutions-database)
 - [Social Security Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [State Policy Innovation and Diffusion](https://dataverse.harvard.edu/dataverse/spid)
 - [The Regulation of Labor](https://scholar.harvard.edu/shleifer/publications/regulation-labor)
