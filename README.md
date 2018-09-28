@@ -167,6 +167,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)
 - [EPRG MEP Surveys](https://mepsurvey.eu/data-objects/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
+- [Every Politician](http://everypolitician.org/countries.html)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
 - [Members and Activists of Political Parties](https://zenodo.org/record/61234)
 - [New Parties and Party System Innovation in Western Europe since 1945](https://cise.luiss.it/cise/dataset-of-new-parties-and-party-system-innovation-in-western-europe-since-1945/)
