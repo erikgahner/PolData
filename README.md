@@ -78,6 +78,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Chinese General Social Survey](http://www.chinagss.org/index.php?r=index/index&hl=en)
 - [Comparative Study of Electoral Systems](http://www.cses.org/)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
+- [Cultural Pathways to Economic Self-Sufficiency and Entrepreneurship](https://doi.org/10.4232/1.13042)
 - [Danish National Election Study](http://www.valgprojektet.dk/default.asp?l=eng)
 - [Democracy Fund Voter Study Group](https://www.voterstudygroup.org/data)
 - [Dutch Parliamentary Electoral Studies](http://www.dpes.nl/en/)
