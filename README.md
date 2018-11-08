@@ -362,6 +362,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
+- [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
