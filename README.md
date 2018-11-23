@@ -81,6 +81,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Dutch Parliamentary Electoral Studies](http://www.dpes.nl/en/)
 - [Election Studies Eastern Europe](https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/)
 - [Estonian National Election Study](http://www.enes.ee/)
+- [Finnish National Election Study](https://www.vaalitutkimus.fi/en/)
 - [German Longitudinal Election Study](https://www.gesis.org/en/elections-home/gles/data/)
 - [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes)
 - [Israel National Election Studies](http://www.ines.tau.ac.il/elections.html)
