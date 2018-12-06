@@ -182,6 +182,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [ParlGov: Parties](http://www.parlgov.org/)
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
+- [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
