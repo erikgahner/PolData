@@ -379,6 +379,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Moral Machine](https://osf.io/3hvt2/?view_only=4bb49492edee4a8eb1758552a362a2cf)
 - [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
 - [Protest events in the Federal Republic of Germany](https://www.wzb.eu/en/research/completed-research-programs/civil-society-and-political-mobilization/projects/prodat-dokumentation-un)
+- [Raw data from online personality tests](https://openpsychometrics.org/_rawdata/)
 - [Regional Authority Index](https://www.arjanschakel.nl/regauth_dat.html)
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
