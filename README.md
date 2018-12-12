@@ -169,6 +169,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Parties and politicians
 
 - [Age, gender and profession of parliamentarians](http://archive.ipu.org/gpr-e/downloads/index.htm)
+- [Bundestag Roll Call Vote Data](https://dataverse.harvard.edu/dataverse/btvote)
 - [Chapel Hill Expert Survey](https://www.chesdata.eu/our-surveys/)
 - [Comparative Agendas Project](http://www.comparativeagendas.net/datasets_codebooks)
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)

@@ -31,6 +31,7 @@ Bilateral Labor Agreements Dataset,policy,https://www.law.uchicago.edu/bilateral
 British Election Study,citizens,http://www.britishelectionstudy.com/,,Britain,,,,,,1964,,,,,,,,,,,,,,,,,,
 British Household Panel Survey,citizens,https://www.iser.essex.ac.uk/bhps,,,,,,,,1991,2009,,,,,,,,,,,,,,,,,panel
 British Social Attitudes,citizens,http://www.natcen.ac.uk/our-research/research/british-social-attitudes/,,Britain,,,,,,,,,,,,,,,,,,,,,,,,
+Bundestag Roll Call Vote Data,parties and politicians,https://dataverse.harvard.edu/dataverse/btvote,"roll-call voting, legislative behavior, members of parliament",Germany,0,0,0,0,1,1949,2013,online,no,1,,,,,,,,,,,10.1017/S0007123418000406,10.7910/DVN/RESB5L,20181212,
 Cabinets and Coalition Bargaining,cabinets and parliaments,http://www.erdda.se/index.php/projects/cpd/data-archive,,,,,,,,,,,"free, online",,,,,,,,,,,,,,,
 Campaign Finance Law Across the Nation,other,http://cfinst.org/State/LawsDatabase_Download.aspx,"state campaigns, finance laws",USA,0,0,0,0,1,1996,2018,online,no,1,https://cfinst.github.io/downloads/CFI_StateLaws_Codebook_web.pdf,,,,,,https://cfinst.github.io/downloads/cfi-laws-database.zip,,Year,,,,20180809,
 Canadian Election Study,citizens,http://ces-eec.arts.ubc.ca/english-section/surveys/,,Canada,,,,,,2004,,public archive,"free, online",,,,,,,,,,,,,,,
