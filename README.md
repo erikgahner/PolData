@@ -91,6 +91,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Portuguese Voters Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Swedish National Election Studies](http://valforskning.pol.gu.se/english)
 - [Swiss Electoral Studies](http://forscenter.ch/en/our-surveys/selects/1993-2/)
+- [Welsh Election Study](http://blogs.cardiff.ac.uk/electionsinwales/researchresources/)
 
 #### Cross-sectional
 
