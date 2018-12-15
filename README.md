@@ -237,6 +237,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)
 - [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
 - [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
+- [Rosés-Wolf database on regional GDP](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wg/resources/roses-wolf-database-on-regional-gdp)
 - [Standardized World Income Inequality Database](https://fsolt.org/swiid/)
 - [Total Economy Database](https://www.conference-board.org/data/economydatabase/index.cfm?id=27762)
 - [Union Centralization among Advanced Industrial Societies](http://hdl.handle.net/1902.1/10193)
