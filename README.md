@@ -380,6 +380,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
+- [Incarceration Trends Dataset](https://github.com/vera-institute/incarceration_trends)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
 - [Moral Machine](https://osf.io/3hvt2/?view_only=4bb49492edee4a8eb1758552a362a2cf)
 - [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
