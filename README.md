@@ -234,6 +234,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
 - [Federico-Tena World Trade Historical Database](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database)
+- [Global Debt Database](https://www.imf.org/external/datamapper/datasets/GDD)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)
 - [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
