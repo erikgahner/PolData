@@ -262,6 +262,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Net Volatility in Western Europe](https://soc.kuleuven.be/web/staticpage/11/95/eng/1197)
 - [ParlGov: Elections](http://www.parlgov.org/)
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
+- [Slovak Election Data Project](https://sites.google.com/site/marekhlavac/slovak_election_data_project)
 - [US Presidential Elections](https://github.com/zonination/election-history)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
