@@ -384,6 +384,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Anti-Refugee Violence and Social Unrest in Germany](https://journals.sagepub.com/doi/abs/10.1177/2053168016679590)
 - [Campaign Finance Law Across the Nation](http://cfinst.org/State/LawsDatabase_Download.aspx)
+- [Comparative dataset on socio-cultural, political and legal indicators](https://www.sirius-project.eu/news/comparative-dataset-socio-cultural-political-and-legal-indicators)
 - [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
