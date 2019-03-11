@@ -319,6 +319,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Quantified Political Relationships](http://www.simonweschle.com/data)
 - [Rebel Contraband Dataset](http://civilwardynamics.org/data/)
 - [Reputation of Terror Groups](http://www.efetokdemir.com/data.html)
+- [Right-Wing Terrorism and Violence](https://www.sv.uio.no/c-rex/english/rtv/index.html)
 - [Sexual Violence in Armed Conflict](http://www.sexualviolencedata.org/dataset/)
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
 - [State Failure Problem Set](http://www.systemicpeace.org/inscrdata.html)
@@ -332,7 +333,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [The Continent of International Law](http://www.isr.umich.edu/cps/coil/files.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
 - [The Logic of Political Survival](http://www.nyu.edu/gsas/dept/politics/data/bdm2s2/Logic.htm)
-- [Threat and Imposition of Sanctions](http://www.unc.edu/~bapat/TIES.htm)
+- [Threat and Imposition of Sanctions](http://sanctions.web.unc.edu/)
 - [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
 - [UN Targeted Sanctions](https://www.prio.org/JPR/Datasets/)
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
@@ -371,7 +372,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Political elites
 
-- [An Automated Database of the European Parliament](http://folk.uio.no/bjornkho/MEP/)
+- [An Automated Database of the European Parliament](https://nabu.usit.uio.no/sv/isv/)
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
 - [Comparative Candidates Survey](http://www.comparativecandidates.org/data-access)
@@ -435,4 +436,4 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass, Simon Straubinger and Agnar Freyr Helgason.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass, Simon Straubinger, Bjørn Høyland and Agnar Freyr Helgason.
