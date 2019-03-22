@@ -295,6 +295,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Electoral Contention and Violence](https://ecavdata.org/)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
 - [Foreign Fighter Observation Set](http://hegghammer.com/text.cfm?path=2176)
+- [Foundations of Rebel Group Emergence](https://www.jessicamaves.com/forge.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Genocides and Politicides events](http://www.gpanet.org/content/genocides-and-politicides-events-1955-2002)
