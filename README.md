@@ -111,7 +111,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [European Quality of Life](https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys)
 - [European Social Survey](http://www.europeansocialsurvey.org/)
 - [European Values Study](http://www.europeanvaluesstudy.eu/)
-- [General Social Survey​](http://gss.norc.org/)
+- [General Social Survey](http://gss.norc.org/)
 - [German General Social Survey](https://www.gesis.org/en/institute/competence-centers/rdc-allbus//)
 - [Global Preferences Survey](https://www.briq-institute.org/global-preferences/downloads)
 - [International Social Survey Programme](http://www.issp.org/menu-top/home/)
@@ -140,6 +140,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Median Voter](https://www.binghamton.edu/political-science/research.html/)
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
+- [Policy Ideology in Europe](https://tomogradypolitics.wordpress.com/data-on-european-ideology/)
 - [The 'Most Important Problem' Dataset](http://web.missouri.edu/~williamslaro/mipdata.html)
 - [The American Ideology Project](http://americanideologyproject.com/)
 - [Worlds of Journalism](http://www.worldsofjournalism.org/data/data-and-key-tables-2012-2016/)
