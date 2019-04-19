@@ -46,6 +46,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
+- [Debates in the Council of the European Union](https://wratil.eu/projects)
 - [Dutch Parliamentary Voting Dataset](https://doi.org/10.7910/DVN/UXIBNO)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
 - [Governments Data, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
