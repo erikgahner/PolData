@@ -406,6 +406,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
 - [Global Dual Citizenship Database](https://macimide.maastrichtuniversity.nl/dual-cit-database/)
+- [Human Capital Index](http://www.worldbank.org/en/publication/human-capital)
 - [Incarceration Trends Dataset](https://github.com/vera-institute/incarceration_trends)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
 - [Moral Machine](https://osf.io/3hvt2/?view_only=4bb49492edee4a8eb1758552a362a2cf)
