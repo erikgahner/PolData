@@ -243,7 +243,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Barro-Ursua Macroeconomic Data](https://scholar.harvard.edu/barro/publications/barro-ursua-macroeconomic-data)
 - [Chinn-Ito Index](http://web.pdx.edu/~ito/Chinn-Ito_website.htm)
 - [Comparative Income Taxation Database](https://data.stanford.edu/comparative-income-taxation-database-citd)
-- [Comparative Independent Fiscal Institutions](https://fiscal-institutions.shinyapps.io/data/)
+- [Comparative Independent Fiscal Institutions](https://fiscal-institutions.github.io/)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
@@ -383,6 +383,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Social Assistance, Politics, and Institutions database](https://www.wider.unu.edu/project/sapi-social-assistance-politics-and-institutions-database)
 - [Social Security Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [State Policy Innovation and Diffusion](https://dataverse.harvard.edu/dataverse/spid)
+- [Tax Introduction Database](http://tid.seelkopf.eu/)
 - [The Regulation of Labor](https://scholar.harvard.edu/shleifer/publications/regulation-labor)
 
 ### Political elites
