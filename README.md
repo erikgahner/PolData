@@ -447,6 +447,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Norwegian Centre for Research Data: Data Services](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 - [Open datasets](https://docs.google.com/spreadsheets/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/edit#gid=0)
 - [Paul Hensel's International Relations Data Site](http://www.paulhensel.org/data.html)
+- [Political Science Data](https://www.poliscidata.com/)
 - [Team Populism](http://populism.byu.edu/Pages/Data)
 - [Terrorism Events Data: An Inventory of Databases and Data Sets, 1968-2017](http://www.terrorismanalysts.com/pt/index.php/pot/article/view/622/html)
 - [The MacroDataGuide](http://www.nsd.uib.no/macrodataguide/index.html)
