@@ -398,6 +398,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 - [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
 - [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
+- [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
