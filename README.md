@@ -388,6 +388,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Social Security Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [State Policy Innovation and Diffusion](https://dataverse.harvard.edu/dataverse/spid)
 - [Tax Introduction Database](http://tid.seelkopf.eu/)
+- [The European pension politics dataset](http://euiresdata.eui.eu/xmlui/handle/123456789/32)
 - [The Regulation of Labor](https://scholar.harvard.edu/shleifer/publications/regulation-labor)
 
 ### Political elites
