@@ -191,6 +191,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Ethnonationalism in Party Competition](http://christinazuber.com/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
 - [Every Politician](http://everypolitician.org/countries.html)
+- [Immigration in Party Manifestos](https://doi.org/10.1177%2F0010414019858936)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
 - [Members and Activists of Political Parties](https://zenodo.org/record/61234)
 - [New Parties and Party System Innovation in Western Europe since 1945](https://cise.luiss.it/cise/dataset-of-new-parties-and-party-system-innovation-in-western-europe-since-1945/)
