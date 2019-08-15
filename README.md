@@ -171,6 +171,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Disclosure by Politicians](http://mba.tuck.dartmouth.edu/pages/faculty/rafael.laporta/publications.html)
 - [Electoral Law Indicators](http://globalcit.eu/electoral-law-indicators/)
 - [Evolution of European Union Law](https://www.dropbox.com/sh/cad53vd1zf6vdts/AABc5VuwvNSrxEFjJOrei9f8a?dl=0)
+- [German Federal Courts Dataset](http://www.richter-im-internet.de)
 - [Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts](http://www.uva-aias.net/en/ictwss)
 - [Institutional Quality Dataset](https://sites.google.com/site/aljazkuncic/research)
 - [Institutions and Elections Project](https://havardhegre.net/iaep/)
