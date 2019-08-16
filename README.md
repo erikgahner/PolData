@@ -143,6 +143,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Median Voter](https://www.binghamton.edu/political-science/research.html/)
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
 - [Policy Ideology in Europe](https://tomogradypolitics.wordpress.com/data-on-european-ideology/)
+- [Public Policy Mood](http://stimson.web.unc.edu/data/)
 - [The 'Most Important Problem' Dataset](http://web.missouri.edu/~williamslaro/mipdata.html)
 - [The American Ideology Project](http://americanideologyproject.com/)
 - [Worlds of Journalism](http://www.worldsofjournalism.org/data/data-and-key-tables-2012-2016/)
