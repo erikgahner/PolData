@@ -285,6 +285,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [ParlGov: Elections](http://www.parlgov.org/)
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
 - [Slovak Election Data Project](https://sites.google.com/site/marekhlavac/slovak_election_data_project)
+- [UK Election Statistics](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7529)
 - [US Presidential Elections](https://github.com/zonination/election-history)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
