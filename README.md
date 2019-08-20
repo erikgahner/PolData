@@ -274,6 +274,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [Danish General Election Results](https://github.com/Straubinger/folketingsvalg)
 - [Database on Ideology, Money in Politics, and Elections](https://data.stanford.edu/dime#download-data)
+- [Eggers and Spirling British Political Development database](https://github.com/ArthurSpirling/EggersSpirlingDatabase)
 - [Electoral Volatility and its internal components in Western Europe](https://cise.luiss.it/cise/dataset-of-electoral-volatility-and-its-internal-components-in-western-europe-1945-2015/)
 - [Electoral Volatility in the European Parliament elections](https://cise.luiss.it/cise/dataset-of-electoral-volatility-in-the-european-parliament-elections-since-1979/)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
