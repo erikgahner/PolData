@@ -262,6 +262,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
 - [Rosés-Wolf database on regional GDP](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wg/resources/roses-wolf-database-on-regional-gdp)
 - [Standardized World Income Inequality Database](https://fsolt.org/swiid/)
+- [Systemic Banking Crises Database](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Systemic-Banking-Crises-Database-An-Update-26015)
 - [Total Economy Database](https://www.conference-board.org/data/economydatabase/index.cfm?id=27762)
 - [Union Centralization among Advanced Industrial Societies](http://hdl.handle.net/1902.1/10193)
 - [World Economic Outlook](http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/download.aspx)
