@@ -315,6 +315,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
+- [Historical terrorist groups](https://jtschantret.com/data/)
 - [Historical Varieties of Democracy](https://www.v-dem.net/en/historical/)
 - [Ill-Treatment and Torture](http://faculty.ucmerced.edu/cconrad2/Academic/Data.html)
 - [Implementation of Pacts](https://www.pcr.uu.se/data/impact-dataset/)
