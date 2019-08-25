@@ -448,6 +448,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Data Resources for Studies in Comparative Politics](https://docs.google.com/spreadsheets/d/1S-dMeDrg8kXElEvZyWelQfMANCmpmwpprbqGglYs4Ws/pubhtml?gid=325169251&single=true)
 - [Datasets for development economists](http://devecondata.blogspot.com)
 - [Datasets for empirical development economists](https://sites.google.com/site/medevecon/development-economics/devecondata)
+- [Datasets with text data for use in Natural Language Processing](https://github.com/niderhoff/nlp-datasets)
 - [Economic Data freely available online](https://www.economicsnetwork.ac.uk/data_sets)
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
 - [ERDDA: Comparative links](http://www.erdda.se/index.php/comparative-links)
