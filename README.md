@@ -140,6 +140,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 #### Aggregated
 
 - [European Mood](https://tinetteschnatterer.com/projects/eu-mood/)
+- [Executive Approval Database](http://www.executiveapproval.org/datasets-1/)
 - [Median Voter](https://www.binghamton.edu/political-science/research.html/)
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
 - [Policy Ideology in Europe](https://tomogradypolitics.wordpress.com/data-on-european-ideology/)
