@@ -169,6 +169,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [ACLP Political and Economic Database](https://sites.google.com/site/joseantoniocheibub/datasets/democracy-and-development-aclp)
 - [Comparative Political Data Set](http://www.cpds-data.org/)
+- [Congressional Whip Count Database](https://wmpeople.wm.edu/site/page/clevan/congressionalwhipcountdatabase)
 - [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
 - [Disclosure by Politicians](http://mba.tuck.dartmouth.edu/pages/faculty/rafael.laporta/publications.html)
 - [Electoral Law Indicators](http://globalcit.eu/electoral-law-indicators/)
