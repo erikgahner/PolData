@@ -316,6 +316,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Genocides and Politicides events](http://www.gpanet.org/content/genocides-and-politicides-events-1955-2002)
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
+- [Global Transitional Justice Dataset](https://www.tjdemstabilitylab.com/data.html)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
 - [Historical terrorist groups](https://jtschantret.com/data/)
 - [Historical Varieties of Democracy](https://www.v-dem.net/en/historical/)
