@@ -384,6 +384,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Abortion Law Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Bilateral Labor Agreements Dataset](https://www.law.uchicago.edu/bilateral-labor-agreements-dataset)
+- [Canadian Government Expenditures](https://doi.org/10.7910/DVN/XDZ4A6)
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
 - [Correlates of State Policy](http://www.ippsr.msu.edu/public-policy/correlates-state-policy)
