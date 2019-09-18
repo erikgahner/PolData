@@ -284,6 +284,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
+- [NCSL Ballot Measures](https://ippsr.msu.edu/public-policy/correlates-state-policy/ncsl-ballot-measures-correlates)
 - [Negative Campaigning Comparative Expert Survey](https://www.alessandro-nai.com/negex-data)
 - [Net Volatility in Western Europe](https://soc.kuleuven.be/web/staticpage/11/95/eng/1197)
 - [ParlGov: Elections](http://www.parlgov.org/)
@@ -314,6 +315,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Genocides and Politicides events](http://www.gpanet.org/content/genocides-and-politicides-events-1955-2002)
+- [Gibler-Miller-Little Militarized Interstate Dispute](http://svmiller.com/gml-mid-data/)
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [Global Transitional Justice Dataset](https://www.tjdemstabilitylab.com/data.html)
@@ -377,6 +379,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Political Advertisements from Facebook](https://www.propublica.org/datastore/dataset/political-advertisements-from-facebook)
 - [Global Media Freedom Dataset](http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx)
 - [Political TV Ad Archive](http://politicaladarchive.org/data/)
+- [Snap Political Ads Library](https://www.snap.com/en-US/political-ads/)
 - [Wesleyan Media Project: Media Advertising](http://mediaproject.wesleyan.edu/dataaccess/)
 - [World Press Freedom Index](https://rsf.org/en/ranking_table)
 
@@ -440,6 +443,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [Serious Nuclear and Radiological Incidents](http://hegghammer.com/text.cfm?path=2176)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
+- [State Networks](https://ippsr.msu.edu/public-policy/state-networks)
 - [Sustainable Society Index](http://www.ssfindex.com/data-all-countries/)
 
 ### Additional overviews of datasets
