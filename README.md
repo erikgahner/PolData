@@ -416,6 +416,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
 - [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
+- [Parliamentary Speeches in Ireland](https://doi.org/10.7910/DVN/6MZN76)
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
 
@@ -424,6 +425,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Anti-Refugee Violence and Social Unrest in Germany](https://journals.sagepub.com/doi/abs/10.1177/2053168016679590)
 - [Campaign Finance Law Across the Nation](http://cfinst.org/State/LawsDatabase_Download.aspx)
 - [Comparative dataset on socio-cultural, political and legal indicators](https://www.sirius-project.eu/news/comparative-dataset-socio-cultural-political-and-legal-indicators)
+- [Database of Masculine and Feminine Words](https://doi.org/10.1177%2F1065912919874883)
 - [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
