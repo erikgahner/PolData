@@ -182,6 +182,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Legislative production in the EU, 1967-2012](http://www.dimiter.eu/Data.html)
 - [Rule of Law Index](https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data)
 - [The Political Constraint Index](https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/)
+- [U.S. District Court Database](https://www.umassd.edu/cas/polisci/resources/us-district-court-database/)
 
 ### Parties and politicians
 
