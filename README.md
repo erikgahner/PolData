@@ -117,6 +117,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [German General Social Survey](https://www.gesis.org/en/institute/competence-centers/rdc-allbus//)
 - [Global Preferences Survey](https://www.briq-institute.org/global-preferences/downloads)
 - [International Social Survey Programme](http://www.issp.org/menu-top/home/)
+- [Issue Competition Comparative Project](https://cise.luiss.it/iccp/index.php/data/)
 - [Korean General Social Survey](http://kgss.skku.edu/?page_id=39)
 - [Life in Transition Survey](http://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html)
 - [Making Electoral Democracy Work](http://electoraldemocracy.com/medw-survey-data-open-access-2485)
