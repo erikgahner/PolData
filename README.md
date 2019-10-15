@@ -257,6 +257,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Income Taxation Database](https://data.stanford.edu/comparative-income-taxation-database-citd)
 - [Comparative Independent Fiscal Institutions](https://fiscal-institutions.github.io/)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
+- [European Central Bank: Speeches data](https://www.ecb.europa.eu/press/key/html/downloads.en.html)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
 - [Federico-Tena World Trade Historical Database](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database)
