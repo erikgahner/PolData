@@ -211,6 +211,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Political Party Database](https://dataverse.harvard.edu/dataverse/politicalparties)
 - [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
+- [State Legislator Shor-McCarty Ideology Data](https://americanlegislatures.com/data/)
 - [The PopuList](https://popu-list.org/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
@@ -232,6 +233,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
 - [Political Regimes of the World](https://link.springer.com/article/10.1057/s41304-018-0149-8)
 - [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
+- [Unified Democracy Scores](http://www.unified-democracy-scores.org/uds.html)
 - [Vanhanen's index of democracy](https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/)
 - [Varieties of Democracy](https://www.v-dem.net/en/data/)
 
@@ -427,6 +429,10 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
 
+### Environment
+
+- [Environmental Performance Index](http://epi.yale.edu/downloads)
+
 ### Other
 
 - [Anti-Refugee Violence and Social Unrest in Germany](https://journals.sagepub.com/doi/abs/10.1177/2053168016679590)
@@ -434,7 +440,6 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative dataset on socio-cultural, political and legal indicators](https://www.sirius-project.eu/news/comparative-dataset-socio-cultural-political-and-legal-indicators)
 - [Database of Masculine and Feminine Words](https://doi.org/10.1177%2F1065912919874883)
 - [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
-- [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
 - [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
