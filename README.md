@@ -334,6 +334,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [International Military Intervention](https://www.k-state.edu/polsci/intervention/)
 - [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
+- [Lankina Russian Protest-Event Dataset](https://katerinatertytchnaya.com/research/)
 - [Latent Human Rights Protection Scores](https://doi.org/10.7910/DVN/24872)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Mass Mobilization in Autocracies Database](https://mmadatabase.org/)
