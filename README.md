@@ -266,6 +266,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Fiscal Crisis Episodes](https://www.imf.org/en/Publications/WP/Issues/2017/04/03/Fiscal-Crises-44795)
 - [Global Debt Database](https://www.imf.org/external/datamapper/datasets/GDD)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
+- [Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689)
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)
 - [Maddison Project Database](http://www.ggdc.net/maddison/maddison-project/data.htm)
 - [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
