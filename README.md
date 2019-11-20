@@ -130,6 +130,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [American Trends Panel Datasets](http://www.pewresearch.org/american-trends-panel-datasets/)
 - [British Household Panel Survey](https://www.iser.essex.ac.uk/bhps)
+- [Survey of Income and Program Participation](https://www.census.gov/programs-surveys/sipp/data/datasets.html)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [German Socio-Economic Panel](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP)
 - [Longitudinal Internet Studies for the Social sciences](https://www.lissdata.nl/)
