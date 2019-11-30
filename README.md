@@ -213,6 +213,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [State Legislator Shor-McCarty Ideology Data](https://americanlegislatures.com/data/)
+- [The Comparative Legislators Database](https://github.com/saschagobel/legislatoR)
 - [The PopuList](https://popu-list.org/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
