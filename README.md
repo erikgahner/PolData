@@ -437,7 +437,10 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Environment
 
+- [Climate Action Tracker](https://climateactiontracker.org/data-portal/)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
+- [International Environmental Agreements Database](https://iea.uoregon.edu/)
+- [World Database on Protected Areas](https://www.protectedplanet.net/c/world-database-on-protected-areas)
 
 ### Other
 
