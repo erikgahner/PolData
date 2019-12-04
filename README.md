@@ -203,6 +203,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Immigration in Party Manifestos](https://doi.org/10.1177%2F0010414019858936)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
 - [Members and Activists of Political Parties](https://zenodo.org/record/61234)
+- [MPs additional income](https://datalobo.com/mp-earnings/)
 - [New Parties and Party System Innovation in Western Europe since 1945](https://cise.luiss.it/cise/dataset-of-new-parties-and-party-system-innovation-in-western-europe-since-1945/)
 - [Norwegian Parliamentary Elections, 1906-2013](https://doi.org/10.18712/NSD-NSD2405-V1)
 - [ParlGov: Parties](http://www.parlgov.org/)
