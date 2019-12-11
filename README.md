@@ -320,6 +320,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
 - [Coups in the World](http://www.jonathanmpowell.com/coup-detat-dataset.html)
 - [Cross-Cutting Cleavage Dataset](https://sites.google.com/site/joelsawatselway/CROSS-CUTTING-CLEAVAGES-DATA)
+- [De Facto States in International Politics](https://doi.org/10.1080/03050629.2014.915543)
 - [Disaggregated Military Expenditure](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [Domestic Terrorist Victims dataset](http://hdl.handle.net/1902.1/14717)
 - [Electoral Contention and Violence](https://ecavdata.org/)
