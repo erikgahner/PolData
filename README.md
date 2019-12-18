@@ -449,6 +449,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Other
 
 - [Anti-Refugee Violence and Social Unrest in Germany](https://journals.sagepub.com/doi/abs/10.1177/2053168016679590)
+- [Cohort Fertility and Education Database](http://www.cfe-database.org/database/)
 - [Campaign Finance Law Across the Nation](http://cfinst.org/State/LawsDatabase_Download.aspx)
 - [Comparative dataset on socio-cultural, political and legal indicators](https://www.sirius-project.eu/news/comparative-dataset-socio-cultural-political-and-legal-indicators)
 - [Database of Masculine and Feminine Words](https://doi.org/10.1177%2F1065912919874883)
