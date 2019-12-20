@@ -443,7 +443,10 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 - [Climate Action Tracker](https://climateactiontracker.org/data-portal/)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
+- [Global Oil & Gas Features Database](https://edx.netl.doe.gov/dataset/global-oil-gas-features-database)
+- [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
 - [International Environmental Agreements Database](https://iea.uoregon.edu/)
+- [TRade & ENvironment Database](http://www.chaire-epi.ulaval.ca/en/trend)
 - [World Database on Protected Areas](https://www.protectedplanet.net/c/world-database-on-protected-areas)
 
 ### Other
