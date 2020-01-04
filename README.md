@@ -193,6 +193,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Autocratic Ruling Parties Dataset](https://sites.google.com/site/mkmtwo/data)
 - [Bundestag Roll Call Vote Data](https://dataverse.harvard.edu/dataverse/btvote)
 - [Chapel Hill Expert Survey](https://www.chesdata.eu/our-surveys/)
+- [CMP Government Positions Data](https://wratil.eu/data/)
 - [Commissioners of the European Union](http://holgerdoering.net/data.html)
 - [Comparative Agendas Project](http://www.comparativeagendas.net/datasets_codebooks)
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)
