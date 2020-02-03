@@ -495,6 +495,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
 - [ERDDA: Comparative links](http://www.erdda.se/index.php/comparative-links)
 - [European Representative Democracy Data Archive](http://www.erdda.se/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
 - [International IDEA](https://www.idea.int/data-tools)
 - [Large datasets for social science, genomics and medicine](https://docs.google.com/spreadsheets/d/1ISYoRpx6A098m582lS4XDS2P9fdfKdAfA4ILjW44byY/edit)
