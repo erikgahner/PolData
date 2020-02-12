@@ -444,6 +444,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 ### Environment
 
 - [Climate Action Tracker](https://climateactiontracker.org/data-portal/)
+- [Climate Policy Database](http://climatepolicydatabase.org/index.php/Download_policies)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Global Oil & Gas Features Database](https://edx.netl.doe.gov/dataset/global-oil-gas-features-database)
 - [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
