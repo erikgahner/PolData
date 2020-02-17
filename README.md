@@ -214,6 +214,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
 - [Political Party Database](https://dataverse.harvard.edu/dataverse/politicalparties)
 - [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
+- [Roll Call Votes in the European Parliament](http://personal.lse.ac.uk/hix/HixNouryRolandEPdata.HTM)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [State Legislator Shor-McCarty Ideology Data](https://americanlegislatures.com/data/)
 - [The Comparative Legislators Database](https://github.com/saschagobel/legislatoR)
