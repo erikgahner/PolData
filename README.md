@@ -201,6 +201,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Ethnonationalism in Party Competition](http://christinazuber.com/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
 - [Every Politician](http://everypolitician.org/countries.html)
+- [Global Party Survey](https://dataverse.harvard.edu/dataverse/GlobalPartySurvey)
 - [Immigration in Party Manifestos](https://doi.org/10.1177%2F0010414019858936)
 - [Issue ownership](https://henrikbechseeberg.weebly.com/datasets.html)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
@@ -447,6 +448,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
 ### Environment
 
+- [Aqueduct](https://www.wri.org/resources/data-sets/aqueduct-30-country-rankings)
 - [Climate Action Tracker](https://climateactiontracker.org/data-portal/)
 - [Climate Policy Database](http://climatepolicydatabase.org/index.php/Download_policies)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
