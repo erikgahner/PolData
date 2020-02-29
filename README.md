@@ -121,6 +121,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Korean General Social Survey](http://kgss.skku.edu/?page_id=39)
 - [Life in Transition Survey](http://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html)
 - [Making Electoral Democracy Work](http://electoraldemocracy.com/medw-survey-data-open-access-2485)
+- [Nationscape](https://www.voterstudygroup.org/publication/nationscape-data-set-release-1)
 - [Pew Global Attitudes Survey](http://www.pewglobal.org/datasets/)
 - [Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/data-documentation/share-data-releases.html)
 - [The SOM Institute Cumulative Dataset](https://snd.gu.se/en/catalogue/study/snd0905)
@@ -184,6 +185,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Judicial Review of Congress Database](https://scholar.princeton.edu/kewhitt/judicial-review-congress-database)
 - [Legislative production in the EU, 1967-2012](http://www.dimiter.eu/Data.html)
 - [Rule of Law Index](https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data)
+- [The Centre for European Policy Studies EurLex dataset](https://doi.org/10.7910/DVN/0EGYWY)
 - [The Political Constraint Index](https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/)
 - [U.S. District Court Database](https://www.umassd.edu/cas/polisci/resources/us-district-court-database/)
 
