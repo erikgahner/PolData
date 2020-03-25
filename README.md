@@ -124,6 +124,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Nationscape](https://www.voterstudygroup.org/publication/nationscape-data-set-release-1)
 - [Pew Global Attitudes Survey](http://www.pewglobal.org/datasets/)
 - [Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/data-documentation/share-data-releases.html)
+- [Survey of the Incarcerated](https://github.com/themarshallproject/incarcerated_survey)
 - [The SOM Institute Cumulative Dataset](https://snd.gu.se/en/catalogue/study/snd0905)
 - [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)
 

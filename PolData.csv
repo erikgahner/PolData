@@ -330,6 +330,7 @@ Studying Immigrant Policy One Law at a Time,policy,https://doi.org/10.7910/DVN/F
 Suicide Attack Database,international relations,http://cpostdata.uchicago.edu/search_new.php,"Suicide attacks, victims, campaign, weapon, target type",world,,,,,,1974,2016,online,"free, no registration",,,,,,,,,,,,,,,
 "Survey of Health, Ageing and Retirement in Europe",citizens,http://www.share-project.org/data-documentation/share-data-releases.html,,Europe,,,,,,,,online,"free, application form",,,,,,,,,,,,,,,
 Survey of Income and Program Participation,citizens,https://www.census.gov/programs-surveys/sipp/data/datasets.html,"financial well-being, family dynamics, educational attainment, housing expenditures, asset ownership, health insurance, disability, child care, and food security",USA,0,0,0,0,1,1984,2014,online,no,1,,,,,,,,,,,,,20191120,
+Survey of the Incarcerated,citizens,https://github.com/themarshallproject/incarcerated_survey,political attitudes,USA,0,0,0,0,1,2019,2020,online,no,1,,https://github.com/themarshallproject/incarcerated_survey/raw/master/data/incarcerated_survey_responses-marshallproject_slate-march_2019.csv,,,,,,,,,,,20200325,
 Sustainable Society Index,other,http://www.ssfindex.com/data-all-countries/,"sustainability, environment",,1,1,1,1,1,2006,2016,online,no,1,,,,,http://www.ssfindex.com/ssi2016/wp-content/uploads/2016/11/Data_countries_2006-2016.xlsx,,,,,,,,20180917,
 Swedish National Election Studies,citizens,http://valforskning.pol.gu.se/english,,Sweden,,,,,,1956,,,,,,,,,,,,,,,,,,
 SwedishPolls,citizens,https://github.com/MansMeg/SwedishPolls,,Sweden,,,,,,1998,,public archive,"free, online",,,,,,,,,,,,,,,
@@ -374,7 +375,7 @@ United Nations Security Council membership,international relations,http://www.un
 Uppsala Conflict Data Program,international relations,http://ucdp.uu.se/downloads/,,,,,,,,,,,,,,,,,,,,,,,,,,
 US Presidential Elections,elections,https://github.com/zonination/election-history,,USA,,,,,,1789,,public archive,"free, online",,,,,,,,,,,,,,,
 Vanhanen's index of democracy,democracy,https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/,,,,,,,,,,,,,,,,,,,,,,,,,,
-Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,"democracy, institutions, rights, elections, parties",world,1,1,1,1,1,1789,2017,online,online form,1,,,,,,,,country_name,year,COWcode,,,20180501,
+Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,"democracy, institutions, rights, elections, parties",,1,1,1,1,1,1789,2019,online,online form,1,,,,,,,,country_name,year,COWcode,,,20200320,
 Veto Players Data,cabinets and parliaments,https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/,,,,,,,,,,,,,,,,,,,,,,,,,,cross-sectional
 Voter Turnout Database,elections,https://www.idea.int/data-tools/data/voter-turnout,,,,,,,,,,,,,,,,,,,,,,,,,,
 Water-Related Intrastate Conflict and Cooperation,international relations,http://hdl.handle.net/1902.1/20496,"water conflict, water cooperation",,1,1,0,0,0,1997,2009,online,no,1,,,,,,,,,year,,,1902.1/20496,20180331,
