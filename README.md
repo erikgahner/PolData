@@ -420,6 +420,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
 - [Correlates of State Policy](http://www.ippsr.msu.edu/public-policy/correlates-state-policy)
 - [fRDB-IZA Social Reforms Database](http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027)
+- [Global Visa Cost Dataset](http://www.migrationpolicycentre.eu/globalmobilities/dataset/)
 - [Government Revenue Dataset](https://www.wider.unu.edu/database/additional-data-files-grd)
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
