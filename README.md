@@ -53,6 +53,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [ParlGov: Cabinets](http://www.parlgov.org/)
 - [Parliamentary Rules Database](https://parlrulesdata.org/)
 - [Parliaments and governments database](http://www.parlgov.org/)
+- [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
 - [Parties in Parliaments and Governments, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Party Government Data Set](https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx)
 - [Portfolio Allocation in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
