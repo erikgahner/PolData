@@ -270,6 +270,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Chinn-Ito Index](http://web.pdx.edu/~ito/Chinn-Ito_website.htm)
 - [Comparative Income Taxation Database](https://data.stanford.edu/comparative-income-taxation-database-citd)
 - [Comparative Independent Fiscal Institutions](https://fiscal-institutions.github.io/)
+- [COVID-19 Economic Stimulus Index](http://web.boun.edu.tr/elgin/COVID.htm)
 - [Culture of cooperation and inclusive political institutions](https://doi.org/10.1016/j.dib.2019.104731)
 - [Design of Trade Agreements Database](https://www.designoftradeagreements.org/downloads/)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
