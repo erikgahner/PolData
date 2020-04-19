@@ -141,7 +141,7 @@ Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 - [Norwegian Citizen Panel](http://www.nsd.uib.no/nsddata/serier/norsk_medborgerpanel_eng.html)
 - [Short-term Campaign Panel](https://doi.org/10.4232/1.13129)
 - [Swiss Household Panel](http://forscenter.ch/en/our-surveys/swiss-household-panel/)
-- [The American Panel Survey](https://taps.wustl.edu/data-archive)
+- [The American Panel Survey](https://wc.wustl.edu/american-panel-survey)
 - [Understanding Society](https://www.understandingsociety.ac.uk/documentation/mainstage)
 
 #### Aggregated
