@@ -119,6 +119,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [German General Social Survey](https://www.gesis.org/en/institute/competence-centers/rdc-allbus//)
 - [Global Preferences Survey](https://www.briq-institute.org/global-preferences/downloads)
 - [International Social Survey Programme](http://www.issp.org/menu-top/home/)
+- [Investing in Education in Europe](https://search.gesis.org/research_data/ZA6961)
 - [Issue Competition Comparative Project](https://cise.luiss.it/iccp/index.php/data/)
 - [Korean General Social Survey](http://kgss.skku.edu/?page_id=39)
 - [Life in Transition Survey](http://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html)
