@@ -39,7 +39,7 @@ A collection of political datasets. The datasets are listed below within specifi
 
 #### Something missing?
 
-Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
+Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Cabinets and parliaments
 
