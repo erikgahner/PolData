@@ -383,6 +383,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Reputation of Terror Groups](http://www.efetokdemir.com/data.html)
 - [Revolutionary Leaders and Revolutions](https://sites.google.com/site/jeffdcolgan/data)
 - [Right-Wing Terrorism and Violence](https://www.sv.uio.no/c-rex/english/rtv/index.html)
+- [Rising Powers Diplomatic Network](https://doi.org/10.7910/DVN/5FISNQ)
 - [Rulers, Elections, and Irregular Governance](https://oefdatascience.github.io/REIGN.github.io/)
 - [Sexual Violence in Armed Conflict](http://www.sexualviolencedata.org/dataset/)
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
