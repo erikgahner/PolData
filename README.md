@@ -3,7 +3,7 @@ A dataset with political datasets
 
 ### Description
 
-A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`, `.Rdata`, `.sav`) with detailed information on the topics, coverage and availability of the respective datasets.
+A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`s) with detailed information on the topics, coverage and availability of the respective datasets.
 
 ## Variables in the dataset
 
