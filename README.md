@@ -207,7 +207,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Ethnonationalism in Party Competition](http://christinazuber.com/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
 - [Every Politician](http://everypolitician.org/countries.html)
-- [Global Party Survey](https://dataverse.harvard.edu/dataverse/GlobalPartySurvey)
+- [Global Party Survey](https://www.globalpartysurvey.org/)
 - [Immigration in Party Manifestos](https://doi.org/10.1177%2F0010414019858936)
 - [Issue ownership](https://henrikbechseeberg.weebly.com/datasets.html)
 - [Local Candidate Dataset](http://www.jon.fiva.no/data.htm)
