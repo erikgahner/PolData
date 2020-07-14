@@ -512,7 +512,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Charles Stewart's Congressional Data Page](http://web.mit.edu/17.251/www/data_page.html)
 - [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) (hundreds of datasets, political and non-political)
-- [Data on EU Legislative Politics](http://www.elprg.eu/data.htm)
 - [Data Resources for Studies in Comparative Politics](https://docs.google.com/spreadsheets/d/1S-dMeDrg8kXElEvZyWelQfMANCmpmwpprbqGglYs4Ws/pubhtml?gid=325169251&single=true)
 - [Datasets and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data)
 - [Datasets for development economists](http://devecondata.blogspot.com)
@@ -520,7 +519,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Datasets with text data for use in Natural Language Processing](https://github.com/niderhoff/nlp-datasets)
 - [Economic Data freely available online](https://www.economicsnetwork.ac.uk/data_sets)
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
-- [ERDDA: Comparative links](http://www.erdda.se/index.php/comparative-links)
 - [European Representative Democracy Data Archive](http://www.erdda.se/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
@@ -535,7 +533,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Team Populism](http://populism.byu.edu/Pages/Data)
 - [Terrorism Events Data: An Inventory of Databases and Data Sets, 1968-2017](http://www.terrorismanalysts.com/pt/index.php/pot/article/view/622/html)
 - [The MacroDataGuide](http://www.nsd.uib.no/macrodataguide/index.html)
-- [Quantitative Methods Initiative Datasets](http://www.quantitativemethods.ac.uk/datasets/)
 - [Quantitative Social Science Data](https://f.briatte.org/teaching/quanti/data/)
 
 ### Acknowledgements
