@@ -153,6 +153,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Comparative Agendas Project: Public Opinion & Interest Groups](http://www.comparativeagendas.net/datasets_codebooks)
 - [Policy Ideology in Europe](https://tomogradypolitics.wordpress.com/data-on-european-ideology/)
 - [Public Policy Mood](http://stimson.web.unc.edu/data/)
+- [State-level climate concern](https://www.parrishb.com/data)
 - [The 'Most Important Problem' Dataset](http://web.missouri.edu/~williamslaro/mipdata.html)
 - [The American Ideology Project](http://americanideologyproject.com/)
 - [Worlds of Journalism](http://www.worldsofjournalism.org/data/data-and-key-tables-2012-2016/)
