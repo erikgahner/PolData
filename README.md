@@ -430,6 +430,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Abortion Law Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Bilateral Labor Agreements Dataset](https://www.law.uchicago.edu/bilateral-labor-agreements-dataset)
 - [Canadian Government Expenditures](https://doi.org/10.7910/DVN/XDZ4A6)
+- [Citizenship Regime Inclusiveness Index](https://doi.org/10.1186/s40878-020-00182-5)
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
 - [Correlates of State Policy](http://www.ippsr.msu.edu/public-policy/correlates-state-policy)
