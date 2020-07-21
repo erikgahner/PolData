@@ -61,6 +61,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Seki-Williams Governments Dataset](http://faculty.missouri.edu/williamslaro/govtdata.html)
 - [Seki-Williams Ministers Dataset](http://faculty.missouri.edu/williamslaro/govtdata.html)
 - [Veto Players Data](https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/)
+- [WhoGov](https://www.nuffield.ox.ac.uk/our-research/research-centres/nuffield-politics-research-centre/whogov/)
 
 ### Citizens
 
