@@ -161,6 +161,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 #### Opinion polls
 
+- [Europe Elects](https://europeelects.eu/data/)
 - [FiveThirtyEight's Pollster Ratings](https://github.com/fivethirtyeight/data/tree/master/pollster-ratings)
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [Poll of Polls](https://pollofpolls.eu/)
