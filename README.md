@@ -267,6 +267,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Infrastructure Governance Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 - [Relative Political Capacity Dataset](http://hdl.handle.net/1902.1/16845)
+- [Territorial Self-Governance Dataset](https://territorial-governance.com/)
 - [Worldwide Bureaucracy Indicators](https://datacatalog.worldbank.org/dataset/worldwide-bureaucracy-indicators)
 - [Worldwide Governance Indicators](https://data.worldbank.org/data-catalog/worldwide-governance-indicators)
 
