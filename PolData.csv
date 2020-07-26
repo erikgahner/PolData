@@ -116,6 +116,7 @@ EPRG MEP Surveys,parties and politicians,https://mepsurvey.eu/data-objects/data/
 Estonian National Election Study,citizens,http://www.enes.ee/,,Estonia,0,0,1,0,0,2003,2011,online,application,1,http://static1.1.sqspcdn.com/static/f/1085277/20272216/1347606936497/ENES_2011_codebook.pdf,,,,,,,,,,,,20181122,
 Ethnic Power Relations,other,http://www.columbia.edu/~aw2951/Datasets.html,"Ethnic groups, state power",world,,,,,,1946,2010,online,"free, no registration",,http://www.columbia.edu/~aw2951/AppendixEthnicPolitics.pdf,http://www.columbia.edu/~aw2951/eprnew301.xlsx,http://www.columbia.edu/~aw2951/EPR3CountryNewReduced.dta,,,,,,,,,,,
 Ethnonationalism in Party Competition,parties and politicians,http://christinazuber.com/data/,"ethnicity, party competition",,0,0,1,0,1,2007,2016,online,registration,1,http://christinazuber.com/wordpress/wp-content/uploads/2013/02/EPAC-2011_2017-Codebook.pdf,,,,,,,country_name,elecyear,,,10.1177/1354068812462927,20190112,
+EUI-YouGov survey on Solidarity in Europe,citizens,https://cadmus.eui.eu//handle/1814/67584,"governments, democracy, EU, ideology, solidarity",,0,0,1,0,1,2020,2020,online,no,1,,,,,,,,,,,,1814/67584,20200725,
 Eurobarometer,citizens,http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm,,,,,,,,,,,,,,,,,,,,,,,,,,
 Euromanifesto,parties and politicians,http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/,,Europe,,,,,,1979,,,,,,,,,,,,,,,,,,
 Europe Elects,citizens,https://europeelects.eu/data/,"opinion polls, parties",,0,0,1,0,1,2018,2020,online,no,1,,,,,,,,,,,,,20200723,

@@ -112,6 +112,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [Cultural Pathways to Economic Self-Sufficiency and Entrepreneurship](https://doi.org/10.4232/1.13042)
 - [Democracy Fund Voter Study Group](https://www.voterstudygroup.org/data)
+- [EUI-YouGov survey on Solidarity in Europe](https://cadmus.eui.eu//handle/1814/67584)
 - [European Election Studies: Voter Study](http://europeanelectionstudies.net/ees-study-components/voter-study/)
 - [European Quality of Life](https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys)
 - [European Social Survey](http://www.europeansocialsurvey.org/)
