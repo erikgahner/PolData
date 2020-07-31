@@ -164,6 +164,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 - [Europe Elects](https://europeelects.eu/data/)
 - [FiveThirtyEight's Pollster Ratings](https://github.com/fivethirtyeight/data/tree/master/pollster-ratings)
+- [FiveThirtyEight polls](https://projects.fivethirtyeight.com/polls/)
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [Poll of Polls](https://pollofpolls.eu/)
 - [Polls and the Timeline of Elections](https://liberalarts.utexas.edu/government/faculty/cw26629#datasets-on-polls-and-the-timeline-of-elections)
