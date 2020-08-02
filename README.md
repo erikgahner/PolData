@@ -475,6 +475,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Aqueduct](https://www.wri.org/resources/data-sets/aqueduct-30-country-rankings)
 - [Climate Action Tracker](https://climateactiontracker.org/data-portal/)
 - [Climate Policy Database](http://climatepolicydatabase.org/index.php/Download_policies)
+- [Energy Policy Tracker](https://www.energypolicytracker.org/region/g20/)
 - [Environmental Performance Index](http://epi.yale.edu/downloads)
 - [Global Oil & Gas Features Database](https://edx.netl.doe.gov/dataset/global-oil-gas-features-database)
 - [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase)
