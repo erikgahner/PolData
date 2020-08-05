@@ -275,6 +275,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Economics
 
+- [Bank for International Settlements](https://www.bis.org/statistics/full_data_sets.htm)
 - [Barro-Ursua Macroeconomic Data](https://scholar.harvard.edu/barro/publications/barro-ursua-macroeconomic-data)
 - [Chinn-Ito Index](http://web.pdx.edu/~ito/Chinn-Ito_website.htm)
 - [Comparative Income Taxation Database](https://data.stanford.edu/comparative-income-taxation-database-citd)
