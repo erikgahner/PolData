@@ -374,6 +374,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Leaders’ Willingness to Use Force](https://doi.org/10.1017/S0003055420000313)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Mass Mobilization in Autocracies Database](https://mmadatabase.org/)
+- [Mass Mobilization Protest Data](https://massmobilization.github.io/)
 - [Measuring the Impacts of Colonialism](https://andrewalter.netlify.com/project/globdev/)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
