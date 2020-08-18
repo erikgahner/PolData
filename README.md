@@ -227,6 +227,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
 - [Political Party Database](https://dataverse.harvard.edu/dataverse/politicalparties)
 - [Populism and Political Parties Expert Survey][http://poppa-data.eu/]
+- [Private Members' Bills in the UK House of Commons](https://doi.org/10.7910/DVN/EEYIHN)
 - [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
 - [Roll Call Votes in the European Parliament](http://personal.lse.ac.uk/hix/HixNouryRolandEPdata.HTM)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
