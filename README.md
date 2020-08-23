@@ -400,6 +400,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Social Conflict Analysis Database](https://www.strausscenter.org/scad.html)
 - [State Failure Problem Set](http://www.systemicpeace.org/inscrdata.html)
 - [State Fragility Index](http://www.systemicpeace.org/inscrdata.html)
+- [State Security Forces dataset](http://www.ericadebruin.com/#security-force-data)
 - [Suicide Attack Database](http://cpostdata.uchicago.edu/search_new.php)
 - [Temporally Extended, Regular, Reproducible International Event Records](http://terrierdata.org/)
 - [Terrorism in Western Europe: Events Data](http://folk.uib.no/sspje/tweed.htm)
