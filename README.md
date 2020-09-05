@@ -60,6 +60,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Portfolio Allocation in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Seki-Williams Governments Dataset](http://faculty.missouri.edu/williamslaro/govtdata.html)
 - [Seki-Williams Ministers Dataset](http://faculty.missouri.edu/williamslaro/govtdata.html)
+- [United States of America Cabinet Appointments Dataset](https://github.com/taitcha/American_cabinet_appointments)
 - [Veto Players Data](https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/)
 - [WhoGov](https://www.nuffield.ox.ac.uk/our-research/research-centres/nuffield-politics-research-centre/whogov/)
 
