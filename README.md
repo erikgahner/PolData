@@ -472,6 +472,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
 - [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
 - [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
+- [Hansard Speeches and Sentiment](https://evanodell.com/projects/datasets/hansard-data/)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
 - [Parliamentary Speeches in Ireland](https://doi.org/10.7910/DVN/6MZN76)
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)

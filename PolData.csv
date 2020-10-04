@@ -187,6 +187,7 @@ Global Visa Cost Dataset,policy,http://www.migrationpolicycentre.eu/globalmobili
 Governance Challenges Indicators,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,,,,,,,,,,public archive,"free, online",,,,,,,,,,,,,,,
 Government Revenue Dataset,policy,https://www.wider.unu.edu/database/additional-data-files-grd,,,,,,,,,,public archive,"free, online",,,,,,,,,,,,,,,
 "Governments Data, 1950-1995",cabinets and parliaments,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hansard Speeches and Sentiment,political elites,https://evanodell.com/projects/datasets/hansard-data/,"political speech, MPs, government, debate",UK,0,0,0,0,1,1979,2020,online,no,1,,,,,,,,,,,,10.5281/zenodo.4061741,20201004,
 Hellenic National Election Studies,citizens,http://www.elnes.gr/,,Greece,0,0,0,0,1,2009,2013,online,no,1,,,,,,,,,,,,,20181123,
 High Casualty Terrorist Bombings,international relations,http://www.systemicpeace.org/inscrdata.html,,,,,,,,1989,2017,public archive,"free, online",,,,,,,,,,,,,,,
 Historical Index of Ethnic Fractionalization,other,https://doi.org/10.7910/DVN/4JQRCL,"ethnic fractionalization, ethnic heterogeneity, ethnic diversity, Herfindahl Index",,1,1,1,1,1,1945,2013,online,no,1,,,,,,,,Country,Year,,,10.7910/DVN/4JQRCL,20190726,
