@@ -278,6 +278,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Economics
 
+- [A millennium of macroeconomic data](https://www.bankofengland.co.uk/statistics/research-datasets)
 - [Bank for International Settlements](https://www.bis.org/statistics/full_data_sets.htm)
 - [Barro-Ursua Macroeconomic Data](https://scholar.harvard.edu/barro/publications/barro-ursua-macroeconomic-data)
 - [Chinn-Ito Index](http://web.pdx.edu/~ito/Chinn-Ito_website.htm)
@@ -332,6 +333,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
 - [Political Conflict and Democracy: Election Campaigns](https://poldem.eui.eu/download/election-campaigns/)
 - [Slovak Election Data Project](https://sites.google.com/site/marekhlavac/slovak_election_data_project)
+- [U.S. Polling Places](https://github.com/PublicI/us-polling-places)
 - [UK Election Statistics](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7529)
 - [US Presidential Elections](https://github.com/zonination/election-history)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
