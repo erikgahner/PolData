@@ -530,6 +530,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 - [Annotated Database Bibliography (ADBB) of Datasets on Institutions and Conflict in Divided Societies](https://datorium.gesis.org/xmlui/handle/10.7802/67)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Bank for International Settlements](https://www.bis.org/statistics/index.htm)
 - [Charles Stewart's Congressional Data Page](http://web.mit.edu/17.251/www/data_page.html)
 - [Data Is Plural — Structured Archive](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) (hundreds of datasets, political and non-political)
 - [Data Resources for Studies in Comparative Politics](https://docs.google.com/spreadsheets/d/1S-dMeDrg8kXElEvZyWelQfMANCmpmwpprbqGglYs4Ws/pubhtml?gid=325169251&single=true)
@@ -541,8 +542,10 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
 - [European Representative Democracy Data Archive](http://www.erdda.se/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [ILOSTAT](https://ilostat.ilo.org/)
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
 - [International IDEA](https://www.idea.int/data-tools)
+- [International Monetary Fund](https://www.imf.org/en/Data)
 - [Large datasets for social science, genomics and medicine](https://docs.google.com/spreadsheets/d/1ISYoRpx6A098m582lS4XDS2P9fdfKdAfA4ILjW44byY/edit)
 - [Max Planck Institute for Demographic Research: Online Databases](https://www.demogr.mpg.de/en/projects_publications/online_databases_1906/default.htm)
 - [MIT Election Data and Science Lab](https://electionlab.mit.edu/data)
