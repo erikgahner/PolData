@@ -434,6 +434,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Political Advertisements from Facebook](https://www.propublica.org/datastore/dataset/political-advertisements-from-facebook)
 - [Global Media Freedom Dataset](http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx)
 - [Media System Freedom](https://doi.org/10.7910/DVN/ENOEQS)
+- [Newspaper presidential endorsements](https://noahveltman.com/endorsements/)
 - [Political TV Ad Archive](http://politicaladarchive.org/data/)
 - [Snap Political Ads Library](https://www.snap.com/en-US/political-ads/)
 - [Wesleyan Media Project: Media Advertising](http://mediaproject.wesleyan.edu/dataaccess/)
