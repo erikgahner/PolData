@@ -3,7 +3,7 @@ A dataset with political datasets
 
 ### Description
 
-A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`s) with detailed information on the topics, coverage and availability of the respective datasets.
+A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites, political speeches and debates. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`s) with detailed information on the topics, coverage and availability of the respective datasets.
 
 ## Variables in the dataset
 
@@ -46,15 +46,12 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
-- [Debates in the Council of the European Union](https://wratil.eu/projects)
 - [Dutch Parliamentary Voting Dataset](https://doi.org/10.7910/DVN/UXIBNO)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
 - [Governments Data, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [ParlGov: Cabinets](http://www.parlgov.org/)
 - [Parliamentary Rules Database](https://parlrulesdata.org/)
 - [Parliaments and governments database](http://www.parlgov.org/)
--[ParlSpeech](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9&version=1.0)
-- [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
 - [Parties in Parliaments and Governments, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Party Government Data Set](https://fsw.vu.nl/en/departments/political-science-and-public-administration/staff/woldendorp/party-government-data-set/index.aspx)
 - [Portfolio Allocation in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
@@ -288,7 +285,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Culture of cooperation and inclusive political institutions](https://doi.org/10.1016/j.dib.2019.104731)
 - [Design of Trade Agreements Database](https://www.designoftradeagreements.org/downloads/)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
-- [European Central Bank: Speeches data](https://www.ecb.europa.eu/press/key/html/downloads.en.html)
 - [European Central Bank: Statistical Data Warehouse](http://sdw.ecb.europa.eu/)
 - [Expanded Trade and GDP Data](http://privatewww.essex.ac.uk/~ksg/exptradegdp.html)
 - [Federico-Tena World Trade Historical Database](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database)
@@ -416,12 +412,10 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The Continent of International Law](http://www.isr.umich.edu/cps/coil/files.html)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflcit/cyber-conflict-dataset)
 - [The Logic of Political Survival](http://www.nyu.edu/gsas/dept/politics/data/bdm2s2/Logic.htm)
-- [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
 - [Threat and Imposition of Sanctions](http://sanctions.web.unc.edu/)
 - [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
 - [UN Targeted Sanctions](https://www.prio.org/JPR/Datasets/)
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
-- [United Nations General Debate Corpus](https://github.com/sjankin/UnitedNations)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 - [Water-Related Intrastate Conflict and Cooperation](http://hdl.handle.net/1902.1/20496)
@@ -472,14 +466,22 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
 - [Comparative Candidates Survey](http://www.comparativecandidates.org/data-access)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
-- [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
-- [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
 - [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
-- [Hansard Speeches and Sentiment](https://evanodell.com/projects/datasets/hansard-data/)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
-- [Parliamentary Speeches in Ireland](https://doi.org/10.7910/DVN/6MZN76)
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
+
+# Political speeches and debates
+- [Debates in the Council of the European Union](https://wratil.eu/projects)
+- [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
+- [European Central Bank: Speeches data](https://www.ecb.europa.eu/press/key/html/downloads.en.html)
+- [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
+- [Hansard Speeches and Sentiment](https://evanodell.com/projects/datasets/hansard-data/)
+- [Parliamentary Speeches in Ireland](https://doi.org/10.7910/DVN/6MZN76)
+- [ParlSpeech](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9&version=1.0)
+- [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
+- [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
+- [United Nations General Debate Corpus](https://github.com/sjankin/UnitedNations)
 
 ### Environment
 
