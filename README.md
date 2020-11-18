@@ -453,6 +453,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Social Citizenship Indicator Program](http://www.spin.su.se/datasets/scip)
 - [Social Assistance, Politics, and Institutions database](https://www.wider.unu.edu/project/sapi-social-assistance-politics-and-institutions-database)
 - [Social Security Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
+- [State-by-State Spending on Kids](https://datacatalog.urban.org/dataset/state-state-spending-kids-dataset)
 - [State Policy Innovation and Diffusion](https://dataverse.harvard.edu/dataverse/spid)
 - [Studying Immigrant Policy One Law at a Time](https://doi.org/10.7910/DVN/F8YTX2)
 - [Tax Introduction Database](http://tid.seelkopf.eu/)
