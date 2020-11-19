@@ -413,6 +413,7 @@ Uppsala Conflict Data Program,international relations,http://ucdp.uu.se/download
 US Presidential Elections,elections,https://github.com/zonination/election-history,,USA,,,,,,1789,,public archive,"free, online",,,,,,,,,,,,,,,
 Vanhanen's index of democracy,democracy,https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/,,,,,,,,,,,,,,,,,,,,,,,,,,
 Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,"democracy, institutions, rights, elections, parties",,1,1,1,1,1,1789,2019,online,online form,1,,,,,,,,country_name,year,COWcode,,,20200320,
+Varieties of Party Identity and Organization (V-Party),parties and politicians,https://www.v-dem.net/en/data/data/v-party-dataset/,"populism, political parties, expert survey, party positions, positional scales",178 countries,1,1,1,1,1,1970,2019,online,online form,1,https://www.v-dem.net/media/filer_public/9b/66/9b66974e-781b-438e-a5a1-669762ee4b25/party_codebook.pdf,,,,,,,country_name,year,COWcode,,10.23696/vpartydsv1  ,,
 Veto Players Data,cabinets and parliaments,https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/,,,,,,,,,,,,,,,,,,,,,,,,,,cross-sectional
 Voter Turnout Database,elections,https://www.idea.int/data-tools/data/voter-turnout,,,,,,,,,,,,,,,,,,,,,,,,,,
 Water-Related Intrastate Conflict and Cooperation,international relations,http://hdl.handle.net/1902.1/20496,"water conflict, water cooperation",,1,1,0,0,0,1997,2009,online,no,1,,,,,,,,,year,,,1902.1/20496,20180331,
