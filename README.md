@@ -293,6 +293,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Financing the State](https://www.perfandersson.com/data.html)
 - [Fiscal Crisis Episodes](https://www.imf.org/en/Publications/WP/Issues/2017/04/03/Fiscal-Crises-44795)
 - [Global Debt Database](https://www.imf.org/external/datamapper/datasets/GDD)
+- [Global Earnings Inequality Database](https://sites.google.com/site/ollehammar85/data)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
 - [Imperial Roots of Global Trade](https://www.wnvermeulen.com/empires/index.php)
 - [Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689)
