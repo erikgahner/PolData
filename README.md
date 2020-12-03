@@ -348,6 +348,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Conflict Catalog](http://www.cgeh.nl/data#conflict)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
+- [Coup D'état Project](https://clinecenter.illinois.edu/project/research-themes/democracy-and-development/coup-detat-project-cdp)
 - [Coups in the World](http://www.jonathanmpowell.com/coup-detat-dataset.html)
 - [Cross-Cutting Cleavage Dataset](https://sites.google.com/site/joelsawatselway/CROSS-CUTTING-CLEAVAGES-DATA)
 - [De Facto States in International Politics](https://doi.org/10.1080/03050629.2014.915543)
