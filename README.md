@@ -322,6 +322,8 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
 - [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
+- [Inequality and Direct Democracy: European Referenda](https://www.goethe-university-frankfurt.de/74273531/Inequality_and_Direct_Democracy_in_Europe)
+- [Inequality and Direct Democracy: International Referenda](https://www.goethe-university-frankfurt.de/74273531/Inequality_and_Direct_Democracy_in_Europe)
 - [Local Government Dataset](http://www.jon.fiva.no/data.htm)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
 - [NCSL Ballot Measures](https://ippsr.msu.edu/public-policy/correlates-state-policy/ncsl-ballot-measures-correlates)
