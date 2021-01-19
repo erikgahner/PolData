@@ -162,6 +162,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 #### Opinion polls
 
 - [Europe Elects](https://europeelects.eu/data/)
+- [European Opinion Polls as Open Data](https://github.com/filipvanlaenen/eopaod)
 - [FiveThirtyEight's Pollster Ratings](https://github.com/fivethirtyeight/data/tree/master/pollster-ratings)
 - [FiveThirtyEight polls](https://projects.fivethirtyeight.com/polls/)
 - [Irish Polling Indicator](https://www.pollingindicator.com/)
