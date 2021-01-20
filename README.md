@@ -194,6 +194,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Institutions and Elections Project](https://havardhegre.net/iaep/)
 - [Judicial Review of Congress Database](https://scholar.princeton.edu/kewhitt/judicial-review-congress-database)
 - [Legislative production in the EU, 1967-2012](http://www.dimiter.eu/Data.html)
+- [Presidential Power Scores](https://presidential-power.net/?page_id=2148)
 - [Rule of Law Index](https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data)
 - [The Centre for European Policy Studies EurLex dataset](https://doi.org/10.7910/DVN/0EGYWY)
 - [The Political Constraint Index](https://mgmt.wharton.upenn.edu/faculty/heniszpolcon/polcondataset/)
