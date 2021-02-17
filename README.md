@@ -519,6 +519,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
+- [Gender and Religious Bias in the Indian Judiciary](http://www.devdatalab.org/judicial-bias-data)
 - [Global Dual Citizenship Database](https://macimide.maastrichtuniversity.nl/dual-cit-database/)
 - [Historical Index of Ethnic Fractionalization](https://doi.org/10.7910/DVN/4JQRCL)
 - [Human Capital Index](http://www.worldbank.org/en/publication/human-capital)
