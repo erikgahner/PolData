@@ -182,6 +182,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 ### Political institutions
 
 - [ACLP Political and Economic Database](https://sites.google.com/site/joseantoniocheibub/datasets/democracy-and-development-aclp)
+- [Berlin Infringement Database](https://www.polsoz.fu-berlin.de/polwiss/forschung/international/europa/bid/index.html)
 - [Comparative Political Data Set](http://www.cpds-data.org/)
 - [Congressional Whip Count Database](https://wmpeople.wm.edu/site/page/clevan/congressionalwhipcountdatabase)
 - [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
