@@ -32,6 +32,7 @@ Bank for International Settlements,economics,https://www.bis.org/statistics/full
 Barro-Ursua Macroeconomic Data,economics,https://scholar.harvard.edu/barro/publications/barro-ursua-macroeconomic-data,"macro economic, gdp",,1,1,1,1,1,1790,2009,online,no,1,,,,,https://scholar.harvard.edu/files/barro/files/barro_ursua_macrodataset_1110.xls,,,,,,,,20180331,
 Basic data on parliaments,cabinets and parliaments,http://archive.ipu.org/gpr-e/downloads/index.htm,,,,,,,,,,public archive,"free, online",,,,,,,,,,,,,,,
 Belgium General Election Study,citizens,https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:65023,,Belgum,0,0,0,0,1,1991,2007,online,yes,1,,,,,,,,,,,,10.17026/dans-z2n-rmw8,20190312,
+Berlin Infringement Database,political institutions,https://www.polsoz.fu-berlin.de/polwiss/forschung/international/europa/bid,"EU Integration, Noncompliance, European Commission, European Court of Justice",Europe,0,0,1,0,1,1978,2019,online,no,1,https://www.polsoz.fu-berlin.de/polwiss/forschung/international/europa/bid/_inhaltselemente-bid/codebook.pdf,,,,,,,memberstate,,,,,,
 Bilateral Labor Agreements Dataset,policy,https://www.law.uchicago.edu/bilateral-labor-agreements-dataset,"international law, treaties, migration",,1,1,1,1,1,1945,2015,online,no,1,,,,,,,,,year,code_host,10.1086/694456,10.7910/DVN/14YF9K,20181129,
 "Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010",democracy,https://sites.google.com/site/mkmtwo/data,,,,,,,,,,,,,,,,,,,,,,,,,,
 British Election Study,citizens,http://www.britishelectionstudy.com/,,Britain,,,,,,1964,,,,,,,,,,,,,,,,,,
