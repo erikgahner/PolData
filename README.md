@@ -468,6 +468,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Tax Introduction Database](http://tid.seelkopf.eu/)
 - [The European pension politics dataset](http://euiresdata.eui.eu/xmlui/handle/123456789/32)
 - [The Regulation of Labor](https://scholar.harvard.edu/shleifer/publications/regulation-labor)
+- [Working Time Regulation](https://sites.google.com/view/magnusberglirasmussen/datasets)
 
 ### Political elites
 
