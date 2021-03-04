@@ -490,6 +490,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Hansard Speeches and Sentiment](https://evanodell.com/projects/datasets/hansard-data/)
 - [Parliamentary communication in the German Bundestag](https://doi.org/10.7910/DVN/7EJ1KI)
 - [Parliamentary Speeches in Ireland](https://doi.org/10.7910/DVN/6MZN76)
+- [parlScot](https://doi.org/10.7910/DVN/EQ9WBE)
 - [ParlSpeech](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9&version=1.0)
 - [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
 - [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
