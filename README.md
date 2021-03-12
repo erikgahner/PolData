@@ -189,6 +189,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
 - [Disclosure by Politicians](http://mba.tuck.dartmouth.edu/pages/faculty/rafael.laporta/publications.html)
 - [Electoral Law Indicators](http://globalcit.eu/electoral-law-indicators/)
+- [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design)
 - [Evolution of European Union Law](https://www.dropbox.com/sh/cad53vd1zf6vdts/AABc5VuwvNSrxEFjJOrei9f8a?dl=0)
 - [German Federal Courts Dataset](http://www.richter-im-internet.de)
 - [Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts](http://www.uva-aias.net/en/ictwss)
