@@ -186,7 +186,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Berlin Infringement Database](https://www.polsoz.fu-berlin.de/polwiss/forschung/international/europa/bid/index.html)
 - [Comparative Political Data Set](http://www.cpds-data.org/)
 - [Congressional Whip Count Database](https://wmpeople.wm.edu/site/page/clevan/congressionalwhipcountdatabase)
-- [Database of Political Institutions](http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/0,,contentMDK:20649465~pagePK:64214825~piPK:64214943~theSitePK:469382,00.html)
+- [Database of Political Institutions](https://www.iadb.org/en/research-and-data/dpi2020)
 - [Disclosure by Politicians](http://mba.tuck.dartmouth.edu/pages/faculty/rafael.laporta/publications.html)
 - [Electoral Law Indicators](http://globalcit.eu/electoral-law-indicators/)
 - [Electoral System Design Database](https://www.idea.int/data-tools/data/electoral-system-design)
