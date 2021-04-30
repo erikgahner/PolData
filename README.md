@@ -214,6 +214,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Commissioners of the European Union](http://holgerdoering.net/data.html)
 - [Comparative Agendas Project](http://www.comparativeagendas.net/datasets_codebooks)
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)
+- [Congressional Scandals](https://doi.org/10.7910/DVN/BID3QM)
 - [EPRG MEP Surveys](https://mepsurvey.eu/data-objects/data/)
 - [Ethnonationalism in Party Competition](http://christinazuber.com/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
