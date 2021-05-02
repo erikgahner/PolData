@@ -97,6 +97,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [New Zealand Election Study](http://www.nzes.org/exec/show/data)
 - [Norwegian Election Studies](http://www.nsd.uib.no/nsddata/serier/norske_valgundersokelser_eng.html)
 - [Portuguese Voters Survey](http://er.cies.iscte-iul.pt/en/node/42)
+- [Spanish National Election Study](http://www.cis.es/cis/opencm/ES/1_encuestas/TiposEncuestas/EncuestasElectorales/eleccionescongreso.jsp)
 - [Swedish National Election Studies](http://valforskning.pol.gu.se/english)
 - [Swiss Electoral Studies](http://forscenter.ch/en/our-surveys/selects/1993-2/)
 - [Welsh Election Study](http://blogs.cardiff.ac.uk/electionsinwales/researchresources/)
