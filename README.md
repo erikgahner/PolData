@@ -552,7 +552,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Additional overviews of datasets
 
-- [Annotated Database Bibliography (ADBB) of Datasets on Institutions and Conflict in Divided Societies](https://datorium.gesis.org/xmlui/handle/10.7802/67)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Bank for International Settlements](https://www.bis.org/statistics/index.htm)
 - [Charles Stewart's Congressional Data Page](http://web.mit.edu/17.251/www/data_page.html)
@@ -573,7 +572,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Large datasets for social science, genomics and medicine](https://docs.google.com/spreadsheets/d/1ISYoRpx6A098m582lS4XDS2P9fdfKdAfA4ILjW44byY/edit)
 - [Max Planck Institute for Demographic Research: Online Databases](https://www.demogr.mpg.de/en/projects_publications/online_databases_1906/default.htm)
 - [MIT Election Data and Science Lab](https://electionlab.mit.edu/data)
-- [Norwegian Centre for Research Data: Data Services](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 - [Open datasets](https://docs.google.com/spreadsheets/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/edit#gid=0)
 - [Oxford Supertracker: The Global Directory for COVID Policy Trackers](https://supertracker.spi.ox.ac.uk/policy-trackers/)
 - [Oxford Supertracker: The Global Directory for COVID Surveys](https://supertracker.spi.ox.ac.uk/surveys/)
@@ -581,7 +579,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Political Science Data](https://www.poliscidata.com/)
 - [Team Populism](http://populism.byu.edu/Pages/Data)
 - [Terrorism Events Data: An Inventory of Databases and Data Sets, 1968-2017](http://www.terrorismanalysts.com/pt/index.php/pot/article/view/622/html)
-- [The MacroDataGuide](http://www.nsd.uib.no/macrodataguide/index.html)
 - [Quantitative Social Science Data](https://f.briatte.org/teaching/quanti/data/)
 
 ### Acknowledgements
