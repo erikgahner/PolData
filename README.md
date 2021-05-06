@@ -428,6 +428,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The Logic of Political Survival](http://www.nyu.edu/gsas/dept/politics/data/bdm2s2/Logic.htm)
 - [Threat and Imposition of Sanctions](http://sanctions.web.unc.edu/)
 - [UCDP Peacemakers at Risk](https://www.prio.org/JPR/Datasets/)
+- [UN Peace Mission Mandates](https://www.peacemissions.info/dataset)
 - [UN Targeted Sanctions](https://www.prio.org/JPR/Datasets/)
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
