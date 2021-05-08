@@ -88,7 +88,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Estonian National Election Study](http://www.enes.ee/)
 - [Finnish National Election Study](https://www.vaalitutkimus.fi/en/)
 - [French Electoral Study](http://nesstar.sciences-po.fr/webview/)
-- [German Longitudinal Election Study](https://www.gesis.org/en/elections-home/gles/data/)
+- [German Longitudinal Election Study](https://gles-en.eu/)
 - [Hellenic National Election Studies](http://www.elnes.gr/)
 - [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes)
 - [Irish National Election Study](http://www.tcd.ie/ines/index.php?action=download)
