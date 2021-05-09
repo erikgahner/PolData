@@ -486,6 +486,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 - [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
+- [Political experience of national leaders](https://doi.org/10.7910/DVN/NRC1ZD)
 - [Portuguese Candidates Survey](http://er.cies.iscte-iul.pt/en/node/42)
 - [Portuguese MPs Survey](http://er.cies.iscte-iul.pt/en/node/42)
 
