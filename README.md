@@ -396,6 +396,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
 - [Militarized Compellent Threats](http://hdl.handle.net/1902.1/17315)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
+- [Native American Conflict History](https://doi.org/10.1177%2F0022343320987274)
 - [Nonviolent & Violent Campaigns and Outcomes](https://www.du.edu/korbel/sie/research/chenow_navco_data.html)
 - [Nuclear Production Capabilities Dataset](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [Peace Accords Matrix Implementation](https://peaceaccords.nd.edu/research)
