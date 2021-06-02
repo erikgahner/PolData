@@ -169,6 +169,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [FiveThirtyEight polls](https://projects.fivethirtyeight.com/polls/)
 - [Irish Polling Indicator](https://www.pollingindicator.com/)
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
+- [PollBasePro: Daily Estimates of Aggregate Voting Intention in Great Britain](https://github.com/jackobailey/britpol)
 - [Poll of Polls](https://pollofpolls.eu/)
 - [Polls and the Timeline of Elections](https://liberalarts.utexas.edu/government/faculty/cw26629#datasets-on-polls-and-the-timeline-of-elections)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
