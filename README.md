@@ -50,6 +50,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
 - [Governments Data, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
 - [Foreign Minister Dataset](http://www.stanceatlund.org/foreign-minister-dataset.html)
+- [Lobby meetings with UK Government Ministers](https://openaccess.transparency.org.uk/)
 - [ParlGov: Cabinets](http://www.parlgov.org/)
 - [Parliamentary Rules Database](https://parlrulesdata.org/)
 - [Parliaments and governments database](http://www.parlgov.org/)
