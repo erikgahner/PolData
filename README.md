@@ -368,6 +368,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Coups in the World](http://www.jonathanmpowell.com/coup-detat-dataset.html)
 - [Cross-Cutting Cleavage Dataset](https://sites.google.com/site/joelsawatselway/CROSS-CUTTING-CLEAVAGES-DATA)
 - [De Facto States in International Politics](https://doi.org/10.1080/03050629.2014.915543)
+- [Deadly Electoral Conflict Dataset](https://ucdp.uu.se/downloads/index.html#deco)
 - [Disaggregated Military Expenditure](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [Domestic Terrorist Victims dataset](https://doi.org/10.7910/DVN/HJHGYA)
 - [Electoral Contention and Violence](https://ecavdata.org/)
