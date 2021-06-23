@@ -554,7 +554,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Private Prisons](https://www.annagunderson.com/data/private-prisons)
 - [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
 - [Raw data from online personality tests](https://openpsychometrics.org/_rawdata/)
-- [Regional Authority Index](https://www.arjanschakel.nl/regauth_dat.html)
+- [Regional Authority Index](https://www.arjanschakel.nl/index.php/regional-authority-index)
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [Serious Nuclear and Radiological Incidents](http://hegghammer.com/text.cfm?path=2176)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
