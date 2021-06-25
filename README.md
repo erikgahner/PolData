@@ -373,7 +373,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Domestic Terrorist Victims dataset](https://doi.org/10.7910/DVN/HJHGYA)
 - [Electoral Contention and Violence](https://ecavdata.org/)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
-- [Foreign Fighter Observation Set](http://hegghammer.com/text.cfm?path=2176)
+- [Foreign Fighter Observation Set](https://hegghammer.com/resources/)
 - [Foundations of Rebel Group Emergence](https://www.jessicamaves.com/forge.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
@@ -389,6 +389,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [International Military Intervention](https://www.k-state.edu/polsci/intervention/)
 - [International Peace Institute Peacekeeping Database](http://www.providingforpeacekeeping.org/contributions/)
 - [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
+- [Jihadi Plots in the West](https://hegghammer.com/resources/)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
 - [Lankina Russian Protest-Event Dataset](https://katerinatertytchnaya.com/research/)
 - [Latent Human Rights Protection Scores](https://doi.org/10.7910/DVN/24872)
@@ -556,10 +557,9 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Raw data from online personality tests](https://openpsychometrics.org/_rawdata/)
 - [Regional Authority Index](https://www.arjanschakel.nl/index.php/regional-authority-index)
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
-- [Serious Nuclear and Radiological Incidents](http://hegghammer.com/text.cfm?path=2176)
+- [Serious Nuclear and Radiological Incidents](https://hegghammer.com/resources/)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
 - [State Networks](https://ippsr.msu.edu/public-policy/state-networks)
-- [Sustainable Society Index](http://www.ssfindex.com/data-all-countries/)
 
 ### Additional overviews of datasets
 
