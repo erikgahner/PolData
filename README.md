@@ -237,6 +237,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
 - [Party Facts](https://partyfacts.herokuapp.com/)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
+- [Party Representation of Social Groups](https://doi.org/10.1177%2F13540688211023859)
 - [Political Party Database](https://dataverse.harvard.edu/dataverse/politicalparties)
 - [Populism and Political Parties Expert Survey](http://poppa-data.eu/)
 - [Private Members' Bills in the UK House of Commons](https://doi.org/10.7910/DVN/EEYIHN)
