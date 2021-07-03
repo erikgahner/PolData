@@ -83,7 +83,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Belgium General Election Study](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:65023)
 - [British Election Study](http://www.britishelectionstudy.com/)
 - [Canadian Election Study](http://ces-eec.arts.ubc.ca/english-section/surveys/)
-- [Danish National Election Study](http://www.valgprojektet.dk/default.asp?l=eng)
+- [Danish National Election Study](https://www.sa.dk/da/forskning-rigsarkivet/benyt-surveydata/valgundersoegelsen/)
 - [Dutch Parliamentary Electoral Studies](http://www.dpes.nl/en/)
 - [Election Studies Eastern Europe](https://www.gesis.org/angebot/daten-analysieren/weitere-sekundaerdaten/weitere-internationale-daten/europaeische-wahlstudien/election-studies-eastern-europe/)
 - [Estonian National Election Study](http://www.enes.ee/)
