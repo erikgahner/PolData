@@ -371,6 +371,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [De Facto States in International Politics](https://doi.org/10.1080/03050629.2014.915543)
 - [Deadly Electoral Conflict Dataset](https://ucdp.uu.se/downloads/index.html#deco)
 - [Disaggregated Military Expenditure](http://pages.ucsd.edu/~egartzke/datasets.htm)
+- [Displacement Locations](https://github.com/global-displacement-locations/displacement_locations_unhcr)
 - [Domestic Terrorist Victims dataset](https://doi.org/10.7910/DVN/HJHGYA)
 - [Electoral Contention and Violence](https://ecavdata.org/)
 - [Forcibly Displaced Populations](http://www.systemicpeace.org/inscrdata.html)
