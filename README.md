@@ -362,6 +362,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Certificates of Competency for Nominees to be Chiefs of Mission](https://ryanscoville.com/2019/02/13/certificates-of-competency-for-nominees-to-be-chiefs-of-mission-1980-2014/)
 - [Chance-Corrected Measures of Foreign Policy Similarity](https://doi.org/10.7910/DVN/ALVXLM)
 - [Change in Source of Leader Support](http://www.chisols.org/)
+- [Colpus Regime Data](https://www.johnjchin.com/colpus)
 - [Conflict Catalog](http://www.cgeh.nl/data#conflict)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
