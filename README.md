@@ -495,6 +495,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [An Automated Database of the European Parliament](https://nabu.usit.uio.no/sv/isv/)
 - [Archigos: A Data Base on Leaders 1875-2004](http://www.rochester.edu/college/faculty/hgoemans/data.htm)
 - [Australian Candidate Study](http://www.australianelectionstudy.org/candidate_studies.html)
+- [Career Moves of Former Danish Ministers and Permanent Secretaries](https://doi.org/10.7910/DVN/OYW9GF)
 - [Comparative Candidates Survey](http://www.comparativecandidates.org/data-access)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
 - [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
