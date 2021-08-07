@@ -413,6 +413,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Peacekeeping and the Peacekept](http://www.columbia.edu/~vpf4/research.htm)
 - [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
 - [Political Risk Insurance](https://github.com/vincentarelbundock/opic)
+- [Political Settlements](https://www.effective-states.org/political-settlements/)
 - [Political Terror Scale](http://www.politicalterrorscale.org/Data/Download.html)
 - [Power-Sharing Event Dataset](http://www.martinottmann.com/project/psed/)
 - [Quantified Political Relationships](http://www.simonweschle.com/data)
