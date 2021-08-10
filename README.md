@@ -445,6 +445,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [United Nations General Assembly Voting Data](http://hdl.handle.net/1902.1/12379)
 - [United Nations Security Council membership](http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html)
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
+- [US global military deployments](https://doi.org/10.1177%2F07388942211030885)
 - [Water-Related Intrastate Conflict and Cooperation](http://hdl.handle.net/1902.1/20496)
 - [Women's Participation in NATO Forces and Operations](http://hdl.handle.net/1902.1/22328)
 

@@ -443,6 +443,7 @@ United Nations General Debate Corpus,political speeches and debates,https://gith
 United Nations Security Council membership,international relations,http://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/intwipol/datasets_en.html,,193 countries,,,,,,1951,,online,"free, no registration",,,,,,http://www.axel-dreher.de/UNSCdata.xls,,,,,,,,,
 United States of America Cabinet Appointments Dataset,cabinets and parliaments,https://github.com/taitcha/American_cabinet_appointments,"cabinets, departments, scandals, education, military",USA,0,0,0,0,1,1789,2020,online,no,1,,,,,,,,,,,,,20200905,
 Uppsala Conflict Data Program,international relations,http://ucdp.uu.se/downloads/,,,,,,,,,,,,,,,,,,,,,,,,,,
+US global military deployments,international relations,https://doi.org/10.1177%2F07388942211030885,"alliances, overseas deployments, troop deployments, US foreign policy",,1,1,1,1,1,1950,2020,online,no,1,,,,,,,,countryname,year,ccode,10.1177%2F07388942211030885,,20210808,
 US Presidential Elections,elections,https://github.com/zonination/election-history,,USA,,,,,,1789,,public archive,"free, online",,,,,,,,,,,,,,,
 Vanhanen's index of democracy,democracy,https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/,,,,,,,,,,,,,,,,,,,,,,,,,,
 Varieties of Democracy,democracy,https://www.v-dem.net/en/data/,"democracy, institutions, rights, elections, parties",,1,1,1,1,1,1789,2019,online,online form,1,,,,,,,,country_name,year,COWcode,,,20200320,
