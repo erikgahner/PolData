@@ -355,6 +355,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### International relations
 
+- [Aid Worker Security Database](https://aidworkersecurity.org/incidents)
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Alliance Treaty Obligations and Provisions](http://atop.rice.edu/data)
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
