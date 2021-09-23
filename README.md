@@ -351,6 +351,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Political Conflict and Democracy: Election Campaigns](https://poldem.eui.eu/download/election-campaigns/)
 - [Presidential, Senatorial, & Gubernatorial Elections in the U.S. Counties](https://doi.org/10.7910/DVN/DGUMFI)
 - [Slovak Election Data Project](https://sites.google.com/site/marekhlavac/slovak_election_data_project)
+- [Spanish Electoral Archive](http://sea.uv.es/gipeyop/sea.html)
 - [U.S. Polling Places](https://github.com/PublicI/us-polling-places)
 - [UK Election Statistics](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7529)
 - [US Presidential Elections](https://github.com/zonination/election-history)
