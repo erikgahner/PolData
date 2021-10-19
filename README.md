@@ -520,6 +520,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [European Central Bank: Speeches data](https://www.ecb.europa.eu/press/key/html/downloads.en.html)
 - [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
 - [Hansard Speeches and Sentiment](https://evanodell.com/projects/datasets/hansard-data/)
+- [MAPLE Parliamentary Datasets](https://doi.org/10.7910/DVN/9MN0RL)
 - [Parliamentary communication in the German Bundestag](https://doi.org/10.7910/DVN/7EJ1KI)
 - [Parliamentary Speeches in Ireland](https://doi.org/10.7910/DVN/6MZN76)
 - [parlScot](https://doi.org/10.7910/DVN/EQ9WBE)
