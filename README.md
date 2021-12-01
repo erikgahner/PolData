@@ -596,6 +596,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
 - [International IDEA](https://www.idea.int/data-tools)
 - [International Monetary Fund](https://www.imf.org/en/Data)
+- [Investor Amnesia: Historical Data Library](https://investoramnesia.com/historical-data/) 
 - [Large datasets for social science, genomics and medicine](https://docs.google.com/spreadsheets/d/1ISYoRpx6A098m582lS4XDS2P9fdfKdAfA4ILjW44byY/edit)
 - [Max Planck Institute for Demographic Research: Online Databases](https://www.demogr.mpg.de/en/projects_publications/online_databases_1906/default.htm)
 - [MIT Election Data and Science Lab](https://electionlab.mit.edu/data)
