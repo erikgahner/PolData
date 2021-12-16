@@ -240,6 +240,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Party Facts](https://partyfacts.herokuapp.com/)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
 - [Party Representation of Social Groups](https://doi.org/10.1177%2F13540688211023859)
+- [Political Leaders’ Affiliation Database](https://doi.org/10.7910/DVN/YUS575)
 - [Political Parties of India](https://tcpd.ashoka.edu.in/political-parties-of-india/)
 - [Political Party Database](https://dataverse.harvard.edu/dataverse/politicalparties)
 - [Populism and Political Parties Expert Survey](http://poppa-data.eu/)
