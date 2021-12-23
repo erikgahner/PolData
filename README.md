@@ -510,6 +510,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Career Moves of Former Danish Ministers and Permanent Secretaries](https://doi.org/10.7910/DVN/OYW9GF)
 - [Comparative Candidates Survey](http://www.comparativecandidates.org/data-access)
 - [European Election Study: Elite Study](http://europeanelectionstudies.net/ees-study-components/elite-study/)
+- [Global Leader Ideology](https://www.bastianherre.com/data)
 - [Global Populism Database](https://doi.org/10.7910/DVN/LFTQEZ)
 - [Leader Experience and Attribute Descriptions](https://doi.org/10.7910/DVN/SYZZEY)
 - [Political experience of national leaders](https://doi.org/10.7910/DVN/NRC1ZD)

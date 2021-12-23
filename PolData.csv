@@ -193,6 +193,7 @@ Global Dual Citizenship Database,other,https://macimide.maastrichtuniversity.nl/
 Global Earnings Inequality Database,economics,https://sites.google.com/site/ollehammar85/data,"income distribution, inequality, earnings",,1,1,1,1,1,1970,2018,online,no,1,,,,,,,,County,Year,,10.1093/ej/ueaa109,,20201125,
 Global Elections Database,elections,http://www.globalelectionsdatabase.com/index.php/datasets,,world,,,,,,,,public archive,"free, registration",,,,,,,,,,,,,,,
 Global Integrity Report,governance,https://www.globalintegrity.org/downloads/,,,,,,,,,,public archive,"free, online",,,,,,,,,,,,,,,
+Global Leader Ideology,political elites,https://www.bastianherre.com/data,"government, leaders, ideology",,1,1,1,1,1,1945,2020,online,no,1,,,,,,,,country_name,year,country_code_cow,,,20211223,
 Global Media Freedom Dataset,media,http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx,,196 countries,,,,,,1948,2012,online,"free, no registration",,,http://faculty.uml.edu/Jenifer_whittenwoodring/GMFD_V2.csv,,,,,,,,,,,,See also this article for more info https://doi.org/10.1017/psrm.2015.68
 Global Oil & Gas Features Database,environment,https://edx.netl.doe.gov/dataset/global-oil-gas-features-database,"oil, gas, energy",,1,1,1,1,1,2017,2017,online,no,1,,,,,,,,MD_Country,,,,10.18141/1427300,20191219,
 Global Party Survey,parties and politicians,https://www.globalpartysurvey.org/,"political parties, populism, party values, issue positions and rhetoric",,1,1,1,1,1,2019,2019,online,no,1,,,,,,,,Country,,,10.1177/1354068820927686,10.7910/DVN/WMGTNS,20200707,
