@@ -401,6 +401,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [International Peace Institute Peacekeeping Database](http://www.providingforpeacekeeping.org/contributions/)
 - [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
 - [Jihadi Plots in the West](https://hegghammer.com/resources/)
+- [Joint Military Exercises Dataset](https://doi.org/10.7910/DVN/HXQFHU)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
 - [Lankina Russian Protest-Event Dataset](https://katerinatertytchnaya.com/research/)
 - [Latent Human Rights Protection Scores](https://doi.org/10.7910/DVN/24872)
