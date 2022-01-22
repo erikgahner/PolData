@@ -234,7 +234,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Members and Activists of Political Parties](https://zenodo.org/record/61234)
 - [MPs additional income](https://datalobo.com/mp-earnings/)
 - [New Parties and Party System Innovation in Western Europe since 1945](https://cise.luiss.it/cise/dataset-of-new-parties-and-party-system-innovation-in-western-europe-since-1945/)
-- [Norwegian Parliamentary Elections, 1906-2017](https://doi.org/10.18712/NSD-NSD2405-V1)
+- [Norwegian Parliamentary Elections, 1906-2021](https://www.jon.fiva.no/data.htm)
 - [ParlGov: Parties](http://www.parlgov.org/)
 - [Parliaments Day-By-Day](https://doi.org/10.7910/DVN/PYGBDO)
 - [Parties, Governments and Legislatures Dataset](http://www.edac.eu/policies_desc.cfm?v_id=112)
