@@ -250,6 +250,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Roll Call Votes in the European Parliament](http://personal.lse.ac.uk/hix/HixNouryRolandEPdata.HTM)
 - [Scottish Party Election Manifestos](https://doi.org/10.7910/DVN/PH8XZO)
 - [Seats and Votes, 1950-1995](https://www.binghamton.edu/political-science/research.html/)
+- [Select American State Party Platforms](https://doi.org/10.7910/DVN/KNOSHL)
 - [State Legislator Shor-McCarty Ideology Data](https://americanlegislatures.com/data/)
 - [The Comparative Legislators Database](https://github.com/saschagobel/legislatoR)
 - [The PopuList](https://popu-list.org/)
