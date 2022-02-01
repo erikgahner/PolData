@@ -317,6 +317,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Global Debt Database](https://www.imf.org/external/datamapper/datasets/GDD)
 - [Global Earnings Inequality Database](https://sites.google.com/site/ollehammar85/data)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
+- [Gridded global datasets for Gross Domestic Product and Human Development Index](https://doi.org/10.1038/sdata.2018.4)
 - [Imperial Roots of Global Trade](https://www.wnvermeulen.com/empires/index.php)
 - [Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689)
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)

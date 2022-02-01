@@ -209,6 +209,7 @@ Global Visa Cost Dataset,policy,http://www.migrationpolicycentre.eu/globalmobili
 Governance Challenges Indicators,governance,https://www.hertie-school.org/en/governancereport/govreport-indicators/,,,,,,,,,,public archive,"free, online",,,,,,,,,,,,,,,
 Government Revenue Dataset,policy,https://www.wider.unu.edu/database/additional-data-files-grd,,,,,,,,,,public archive,"free, online",,,,,,,,,,,,,,,
 "Governments Data, 1950-1995",cabinets and parliaments,https://www.binghamton.edu/political-science/research.html/,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gridded global datasets for Gross Domestic Product and Human Development Index,economics,https://doi.org/10.1038/sdata.2018.4,"GDP, HDI, human development",,1,1,1,1,1,1990,2015,online,no,1,,,,,,,,,,,10.1038/sdata.2018.4,10.5061/dryad.dk1j0,20220126,
 Hansard Speeches and Sentiment,political speeches and debates,https://evanodell.com/projects/datasets/hansard-data/,"political speech, MPs, government, debate",UK,0,0,0,0,1,1979,2020,online,no,1,,,,,,,,,,,,10.5281/zenodo.4061741,20201004,
 Hellenic National Election Studies,citizens,http://www.elnes.gr/,,Greece,0,0,0,0,1,2009,2013,online,no,1,,,,,,,,,,,,,20181123,
 High Casualty Terrorist Bombings,international relations,http://www.systemicpeace.org/inscrdata.html,,,,,,,,1989,2017,public archive,"free, online",,,,,,,,,,,,,,,
