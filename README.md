@@ -391,6 +391,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Foundations of Rebel Group Emergence](https://www.jessicamaves.com/forge.html)
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
+- [Geopolitical Risk Index](https://www.matteoiacoviello.com/gpr_country.htm)
 - [Gibler-Miller-Little Militarized Interstate Dispute](http://svmiller.com/gml-mid-data/)
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
