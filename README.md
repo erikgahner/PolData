@@ -494,6 +494,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Multiculturalism Policies in Contemporary Democracies](http://www.queensu.ca/mcp/about/definitionsdata)
+- [Myers Abortion Facility Database](https://doi.org/10.17605/OSF.IO/8DG7R)
 - [Policy complexity in the European Union](https://www.euplex.org/data/)
 - [Public Plans Database](https://publicplansdata.org/public-plans-database/download-full-data-set/)
 - [Social Citizenship Indicator Program](http://www.spin.su.se/datasets/scip)
