@@ -368,6 +368,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Aid Worker Security Database](https://aidworkersecurity.org/incidents)
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Alliance Treaty Obligations and Provisions](http://atop.rice.edu/data)
+- [Anatomy of Resistance Campaigns](https://doi.org/10.1177%2F00223433211029512)
 - [Armed Conflict Location & Event Data Project](https://www.acleddata.com/data/acled-version-7-1997-2016/)
 - [Authoritarian Ruling Elites Database](https://sites.google.com/view/austinsmatthews/data-projects)
 - [Certificates of Competency for Nominees to be Chiefs of Mission](https://ryanscoville.com/2019/02/13/certificates-of-competency-for-nominees-to-be-chiefs-of-mission-1980-2014/)
