@@ -143,6 +143,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Survey of Income and Program Participation](https://www.census.gov/programs-surveys/sipp/data/datasets.html)
 - [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/)
 - [German Socio-Economic Panel](https://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/GSOEP)
+- [Institute for the Study of Citizens and Politics Panel](https://doi.org/10.7910/DVN/CYISG1)
 - [Longitudinal Internet Studies for the Social sciences](https://www.lissdata.nl/)
 - [Norwegian Citizen Panel](http://www.nsd.uib.no/nsddata/serier/norsk_medborgerpanel_eng.html)
 - [Short-term Campaign Panel](https://doi.org/10.4232/1.13129)
