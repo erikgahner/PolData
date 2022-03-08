@@ -405,6 +405,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Implementation of Pacts](https://www.pcr.uu.se/data/impact-dataset/)
 - [International Crisis Behaviors Events](https://www.crisisevents.org/)
 - [International Military Intervention](https://www.k-state.edu/polsci/intervention/)
+- [International Military Training Activities Database-USA](https://doi.org/10.1177%2F00223433211047715)
 - [International Peace Institute Peacekeeping Database](http://www.providingforpeacekeeping.org/contributions/)
 - [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
 - [Jihadi Plots in the West](https://hegghammer.com/resources/)
