@@ -394,6 +394,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Fragile States Index](http://fundforpeace.org/fsi/data/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Frozen conflicts in world politics](https://doi.org/10.1177%2F0022343320929726)
+- [Geocoded Peacekeeping Operations](https://doi.org/10.1177%2F0022343319871978)
 - [Geopolitical Risk Index](https://www.matteoiacoviello.com/gpr_country.htm)
 - [Gibler-Miller-Little Militarized Interstate Dispute](http://svmiller.com/gml-mid-data/)
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
@@ -432,6 +433,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Parliamentary Deployment Votes Database](http://deploymentvotewatch.eu/?page_id=2)
 - [Peace Accords Matrix Implementation](https://peaceaccords.nd.edu/research)
 - [Peace Agreement Database](http://www.politicalsettlements.org/portfolio/pa-x-database/)
+- [Peaceful Resolution of Territorial Disputes](https://doi.org/10.1177%2F0022343319895560)
 - [Peacekeeping and the Peacekept](http://www.columbia.edu/~vpf4/research.htm)
 - [PeaceKeeping Operations Corpus](https://doi.org/10.1177/0022343320978693)
 - [Police Reforms in Peace Agreements](http://journals.sagepub.com/doi/abs/10.1177/0022343316628932)
@@ -474,6 +476,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [US global military deployments](https://doi.org/10.1177%2F07388942211030885)
 - [Water-Related Intrastate Conflict and Cooperation](http://hdl.handle.net/1902.1/20496)
 - [Women's Participation in NATO Forces and Operations](http://hdl.handle.net/1902.1/22328)
+- [Women’s Rights Recommendations Digital Database](https://doi.org/10.1177/0022343319897954)
 
 ### Media
 
