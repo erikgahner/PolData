@@ -45,6 +45,8 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 - [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
 - [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
+- [Chilean Ministers](https://github.com/bgonzalezbustamante/chilean-ministers)
+- [Chilean Undersecretaries](https://github.com/bgonzalezbustamante/chilean-undersecretaries)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Dutch Parliamentary Voting Dataset](https://doi.org/10.7910/DVN/UXIBNO)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
