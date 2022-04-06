@@ -624,6 +624,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Investor Amnesia: Historical Data Library](https://investoramnesia.com/historical-data/) 
 - [Large datasets for social science, genomics and medicine](https://docs.google.com/spreadsheets/d/1ISYoRpx6A098m582lS4XDS2P9fdfKdAfA4ILjW44byY/edit)
 - [Max Planck Institute for Demographic Research: Online Databases](https://www.demogr.mpg.de/en/projects_publications/online_databases_1906/default.htm)
+- [Medieval and Early Modern Data Bank](https://memdb.libraries.rutgers.edu/)
 - [MIT Election Data and Science Lab](https://electionlab.mit.edu/data)
 - [Open datasets](https://docs.google.com/spreadsheets/d/1ejOJTNTL5ApCuGTUciV0REEEAqvhI2Rd2FCoj7afops/edit#gid=0)
 - [Oxford Supertracker: The Global Directory for COVID Policy Trackers](https://supertracker.spi.ox.ac.uk/policy-trackers/)
