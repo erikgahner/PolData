@@ -358,6 +358,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [ParlGov: Elections](http://www.parlgov.org/)
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
 - [Political Conflict and Democracy: Election Campaigns](https://poldem.eui.eu/download/election-campaigns/)
+- [Political Parties, Presidents, Elections, and Governments (PPEG)](https://ppeg.wzb.eu/)
 - [Presidential, Senatorial, & Gubernatorial Elections in the U.S. Counties](https://doi.org/10.7910/DVN/DGUMFI)
 - [Slovak Election Data Project](https://sites.google.com/site/marekhlavac/slovak_election_data_project)
 - [Spanish Electoral Archive](http://sea.uv.es/gipeyop/sea.html)
