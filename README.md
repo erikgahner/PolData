@@ -219,6 +219,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Candidates in American General Elections](https://doi.org/10.7910/DVN/DGDRDT)
 - [Chapel Hill Expert Survey](https://www.chesdata.eu/our-surveys/)
 - [CMP Government Positions Data](https://wratil.eu/data/)
+- [Coalition Inclusion Probabilities Dataset](https://coalition-leverage.org/cip-data/)
 - [Commissioners of the European Union](http://holgerdoering.net/data.html)
 - [Comparative Agendas Project](http://www.comparativeagendas.net/datasets_codebooks)
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)
