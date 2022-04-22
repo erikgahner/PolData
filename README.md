@@ -347,6 +347,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Electoral Volatility and its internal components in Western Europe](https://cise.luiss.it/cise/dataset-of-electoral-volatility-and-its-internal-components-in-western-europe-1945-2015/)
 - [Electoral Volatility in the European Parliament elections](https://cise.luiss.it/cise/dataset-of-electoral-volatility-in-the-european-parliament-elections-since-1979/)
 - [European Election Database](http://www.nsd.uib.no/european_election_database)
+- [European NUTS-Level Election Database](https://eu-ned.com/)
 - [Free and Fair Elections Database](http://www.csae.ox.ac.uk/general/free-and-fair-elections-database)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [Inequality and Direct Democracy: European Referenda](https://www.goethe-university-frankfurt.de/74273531/Inequality_and_Direct_Democracy_in_Europe)

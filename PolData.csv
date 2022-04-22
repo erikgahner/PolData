@@ -150,6 +150,7 @@ European Election Studies: Voter Study,citizens,http://europeanelectionstudies.n
 European Election Study: Elite Study,political elites,http://europeanelectionstudies.net/ees-study-components/elite-study/,,Europe,,,,,,1979,,,,,,,,,,,,,,,,,,
 European Election Study: Media Study,media,http://europeanelectionstudies.net/ees-study-components/media-study/,,Europe,,,,,,1979,2009,,,,,,,,,,,,,,,,,
 European Mood,citizens,https://tinetteschnatterer.com/projects/eu-mood/,"EU support, public opinion, mood",,0,0,1,0,1,1973,2014,online,no,1,,,,,,,,,,,10.1017/S0007123416000776,10.7910/DVN/V42M9J,20190616,
+European NUTS-Level Election Database,elections,https://eu-ned.com/,"NUTS, subnational, regions",,0,0,1,0,1,1990,2020,online,no,1,,,,,,,,country,year,,10.1177/13540688221083553,10.7910/DVN/IQRYP5,20220422,
 European Opinion Polls as Open Data,citizens,https://github.com/filipvanlaenen/eopaod,"opinion polls, parties",,0,0,1,0,1,2014,2021,online,no,1,,,,,,,,,,,,,20210119,
 European Protest and Coercion Data,other,http://web.ku.edu/~ronfrand/data/index.html,"protest, coercion",,0,0,1,0,1,1980,1995,online,no,1,http://web.ku.edu/~ronfrand/data/codebook.txt,,,,,,,,,,,,20181108,
 European Quality of Life,citizens,https://www.eurofound.europa.eu/surveys/european-quality-of-life-surveys,,,,,,,,,,,,,,,,,,,,,,,,,,cross-sectional
