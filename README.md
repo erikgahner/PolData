@@ -358,6 +358,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Negative Campaigning Comparative Expert Survey](https://www.alessandro-nai.com/negex-data)
 - [Net Volatility in Western Europe](https://soc.kuleuven.be/web/staticpage/11/95/eng/1197)
 - [ParlGov: Elections](http://www.parlgov.org/)
+- [Partisan Electoral Interventions by the Great-powers](https://www.dovhlevin.com/datasets)
 - [Perceptions of Electoral Integrity](https://dataverse.harvard.edu/dataverse/PEI)
 - [Political Conflict and Democracy: Election Campaigns](https://poldem.eui.eu/download/election-campaigns/)
 - [Political Parties, Presidents, Elections, and Governments (PPEG)](https://ppeg.wzb.eu/)
