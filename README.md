@@ -10,8 +10,8 @@ A collection of political datasets. The datasets are listed below within specifi
 - `name` = Name of dataset
 - `category` = Dataset category (`cabinets`, `citizens` etc.)
 - `link` = URL to dataset
-- `topics`= Specific topics of interest in the dataset
-- `country` = Name of country (for single country datasets)
+- `topics` = Specific topics of interest in the dataset
+- `country` = Name of country (ISO 3166-1 alpha-2)
 - `region_africa` = Country in African Group (United Nations Regional Groups of Member States)
 - `region_asia` = Country in Asia-Pacific Group (United Nations Regional Groups of Member States)
 - `region_easteurope` = Country in Eastern European Group (United Nations Regional Groups of Member States)
@@ -28,7 +28,7 @@ A collection of political datasets. The datasets are listed below within specifi
 - `file_sav` = URL to dataset (`.sav`)
 - `file_excel` = URL to dataset (Excel)
 - `file_r` = URL to dataset (`.Rdata`)
-- `file_zip` = URL to data package (`.zip`)
+- `file_zip` = URL to compressed dataset (`.zip`)
 - `variable_country` = Name of country string variable
 - `variable_year` = Name of year variable
 - `variable_cow` = Name of Correlates of War numeric identifier variable
