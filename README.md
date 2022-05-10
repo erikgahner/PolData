@@ -340,6 +340,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Elections
 
+- [Comprehensive European Parliament Electoral Data](https://doi.org/10.7910/DVN/GNRMTO)
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [Danish General Election Results](https://github.com/Straubinger/folketingsvalg)
