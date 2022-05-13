@@ -269,7 +269,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Authoritarian Regimes Dataset](https://sites.google.com/site/authoritarianregimedataset/data)
 - [Autocracies of the World](https://cddrl.fsi.stanford.edu/research/autocracies_of_the_world_dataset)
 - [Autocratic Regime Data](http://sites.psu.edu/dictators/)
-- [Boix-Miller-Rosato (BMR) dichotomous coding of democracy, 1800-2010](https://sites.google.com/site/mkmtwo/data)
+- [Boix-Miller-Rosato (BMR) dichotomous coding of democracy](https://sites.google.com/site/mkmtwo/data)
 - [Civil Liberty Dataset](http://ps.au.dk/forskning/forskningsprojekter/dedere/datasets/)
 - [Democracy/Autocracy Data Set](https://hdl.handle.net/1902.1/18836)
 - [Democracy Barometer](http://www.democracybarometer.org/dataset_en.html)
