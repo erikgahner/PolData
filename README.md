@@ -225,6 +225,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Comparative Parties Data Set](http://www.marquette.edu/polisci/faculty_swank.shtml)
 - [Congress slaveowners](https://github.com/washingtonpost/data-congress-slaveowners/)
 - [Congressional Scandals](https://doi.org/10.7910/DVN/BID3QM)
+- [Elected LGBTQ Officials](https://queerpolitics.princeton.edu/data)
 - [EPRG MEP Surveys](https://mepsurvey.eu/data-objects/data/)
 - [Ethnonationalism in Party Competition](http://christinazuber.com/data/)
 - [European Election Study: Euromanifesto](http://europeanelectionstudies.net/ees-study-components/euromanifesto-study/)
