@@ -44,9 +44,9 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 ### Cabinets and parliaments
 
 - [Basic data on parliaments](http://archive.ipu.org/gpr-e/downloads/index.htm)
-- [Cabinets and Coalition Bargaining](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Chilean Ministers](https://github.com/bgonzalezbustamante/chilean-ministers)
 - [Chilean Undersecretaries](https://github.com/bgonzalezbustamante/chilean-undersecretaries)
+- [Coalition Governance in Central Eastern Europe](https://erdda.org/gie/)
 - [Coalition Governments in Western Europe](http://www.erdda.se/index.php/projects/cpd/data-archive)
 - [Dutch Parliamentary Voting Dataset](https://doi.org/10.7910/DVN/UXIBNO)
 - [European Representative Democracy](http://www.erdda.se/index.php/projects/erd/data-archive)
@@ -510,7 +510,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Citizenship Regime Inclusiveness Index 2.0](https://doi.org/10.7910/DVN/XHZV8V)
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
-- [Correlates of State Policy](http://www.ippsr.msu.edu/public-policy/correlates-state-policy)
+- [Correlates of State Policy](http://ippsr.msu.edu/public-policy/correlates-state-policy)
 - [fRDB-IZA Social Reforms Database](http://www.frdb.org/page/data/scheda/frdb-iza-social-reforms-database/doc_pk/9027)
 - [Global Abortion Policies Database](https://abortion-policies.srhr.org/)
 - [Global Visa Cost Dataset](http://www.migrationpolicycentre.eu/globalmobilities/dataset/)
