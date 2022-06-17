@@ -413,6 +413,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [Global Transitional Justice Dataset](https://www.tjdemstabilitylab.com/data.html)
+- [Government-Sponsored Mass Expulsion](https://doi.org/10.1177/00223433211068633)
 - [High Casualty Terrorist Bombings](http://www.systemicpeace.org/inscrdata.html)
 - [Historical terrorist groups](https://jtschantret.com/data/)
 - [Historical Varieties of Democracy](https://www.v-dem.net/en/historical/)
@@ -427,12 +428,10 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Jihadi Plots in the West](https://hegghammer.com/resources/)
 - [Joint Military Exercises Dataset](https://doi.org/10.7910/DVN/HXQFHU)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
-- [Lankina Russian Protest-Event Dataset](https://katerinatertytchnaya.com/research/)
 - [Latent Human Rights Protection Scores](https://doi.org/10.7910/DVN/24872)
 - [Leaders’ Willingness to Use Force](https://doi.org/10.1017/S0003055420000313)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Mass Mobilization in Autocracies Database](https://mmadatabase.org/)
-- [Mass Mobilization Protest Data](https://massmobilization.github.io/)
 - [Measuring the Impacts of Colonialism](https://andrewalter.netlify.com/project/globdev/)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
@@ -566,6 +565,15 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
 - [United Nations General Debate Corpus](https://github.com/sjankin/UnitedNations)
 
+### Protest
+
+- [Crowd Counting Consortium Dataset](https://github.com/nonviolent-action-lab/crowd-counting-consortium)
+- [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
+- [Lankina Russian Protest-Event Dataset](https://katerinatertytchnaya.com/research/)
+- [Mass Mobilization Protest Data](https://massmobilization.github.io/)
+- [Political Conflict and Democracy: Protest Events](https://poldem.eui.eu/download/protest-events/)
+- [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
+
 ### Environment
 
 - [Aqueduct](https://www.wri.org/resources/data-sets/aqueduct-30-country-rankings)
@@ -589,7 +597,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Database of Masculine and Feminine Words](https://doi.org/10.1177%2F1065912919874883)
 - [Decision-making in the European Union](http://www.robertthomson.info/research/resolving-controversy-in-the-eu)
 - [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
-- [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
 - [Eurostat](http://ec.europa.eu/eurostat/data/bulkdownload)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
 - [Gender and Religious Bias in the Indian Judiciary](http://www.devdatalab.org/judicial-bias-data)
@@ -604,10 +611,8 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Missing Migrants Project](https://missingmigrants.iom.int/downloads)
 - [Moral Machine](https://osf.io/3hvt2/?view_only=4bb49492edee4a8eb1758552a362a2cf)
 - [Political Conflict and Democracy: Contentious Episodes](https://poldem.eui.eu/download/contentious-episodes/)
-- [Political Conflict and Democracy: Protest Events](https://poldem.eui.eu/download/protest-events/)
 - [Political Conflict and Democracy: Public Debates](https://poldem.eui.eu/download/public-debates/)
 - [Private Prisons](https://www.annagunderson.com/data/private-prisons)
-- [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
 - [Raw data from online personality tests](https://openpsychometrics.org/_rawdata/)
 - [Regional Authority Index](https://www.arjanschakel.nl/index.php/regional-authority-index)
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
