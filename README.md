@@ -171,6 +171,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [European Opinion Polls as Open Data](https://github.com/filipvanlaenen/eopaod)
 - [FiveThirtyEight's Pollster Ratings](https://github.com/fivethirtyeight/data/tree/master/pollster-ratings)
 - [FiveThirtyEight polls](https://projects.fivethirtyeight.com/polls/)
+- [Irish Demographic Polling Datasets](https://github.com/Irish-Dem-Polling/datasets)
 - [Irish Polling Indicator](https://www.pollingindicator.com/)
 - [PollBase](https://www.markpack.org.uk/opinion-polls/)
 - [PollBasePro: Daily Estimates of Aggregate Voting Intention in Great Britain](https://github.com/jackobailey/britpol)
