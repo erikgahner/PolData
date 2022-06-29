@@ -488,7 +488,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Uppsala Conflict Data Program](http://ucdp.uu.se/downloads/)
 - [US global military deployments](https://doi.org/10.1177%2F07388942211030885)
 - [Water-Related Intrastate Conflict and Cooperation](http://hdl.handle.net/1902.1/20496)
-- [Women's Participation in NATO Forces and Operations](http://hdl.handle.net/1902.1/22328)
+- [Women's Participation in NATO Forces and Operations](https://doi.org/10.7910/DVN/KFRNDP)
 - [Women’s Rights Recommendations Digital Database](https://doi.org/10.1177/0022343319897954)
 
 ### Media
@@ -503,7 +503,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Quotebank: A Corpus of Quotations from a Decade of News](https://zenodo.org/record/4277311)
 - [Snap Political Ads Library](https://www.snap.com/en-US/political-ads/)
 - [Wesleyan Media Project: Media Advertising](http://mediaproject.wesleyan.edu/dataaccess/)
-- [World Press Freedom Index](https://rsf.org/en/ranking_table)
+- [World Press Freedom Index](https://rsf.org/en/index)
 
 ### Policy
 
@@ -620,6 +620,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Serious Nuclear and Radiological Incidents](https://hegghammer.com/resources/)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
 - [State Networks](https://ippsr.msu.edu/public-policy/state-networks)
+- [World Migration Matrix](https://sites.google.com/brown.edu/louis-putterman/world-migration-matrix-1500-2000)
 
 ### Additional overviews of datasets
 
