@@ -445,6 +445,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Parliamentary Deployment Votes Database](http://deploymentvotewatch.eu/?page_id=2)
 - [Peace Accords Matrix Implementation](https://peaceaccords.nd.edu/research)
 - [Peace Agreement Database](http://www.politicalsettlements.org/portfolio/pa-x-database/)
+- [Peace Negotiations in Civil Conflicts](https://doi.org/10.7910/DVN/0BMHXD)
 - [Peaceful Resolution of Territorial Disputes](https://doi.org/10.1177%2F0022343319895560)
 - [Peacekeeping and the Peacekept](http://www.columbia.edu/~vpf4/research.htm)
 - [PeaceKeeping Operations Corpus](https://doi.org/10.1177/0022343320978693)
