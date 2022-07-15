@@ -289,7 +289,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 - [Administrative Capacities](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Corruption Perceptions Index](https://www.transparency.org/research/cpi/)
-- [Democratic Innovations Data](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [European Union Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Global Integrity Report](https://www.globalintegrity.org/downloads/)
 - [Governance Challenges Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
@@ -521,7 +520,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Government Revenue Dataset](https://www.wider.unu.edu/database/additional-data-files-grd)
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
-- [Multiculturalism Policies in Contemporary Democracies](http://www.queensu.ca/mcp/about/definitionsdata)
+- [Multiculturalism Policy Index](https://www.queensu.ca/mcp/)
 - [Myers Abortion Facility Database](https://doi.org/10.17605/OSF.IO/8DG7R)
 - [Policy complexity in the European Union](https://www.euplex.org/data/)
 - [Public Plans Database](https://publicplansdata.org/public-plans-database/download-full-data-set/)
