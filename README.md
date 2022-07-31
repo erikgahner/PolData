@@ -72,7 +72,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Arab Barometer](http://arabbarometer.org/)
 - [Asian Barometer](http://www.asianbarometer.org/)
 - [Caucasus Barometer](http://caucasusbarometer.org/en/datasets/)
-- [Eurobarometer](http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm)
+- [Eurobarometer](https://europa.eu/eurobarometer/)
 - [Latinobarómetro](http://www.latinobarometro.org/lat.jsp)
 
 #### National Election Studies
@@ -281,20 +281,17 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
 - [Political Regimes of the World](https://link.springer.com/article/10.1057/s41304-018-0149-8)
 - [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
+- [Polyarchy Index of Democracy](https://www.prio.org/data/20)
 - [State Democracy Index](https://sites.google.com/view/jakegrumbach/state-democracy-index)
 - [Unified Democracy Scores](http://www.unified-democracy-scores.org/uds.html)
-- [Vanhanen's index of democracy](https://www.prio.org/Data/Governance/Vanhanens-index-of-democracy/)
 - [Varieties of Democracy](https://www.v-dem.net/en/data/)
 
 ### Governance
 
 - [Administrative Capacities](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Corruption Perceptions Index](https://www.transparency.org/research/cpi/)
-- [European Union Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Global Integrity Report](https://www.globalintegrity.org/downloads/)
-- [Governance Challenges Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Ibrahim Index of African Governance](http://mo.ibrahim.foundation/iiag/downloads/)
-- [Infrastructure Governance Indicators](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 - [Relative Political Capacity Dataset](http://hdl.handle.net/1902.1/16845)
 - [State Reach in Africa](http://www.carlmueller-crepon.org/project/statecap_data/)
