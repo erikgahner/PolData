@@ -388,6 +388,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Colpus Regime Data](https://www.johnjchin.com/colpus)
 - [Commercial Military Actor Database](https://doi.org/10.7910/DVN/TOFZ09)
 - [Conflict Catalog](http://www.cgeh.nl/data#conflict)
+- [Contemporary Slavery in Armed Conflict](https://www.csac.org.uk/dataset/)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/download-global-dataset)
 - [Coup D'état Project](https://clinecenter.illinois.edu/project/research-themes/democracy-and-development/coup-detat-project-cdp)
