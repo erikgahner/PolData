@@ -304,6 +304,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [A millennium of macroeconomic data](https://www.bankofengland.co.uk/statistics/research-datasets)
 - [Bank for International Settlements](https://www.bis.org/statistics/full_data_sets.htm)
 - [Barro-Ursua Macroeconomic Data](https://scholar.harvard.edu/barro/publications/barro-ursua-macroeconomic-data)
+- [Central Bank Governors](https://kof.ethz.ch/en/data/data-on-central-bank-governors.html)
 - [Chinn-Ito Index](http://web.pdx.edu/~ito/Chinn-Ito_website.htm)
 - [Comparative Income Taxation Database](https://data.stanford.edu/comparative-income-taxation-database-citd)
 - [Comparative Independent Fiscal Institutions](https://fiscal-institutions.github.io/)
@@ -321,6 +322,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Global Earnings Inequality Database](https://sites.google.com/site/ollehammar85/data)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
 - [Gridded global datasets for Gross Domestic Product and Human Development Index](https://doi.org/10.1038/sdata.2018.4)
+- [IMF Programs and World Bank Projects](https://www.awi.uni-heidelberg.de/professuren/intwipol/datasets_en.html)
 - [Imperial Roots of Global Trade](https://www.wnvermeulen.com/empires/index.php)
 - [International Trade and Production Database for Estimation](https://www.usitc.gov/data/gravity/itpde.htm)
 - [Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689)
@@ -435,6 +437,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
 - [Militarized Compellent Threats](http://hdl.handle.net/1902.1/17315)
+- [Military Intervention Project](https://sites.tufts.edu/css/mip-research/)
 - [Military Mutinies and Defections Database](https://doi.org/10.1177%2F00223433211020092)
 - [Military Purges in Dictatorships](https://doi.org/10.1177%2F0022343320966375)
 - [Minorities at Risk](http://www.mar.umd.edu/mar_data.asp)
@@ -506,6 +509,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Policy
 
+- [3P Anti-trafficking Policy Index](https://www.awi.uni-heidelberg.de/professuren/intwipol/datasets_en.html)
 - [Abortion Law Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Bilateral Labor Agreements Dataset](https://www.law.uchicago.edu/bilateral-labor-agreements-dataset)
 - [Canadian Government Expenditures](https://doi.org/10.7910/DVN/XDZ4A6)
@@ -618,6 +622,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Regional Authority Index](https://www.arjanschakel.nl/index.php/regional-authority-index)
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [Serious Nuclear and Radiological Incidents](https://hegghammer.com/resources/)
+- [Social Capital Atlas](https://opportunityinsights.org/data/)
 - [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
 - [State Networks](https://ippsr.msu.edu/public-policy/state-networks)
 - [World Migration Matrix](https://sites.google.com/brown.edu/louis-putterman/world-migration-matrix-1500-2000)
