@@ -318,6 +318,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Fiscal Crisis Episodes](https://www.imf.org/en/Publications/WP/Issues/2017/04/03/Fiscal-Crises-44795)
 - [Global Debt Database](https://www.imf.org/external/datamapper/datasets/GDD)
 - [Global Earnings Inequality Database](https://sites.google.com/site/ollehammar85/data)
+- [Global Repository of Income Dynamics](https://www.grid-database.org/)
 - [Global State Revenues and Expenditures](https://sites.google.com/a/thomaserichter.de/gsre/gsre-1-0)
 - [Gridded global datasets for Gross Domestic Product and Human Development Index](https://doi.org/10.1038/sdata.2018.4)
 - [IMF Programs and World Bank Projects](https://www.awi.uni-heidelberg.de/professuren/intwipol/datasets_en.html)
@@ -370,6 +371,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [U.S. House Primary Election Results (2012-2018)](https://doi.org/10.7910/DVN/CXVMSY)
 - [U.S. Polling Places](https://github.com/PublicI/us-polling-places)
 - [UK Election Statistics](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7529)
+- [UK House of Commons Election Results at Constituency Level](https://doi.org/10.7910/DVN/S83HOA)
 - [US Presidential Elections](https://github.com/zonination/election-history)
 - [Voter Turnout Database](https://www.idea.int/data-tools/data/voter-turnout)
 
