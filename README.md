@@ -234,6 +234,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Local Candidate Dataset](http://www.jon.fiva.no/data.htm)
 - [Manifesto Project Main Dataset (Party Preferences)](https://manifesto-project.wzb.eu/datasets)
 - [Members and Activists of Political Parties](https://zenodo.org/record/61234)
+- [Members of the European Parliament](https://doi.org/10.7910/DVN/V2FJEF)
 - [MPs additional income](https://datalobo.com/mp-earnings/)
 - [New Parties and Party System Innovation in Western Europe since 1945](https://cise.luiss.it/cise/dataset-of-new-parties-and-party-system-innovation-in-western-europe-since-1945/)
 - [Norwegian Parliamentary Elections, 1906-2021](https://www.jon.fiva.no/data.htm)
