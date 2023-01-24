@@ -520,6 +520,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [fRDB-IZA Social Reforms Database](https://www.frdb.org/en/dati/frdb-iza-social-reforms-database/)
 - [Global Abortion Policies Database](https://abortion-policies.srhr.org/)
 - [Global Visa Cost Dataset](http://www.migrationpolicycentre.eu/globalmobilities/dataset/)
+- [Government Open Source Software Policies](https://www.csis.org/programs/strategic-technologies-program/government-open-source-software-policies)
 - [Government Revenue Dataset](https://www.wider.unu.edu/database/additional-data-files-grd)
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
