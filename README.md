@@ -291,6 +291,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 - [Relative Political Capacity Dataset](http://hdl.handle.net/1902.1/16845)
 - [State Reach in Africa](http://www.carlmueller-crepon.org/project/statecap_data/)
+- [Telecommunications Ownership and Control](https://doi.org/10.1007/s11558-022-09483-z)
 - [Territorial Self-Governance Dataset](https://territorial-governance.com/)
 - [Worldwide Bureaucracy Indicators](https://datacatalog.worldbank.org/dataset/worldwide-bureaucracy-indicators)
 - [Worldwide Governance Indicators](https://data.worldbank.org/data-catalog/worldwide-governance-indicators)
