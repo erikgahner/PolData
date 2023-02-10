@@ -460,6 +460,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Power-Sharing Event Dataset](http://www.martinottmann.com/project/psed/)
 - [Pro-Government Militias Database](https://www.sabinecarey.com/militias-data)
 - [Quantified Political Relationships](http://www.simonweschle.com/data)
+- [Rebel Appeals and Incentives Dataset](https://www.michaelsoules.com/general-5)
 - [Rebel Contraband Dataset](http://civilwardynamics.org/data/)
 - [Rebel Organization Leaders Database](https://www.rebelleaders.org/)
 - [Regular Turnover Details](https://doi.org/10.1177/00223433211045854)
