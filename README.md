@@ -418,6 +418,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Historical Conflict Event Dataset](https://doi.org/10.7910/DVN/6ZFC0V)
 - [Historical terrorist groups](https://jtschantret.com/data/)
 - [Historical Varieties of Democracy](https://www.v-dem.net/en/historical/)
+- [Humanitarian Organisations Dataset](https://doi.org/10.1093/isq/sqac009)
 - [Ill-Treatment and Torture](http://faculty.ucmerced.edu/cconrad2/Academic/Data.html)
 - [Implementation of Pacts](https://www.pcr.uu.se/data/impact-dataset/)
 - [International Crisis Behaviors Events](https://www.crisisevents.org/)
