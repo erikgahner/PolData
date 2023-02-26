@@ -428,6 +428,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [International Political Economy Data Resource](https://doi.org/10.7910/DVN/X093TV)
 - [International Sanctions Termination](https://doi.org/10.7910/DVN/SVR5W7)
 - [Interstate War Battle dataset](https://doi.org/10.1177%2F0022343320913305)
+- [Jihadi Plots in Europe Dataset](https://doi.org/10.1177/00223433221123360)
 - [Jihadi Plots in the West](https://hegghammer.com/resources/)
 - [Joint Military Exercises Dataset](https://doi.org/10.7910/DVN/HXQFHU)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
