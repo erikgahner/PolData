@@ -260,6 +260,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The PopuList](https://popu-list.org/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Varieties of Party Identity and Organization (V-Party)](https://doi.org/10.23696/vpartydsv1)
+- [Voteview: Congressional Roll-Call Votes Database](https://voteview.com/data)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
 
 ### Democracy
