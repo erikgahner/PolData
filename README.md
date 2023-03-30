@@ -623,6 +623,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Human Capital Index](http://www.worldbank.org/en/publication/human-capital)
 - [Incarceration Trends Dataset](https://github.com/vera-institute/incarceration_trends)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
+- [LocalView Public Meetings Database](https://localview.net/)
 - [Missing Migrants Project](https://missingmigrants.iom.int/downloads)
 - [Moral Machine](https://osf.io/3hvt2/?view_only=4bb49492edee4a8eb1758552a362a2cf)
 - [Political Conflict and Democracy: Contentious Episodes](https://poldem.eui.eu/download/contentious-episodes/)
