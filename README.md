@@ -670,7 +670,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Paul Hensel's International Relations Data Site](http://www.paulhensel.org/data.html)
 - [Political Science Data](https://www.poliscidata.com/)
 - [Team Populism](http://populism.byu.edu/Pages/Data)
-- [Terrorism Events Data: An Inventory of Databases and Data Sets, 1968-2017](http://www.terrorismanalysts.com/pt/index.php/pot/article/view/622/html)
 - [Quantitative Social Science Data](https://f.briatte.org/teaching/quanti/data/)
 
 ### Acknowledgements
