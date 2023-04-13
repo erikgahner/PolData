@@ -590,6 +590,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Mass Mobilization Protest Data](https://massmobilization.github.io/)
 - [Political Conflict and Democracy: Protest Events](https://poldem.eui.eu/download/protest-events/)
 - [Protest events](https://www.unige.ch/sciences-societe/incite/welcome-to-the-incite-website/data/new-s/)
+- [Urban Social Disorder](https://www.prio.org/data/32)
 
 ### Environment
 
