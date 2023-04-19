@@ -534,6 +534,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Legislative decision-making in the European Union](https://doi.org/10.34810/data53/2)
+- [Legislative Progression in the American States](https://doi.org/10.7910/DVN/8PTHXT)
 - [Multiculturalism Policy Index](https://www.queensu.ca/mcp/)
 - [Myers Abortion Facility Database](https://doi.org/10.17605/OSF.IO/8DG7R)
 - [National Database of Childcare Prices](https://www.dol.gov/agencies/wb/topics/childcare)
