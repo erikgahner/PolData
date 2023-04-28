@@ -385,6 +385,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Armed Group Dataset](https://armedgroupdataset.org/)
 - [Armed Conflict Location & Event Data Project](https://acleddata.com/data-export-tool/)
 - [Authoritarian Ruling Elites Database](https://sites.google.com/view/austinsmatthews/data-projects)
+- [Border Crossings of the World Dataset](https://doi.org/10.1177/00223433221145582)
 - [Certificates of Competency for Nominees to be Chiefs of Mission](https://ryanscoville.com/2019/02/13/certificates-of-competency-for-nominees-to-be-chiefs-of-mission-1980-2014/)
 - [Chance-Corrected Measures of Foreign Policy Similarity](https://doi.org/10.7910/DVN/ALVXLM)
 - [Change in Source of Leader Support](http://www.chisols.org/)
