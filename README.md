@@ -239,6 +239,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [MPs additional income](https://datalobo.com/mp-earnings/)
 - [New Parties and Party System Innovation in Western Europe since 1945](https://cise.luiss.it/cise/dataset-of-new-parties-and-party-system-innovation-in-western-europe-since-1945/)
 - [Norwegian Parliamentary Elections, 1906-2021](https://www.jon.fiva.no/data.htm)
+- [One-Party Membership Dataset](https://doi.org/10.1177/00223433231155278)
 - [ParlGov: Parties](http://www.parlgov.org/)
 - [Parliaments Day-By-Day](https://doi.org/10.7910/DVN/PYGBDO)
 - [Parties’ Group Appeals Dataset](https://doi.org/10.7910/DVN/NZQGST)
