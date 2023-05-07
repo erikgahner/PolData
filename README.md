@@ -445,6 +445,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
 - [Militarized Compellent Threats](http://hdl.handle.net/1902.1/17315)
+- [Militarized Interstate Confrontation Dataset](https://doi.org/10.1177/00220027221104704)
 - [Military Intervention Project](https://sites.tufts.edu/css/mip-research/)
 - [Military Mutinies and Defections Database](https://doi.org/10.1177%2F00223433211020092)
 - [Military Purges in Dictatorships](https://doi.org/10.1177%2F0022343320966375)
