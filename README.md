@@ -572,6 +572,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
 - [European Central Bank: Speeches data](https://www.ecb.europa.eu/press/key/html/downloads.en.html)
 - [German Political Speeches Corpus and Visualization](http://adrien.barbaresi.eu/corpora/speeches/)
+- [GermaParl Corpus of Parliamentary Protocols](https://zenodo.org/record/7949074)
 - [Hansard Speeches and Sentiment](https://evanodell.com/projects/datasets/hansard-data/)
 - [MAPLE Parliamentary Datasets](https://doi.org/10.7910/DVN/9MN0RL)
 - [ParlEE Plenary Speeches](https://doi.org/10.7910/DVN/ZY3RV7)
