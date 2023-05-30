@@ -314,6 +314,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Expanded Trade and GDP Data](http://ksgleditsch.com/exptradegdp.html)
 - [Federico-Tena World Trade Historical Database](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database)
 - [Financial Development and Structure Dataset](https://www.worldbank.org/en/publication/gfdr/data/financial-structure-database)
+- [Financial Reform Database](https://sawaomori.jpn.org/data/)
 - [Financing the State](https://www.perfandersson.com/data.html)
 - [Fiscal Crisis Episodes](https://www.imf.org/en/Publications/WP/Issues/2017/04/03/Fiscal-Crises-44795)
 - [Global Debt Database](https://www.imf.org/external/datamapper/datasets/GDD)
@@ -506,6 +507,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Media
 
+- [BuzzFeed News “Trending” Strip](https://github.com/jsvine/buzzfeed-news-trending-strip/)
 - [Comparative Agendas Project: Media](http://www.comparativeagendas.net/datasets_codebooks)
 - [Political Advertisements from Facebook](https://www.propublica.org/datastore/dataset/political-advertisements-from-facebook)
 - [Global Media Freedom Dataset](http://faculty.uml.edu/Jenifer_whittenwoodring/MediaFreedomData_000.aspx)
