@@ -530,6 +530,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
 - [Correlates of State Policy](http://ippsr.msu.edu/public-policy/correlates-state-policy)
+- [Education Policies and Systems across Modern History](https://v-dem.net/media/publications/wp_138.pdf)
 - [fRDB-IZA Social Reforms Database](https://www.frdb.org/en/dati/frdb-iza-social-reforms-database/)
 - [Global Abortion Policies Database](https://abortion-policies.srhr.org/)
 - [Global Visa Cost Dataset](http://www.migrationpolicycentre.eu/globalmobilities/dataset/)
@@ -584,6 +585,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [parlScot](https://doi.org/10.7910/DVN/EQ9WBE)
 - [ParlSpeech](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9&version=1.0)
 - [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
+- [Swedish parliamentary proceedings](https://github.com/welfare-state-analytics/riksdagen-corpus)
 - [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
 - [United Nations General Debate Corpus](https://github.com/sjankin/UnitedNations)
 
