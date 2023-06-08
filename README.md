@@ -311,6 +311,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Culture of cooperation and inclusive political institutions](https://doi.org/10.1016/j.dib.2019.104731)
 - [Design of Trade Agreements Database](https://www.designoftradeagreements.org/downloads/)
 - [Economic Freedom of the World](https://www.fraserinstitute.org/economic-freedom/dataset)
+- [Economic Policy Uncertainty Index](http://policyuncertainty.com/all_country_data.html)
 - [Expanded Trade and GDP Data](http://ksgleditsch.com/exptradegdp.html)
 - [Federico-Tena World Trade Historical Database](https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database)
 - [Financial Development and Structure Dataset](https://www.worldbank.org/en/publication/gfdr/data/financial-structure-database)
