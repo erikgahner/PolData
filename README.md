@@ -539,6 +539,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Government Revenue Dataset](https://www.wider.unu.edu/database/additional-data-files-grd)
 - [Immigration Policies in Comparison](http://www.impic-project.eu/data/)
 - [Infrastructure Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
+- [Intergovernmental Policy Output Dataset](https://doi.org/10.1007/s11558-023-09492-6)
 - [Legislative decision-making in the European Union](https://doi.org/10.34810/data53/2)
 - [Legislative Progression in the American States](https://doi.org/10.7910/DVN/8PTHXT)
 - [Multiculturalism Policy Index](https://www.queensu.ca/mcp/)
