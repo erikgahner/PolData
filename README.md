@@ -222,6 +222,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [CongressData](https://congress.ippsr.msu.edu/congress/)
 - [Congress slaveowners](https://github.com/washingtonpost/data-congress-slaveowners/)
 - [Congressional Scandals](https://doi.org/10.7910/DVN/BID3QM)
+- [Danish Legislator Database](https://doi.org/10.7910/DVN/4SFNC0)
 - [Elected LGBTQ Officials](https://queerpolitics.princeton.edu/data)
 - [EPRG MEP Surveys](https://mepsurvey.eu/data-objects/data/)
 - [Ethnonationalism in Party Competition](http://christinazuber.com/data/)
