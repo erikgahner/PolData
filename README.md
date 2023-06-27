@@ -335,6 +335,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Real effective exchange rates](https://www.bruegel.org/publications/datasets/real-effective-exchange-rates-for-178-countries-a-new-database)
 - [Rosés-Wolf database on regional GDP](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wg/resources/roses-wolf-database-on-regional-gdp)
 - [Standardized World Income Inequality Database](https://fsolt.org/swiid/)
+- [Subnational Trade Competitiveness](https://doi.org/10.7910/DVN/BWRGUR)
 - [Systemic Banking Crises Database](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Systemic-Banking-Crises-Database-An-Update-26015)
 - [Total Economy Database](https://www.conference-board.org/data/economydatabase/index.cfm?id=27762)
 - [Union Centralization among Advanced Industrial Societies](https://doi.org/10.7910/DVN/07YQSZ)
