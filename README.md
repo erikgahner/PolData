@@ -534,6 +534,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Comparative Welfare Entitlements Dataset](http://cwed2.org/download.php)
 - [Comparative Welfare States Data Set](http://www.lisdatacenter.org/resources/other-databases/)
 - [Correlates of State Policy](http://ippsr.msu.edu/public-policy/correlates-state-policy)
+- [COVID-19 vaccine policies](https://github.com/OxCGRT/covid-policy-tracker)
 - [Education Policies and Systems across Modern History](https://v-dem.net/media/publications/wp_138.pdf)
 - [fRDB-IZA Social Reforms Database](https://www.frdb.org/en/dati/frdb-iza-social-reforms-database/)
 - [Global Abortion Policies Database](https://abortion-policies.srhr.org/)
