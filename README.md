@@ -415,6 +415,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Fragile States Index](https://fragilestatesindex.org/)
 - [From Empire to Nation-State](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Frozen conflicts in world politics](https://doi.org/10.1177%2F0022343320929726)
+- [Gender and Diplomatic Representation](https://www.gu.se/en/gendip/the-gendip-dataset-on-gender-and-diplomatic-representation)
 - [Geocoded Peacekeeping Operations](https://doi.org/10.1177%2F0022343319871978)
 - [Geopolitical Risk Index](https://www.matteoiacoviello.com/gpr_country.htm)
 - [Gibler-Miller-Little Militarized Interstate Dispute](http://svmiller.com/gml-mid-data/)
