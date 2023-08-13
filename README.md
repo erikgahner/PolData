@@ -175,6 +175,10 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
 
+#### Social media
+
+- [Truth Social Dataset](https://doi.org/10.48550/arXiv.2303.11240)
+
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
