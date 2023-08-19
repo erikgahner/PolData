@@ -645,6 +645,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Incarceration Trends Dataset](https://github.com/vera-institute/incarceration_trends)
 - [KOF Globalization Index](http://globalization.kof.ethz.ch/)
 - [LocalView Public Meetings Database](https://localview.net/)
+- [Misinformation Intervention Database](https://www.democratic-erosion.com/briefs/misinformation-intervention-database/)
 - [Missing Migrants Project](https://missingmigrants.iom.int/downloads)
 - [Moral Machine](https://osf.io/3hvt2/?view_only=4bb49492edee4a8eb1758552a362a2cf)
 - [Political Conflict and Democracy: Contentious Episodes](https://poldem.eui.eu/download/contentious-episodes/)
