@@ -366,7 +366,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Local Government Dataset](http://www.jon.fiva.no/data.htm)
 - [National Elections Across Democracy and Autocracy](http://www.nelda.co/)
 - [NCSL Ballot Measures](https://ippsr.msu.edu/public-policy/correlates-state-policy/ncsl-ballot-measures-correlates)
-- [Negative Campaigning Comparative Expert Survey](https://www.alessandro-nai.com/negex-data)
+- [Negative Campaigning Comparative Data](https://www.alessandro-nai.com/negex-data)
 - [Net Volatility in Western Europe](https://soc.kuleuven.be/web/staticpage/11/95/eng/1197)
 - [ParlGov: Elections](http://www.parlgov.org/)
 - [Partisan Electoral Interventions by the Great-powers](https://www.dovhlevin.com/datasets)
