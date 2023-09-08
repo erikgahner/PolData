@@ -656,7 +656,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Religion Adherence Data](https://scholar.harvard.edu/barro/publications/religion-adherence-data)
 - [Serious Nuclear and Radiological Incidents](https://hegghammer.com/resources/)
 - [Social Capital Atlas](https://opportunityinsights.org/data/)
-- [State Antiquity Index](http://www.brown.edu/Departments/Economics/Faculty/Louis_Putterman/antiquity%20index.htm)
+- [State Antiquity Index](https://sites.google.com/brown.edu/louis-putterman)
 - [State Networks](https://ippsr.msu.edu/public-policy/state-networks)
 - [World Migration Matrix](https://sites.google.com/brown.edu/louis-putterman/world-migration-matrix-1500-2000)
 
