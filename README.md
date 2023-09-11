@@ -498,6 +498,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The Affinity of Nations: Similarity of State Voting Positions in the UNGA](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [The Cease-Fires Data Set](http://www.columbia.edu/~vpf4/research.htm)
 - [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
+- [The Civil Conflict Ceasefire dataset](https://ceasefireproject.org/download/)
 - [The Dyadic Cyber Incident and Dispute Data](https://drryanmaness.wixsite.com/cyberconflict/cyber-conflict-dataset)
 - [The Logic of Political Survival](http://www.nyu.edu/gsas/dept/politics/data/bdm2s2/Logic.htm)
 - [Threat and Imposition of Sanctions](http://sanctions.web.unc.edu/)
