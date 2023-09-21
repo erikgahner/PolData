@@ -172,6 +172,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Poll of Polls](https://pollofpolls.eu/)
 - [Polls and the Timeline of Elections](https://liberalarts.utexas.edu/government/faculty/cw26629#datasets-on-polls-and-the-timeline-of-elections)
 - [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
+- [State Executive Approval Database](https://doi.org/10.15139/S3/QHHQEF)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
 
 #### Social media
@@ -353,7 +354,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
 - [Danish General Election Results](https://github.com/Straubinger/folketingsvalg)
-- [Database on Ideology, Money in Politics, and Elections](https://data.stanford.edu/dime#download-data)
+- [Database on Ideology, Money in Politics, and Elections](https://data.stanford.edu/dime)
 - [Eggers and Spirling British Political Development database](https://github.com/ArthurSpirling/EggersSpirlingDatabase)
 - [Electoral Volatility and its internal components in Western Europe](https://cise.luiss.it/cise/dataset-of-electoral-volatility-and-its-internal-components-in-western-europe-1945-2015/)
 - [Electoral Volatility in the European Parliament elections](https://cise.luiss.it/cise/dataset-of-electoral-volatility-in-the-european-parliament-elections-since-1979/)
