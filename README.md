@@ -385,6 +385,8 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### International relations
 
+- [African Relational Pro-Government Militia Dataset](https://doi.org/10.1080/03050629.2018.1458724)
+- [AfroGrid](https://doi.org/10.7910/DVN/LDI5TK)
 - [Aid Worker Security Database](https://aidworkersecurity.org/incidents)
 - [AidData](http://aiddata.org/data/aiddata-core-research-release-level-1-v3-0)
 - [Alliance Treaty Obligations and Provisions](http://atop.rice.edu/data)
