@@ -575,6 +575,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Tax Introduction Database](http://tid.seelkopf.eu/)
 - [The European pension politics dataset](http://euiresdata.eui.eu/xmlui/handle/123456789/32)
 - [The Regulation of Labor](https://scholar.harvard.edu/shleifer/publications/regulation-labor)
+- [Trans Rights Indicator Project](https://doi.org/10.1017/S1537592723002827)
 - [Working Time Regulation](https://sites.google.com/view/magnusberglirasmussen/datasets)
 - [World Education Reform Database](https://werd.stanford.edu/)
 
