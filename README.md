@@ -3,7 +3,7 @@ A dataset with political datasets
 
 ### Description
 
-A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites, political speeches and debates. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`s) with detailed information on the topics, coverage and availability of the respective datasets.
+A collection of political datasets. The datasets are listed below within specific categories: cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites, political speeches and debates. All datasets are listed in the datasets in the repository (`.xlsx`, `.csv`) with detailed information on the topics, coverage and availability of the respective datasets.
 
 ## Variables in the dataset
 
@@ -21,7 +21,7 @@ A collection of political datasets. The datasets are listed below within specifi
 - `year_end` = Time coverage, year end
 - `availability` = Availability of dataset
 - `registration` = Requirements for data access
-- `free`= Free access to data (1 = Yes, 0 = No)
+- `license`= License (identifiers from [SPDX License List](https://spdx.org/licenses/))
 - `file_codebook` = URL to documentation (usually `.pdf`)
 - `file_csv` = URL to dataset (`.csv`)
 - `file_dta` = URL to dataset (`.dta`)
@@ -32,10 +32,9 @@ A collection of political datasets. The datasets are listed below within specifi
 - `variable_country` = Name of country string variable
 - `variable_year` = Name of year variable
 - `variable_cow` = Name of Correlates of War numeric identifier variable
-- `doi_article` = DOI for article on dataset
+- `doi_article` = DOI for related publication
 - `doi_dataset` = DOI for dataset
 - `revised` = Date for last revision in PolData (ISO 8601, YYYYMMDD)
-- `note` = Additional info
 
 #### Something missing?
 
