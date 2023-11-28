@@ -684,6 +684,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Datasets for development economists](http://devecondata.blogspot.com)
 - [Datasets for empirical development economists](https://sites.google.com/site/medevecon/development-economics/devecondata)
 - [Datasets with text data for use in Natural Language Processing](https://github.com/niderhoff/nlp-datasets)
+- [Demscore](https://demscore.se/)
 - [Economic Data freely available online](https://www.economicsnetwork.ac.uk/data_sets)
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
 - [European Representative Democracy Data Archive](http://www.erdda.se/)
