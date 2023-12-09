@@ -706,6 +706,13 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Team Populism](http://populism.byu.edu/Pages/Data)
 - [Quantitative Social Science Data](https://f.briatte.org/teaching/quanti/data/)
 
+#### Harvard Dataverse
+
+- [American Journal of Political Science](https://dataverse.harvard.edu/dataverse/ajps)
+- [American Political Science Review](https://dataverse.harvard.edu/dataverse/the_review)
+- [British Journal of Political Science](https://dataverse.harvard.edu/dataverse/BJPolS)
+- [Journal of Politics](https://dataverse.harvard.edu/dataverse/jop)
+
 ### Acknowledgements
 
 For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass, Simon Straubinger, Bjørn Høyland and Agnar Freyr Helgason.
