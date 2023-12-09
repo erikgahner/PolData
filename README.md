@@ -715,4 +715,4 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Acknowledgements
 
-For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass, Simon Straubinger, Bjørn Høyland and Agnar Freyr Helgason.
+For help and dataset suggestions, thanks to Daniel Bischof, Jon H. Fiva, Martijn Schoonvelde, Shiro Kuriwaki, Niclas Darville, Alexey Gridnev, Anne-Kathrin Kreft, Feodor Snagovsky, Joe Noonan, Michael Strebel, Felix Haass, Simon Straubinger, Bjørn Høyland and Agnar Freyr Helgason. Several of the datasets added to the list over the years are found via the  great newsletter [Data Is Plural](https://www.data-is-plural.com/) by Jeremy Singer-Vine.
