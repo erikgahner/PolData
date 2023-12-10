@@ -711,7 +711,19 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [American Journal of Political Science](https://dataverse.harvard.edu/dataverse/ajps)
 - [American Political Science Review](https://dataverse.harvard.edu/dataverse/the_review)
 - [British Journal of Political Science](https://dataverse.harvard.edu/dataverse/BJPolS)
+- [Comparative Political Studies](https://dataverse.harvard.edu/dataverse/cps)
+- [International Organization](https://dataverse.harvard.edu/dataverse/IOJ)
+- [Journal of Experimental Political Science](https://dataverse.harvard.edu/dataverse/xps)
 - [Journal of Politics](https://dataverse.harvard.edu/dataverse/jop)
+- [Legislative Studies Quarterly](https://dataverse.harvard.edu/dataverse/lsq)
+- [Perspectives on Politics](https://dataverse.harvard.edu/dataverse/perspectives)
+- [Political Analysis](https://dataverse.harvard.edu/dataverse/pan)
+- [Political Behavior](https://dataverse.harvard.edu/dataverse/polbehavior)
+- [Political Science Research and Methods](https://dataverse.harvard.edu/dataverse/PSRM)
+- [Public Administration](https://dataverse.harvard.edu/dataverse/pa)
+- [Research & Politics](https://dataverse.harvard.edu/dataverse/researchandpolitics)
+- [Security Studies](https://dataverse.harvard.edu/dataverse/securitystudies)
+- [World Politics](https://dataverse.harvard.edu/dataverse/world-politics)
 
 ### Acknowledgements
 
