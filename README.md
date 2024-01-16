@@ -265,6 +265,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The Comparative Legislators Database](https://github.com/saschagobel/legislatoR)
 - [The PopuList](https://popu-list.org/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
+- [Thin Anti-Establishment Supply Dataset](https://doi.org/10.1177/13540688221080536)
 - [Varieties of Party Identity and Organization (V-Party)](https://doi.org/10.23696/vpartydsv1)
 - [Voteview: Congressional Roll-Call Votes Database](https://voteview.com/data)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
