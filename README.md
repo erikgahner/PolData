@@ -442,6 +442,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Ill-Treatment and Torture](http://faculty.ucmerced.edu/cconrad2/Academic/Data.html)
 - [Implementation of Pacts](https://www.pcr.uu.se/data/impact-dataset/)
 - [International Crisis Behaviors Events](https://www.crisisevents.org/)
+- [International Cyber Expression Dataset](https://doi.org/10.1177/00223433231217656)
 - [International Military Intervention](https://www.k-state.edu/polsci/intervention/)
 - [International Military Training Activities Database-USA](https://doi.org/10.1177%2F00223433211047715)
 - [International Peace Institute Peacekeeping Database](http://www.providingforpeacekeeping.org/contributions/)
