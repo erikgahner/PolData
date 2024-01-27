@@ -652,6 +652,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Ethnic Power Relations](http://www.columbia.edu/~aw2951/Datasets.html)
 - [Extended State History Index](https://sites.google.com/site/econolaols/extended-state-history-index)
 - [Gender and Religious Bias in the Indian Judiciary](http://www.devdatalab.org/judicial-bias-data)
+- [Geocoded Medicaid office locations in the United States](https://doi.org/10.7910/DVN/AVRHMI)
 - [Global Abortion Incidence Dataset](https://osf.io/5k7fp/)
 - [Global Dual Citizenship Database](https://macimide.maastrichtuniversity.nl/dual-cit-database/)
 - [Government Religious Preference](https://www.thearda.com/Archive/Files/Descriptions/GRPCOMP.asp)
