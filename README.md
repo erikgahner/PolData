@@ -352,6 +352,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 ### Elections
 
 - [African Elections Database](https://africanelections.tripod.com/)
+- [American Local Government Elections Database](https://doi.org/10.1038/s41597-023-02792-x)
 - [Comprehensive European Parliament Electoral Data](https://doi.org/10.7910/DVN/GNRMTO)
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
