@@ -250,6 +250,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Party Facts](https://partyfacts.herokuapp.com/)
 - [Party Policy in Modern Democracies](http://www.tcd.ie/Political_Science/ppmd/)
 - [Party positions from Wikipedia tags](https://github.com/hdigital/partypositions-wikitags)
+- [Party primaries in Spain](https://zenodo.org/doi/10.5281/zenodo.10066111)
 - [Party Representation of Social Groups](https://doi.org/10.1177%2F13540688211023859)
 - [Party-Interest Group Relationships in Contemporary Democracies](https://pairdem.org/pairdem/)
 - [Political Leaders’ Affiliation Database](https://doi.org/10.7910/DVN/YUS575)
