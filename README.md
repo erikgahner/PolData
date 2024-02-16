@@ -264,6 +264,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Select American State Party Platforms](https://doi.org/10.7910/DVN/KNOSHL)
 - [State Legislator Shor-McCarty Ideology Data](https://americanlegislatures.com/data/)
 - [The Comparative Legislators Database](https://github.com/saschagobel/legislatoR)
+- [The Dataset of Turkish Political Elites](http://www.tevfikmuratyildirim.com/datasets.html)
 - [The PopuList](https://popu-list.org/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Thin Anti-Establishment Supply Dataset](https://doi.org/10.1177/13540688221080536)
