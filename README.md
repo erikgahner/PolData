@@ -459,6 +459,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Joint Military Exercises Dataset](https://doi.org/10.7910/DVN/HXQFHU)
 - [Konstanz One-Sided Violence Event Dataset](https://cms.uni-konstanz.de/fileadmin/archive/kosved/polver/gschneider/forschung/kosved/data/)
 - [Latent Human Rights Protection Scores](https://doi.org/10.7910/DVN/24872)
+- [Latin American Guerrillas Dataset](https://doi.org/10.1177/00223433231215751)
 - [Leaders’ Willingness to Use Force](https://doi.org/10.1017/S0003055420000313)
 - [Major Episodes of Political Violence](http://www.systemicpeace.org/inscrdata.html)
 - [Mass Mobilization in Autocracies Database](https://mmadatabase.org/)
