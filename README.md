@@ -435,6 +435,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Geopolitical Risk Index](https://www.matteoiacoviello.com/gpr_country.htm)
 - [Gibler-Miller-Little Militarized Interstate Dispute](http://svmiller.com/gml-mid-data/)
 - [Girl Child Soldier Dataset](https://www.prio.org/JPR/Datasets/)
+- [Global Military Spending Dataset](https://doi.org/10.7910/DVN/RKJAKJ)
 - [Global Terrorism Database](http://www.start.umd.edu/gtd/)
 - [Global Transitional Justice Dataset](https://www.tjdemstabilitylab.com/data.html)
 - [Government-Sponsored Mass Expulsion](https://doi.org/10.1177/00223433211068633)
