@@ -549,6 +549,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 ### Policy
 
 - [3P Anti-trafficking Policy Index](https://www.awi.uni-heidelberg.de/professuren/intwipol/datasets_en.html)
+- [A Comprehensive Dataset of U.S. Federal Laws](https://doi.org/10.17605/OSF.IO/MRGHC)
 - [Abortion Law Database](https://www.hsph.harvard.edu/david-canning/data-sets/)
 - [Bilateral Labor Agreements Dataset](https://www.law.uchicago.edu/bilateral-labor-agreements-dataset)
 - [Canadian Government Expenditures](https://doi.org/10.7910/DVN/XDZ4A6)
