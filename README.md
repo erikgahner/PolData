@@ -419,6 +419,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Database on Suicide Attacks](https://cpost.uchicago.edu/research/suicide_attacks/database_on_suicide_attacks/)
 - [De Facto States in International Politics](https://doi.org/10.1080/03050629.2014.915543)
 - [Deadly Electoral Conflict Dataset](https://ucdp.uu.se/downloads/index.html#deco)
+- [Disaggregated defense spending](https://doi.org/10.1177/00223433231215785)
 - [Disaggregated Military Expenditure](http://pages.ucsd.edu/~egartzke/datasets.htm)
 - [Displacement Locations](https://github.com/global-displacement-locations/displacement_locations_unhcr)
 - [Distribution of Military Capabilities](https://www.militarycapabilities.com/data)
