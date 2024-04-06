@@ -53,6 +53,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [ParlGov: Cabinets](http://www.parlgov.org/)
 - [Parliamentary Rules Database](https://parlrulesdata.org/)
 - [Parliaments and governments database](http://www.parlgov.org/)
+- [Parltrack](https://parltrack.eu/dumps)
 - [Seki-Williams Government and Ministers Data](https://doi.org/10.7910/DVN/0UNUAM)
 - [United States of America Cabinet Appointments Dataset](https://github.com/taitcha/American_cabinet_appointments)
 - [Veto Players Data](https://sites.lsa.umich.edu/tsebelis/data/veto-players-data/)
