@@ -299,6 +299,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 - [Administrative Capacities](https://www.hertie-school.org/en/governancereport/govreport-indicators/)
 - [Corruption Perceptions Index](https://www.transparency.org/research/cpi/)
+- [Global Contract-level Public Procurement Dataset](https://doi.org/10.1016/j.dib.2024.110412)
 - [Quality of Government](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 - [Relative Political Capacity Dataset](https://doi.org/10.7910/DVN/NRR7MB)
 - [State Reach in Africa](http://www.carlmueller-crepon.org/project/statecap_data/)
