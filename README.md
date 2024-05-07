@@ -204,6 +204,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts](http://www.uva-aias.net/en/ictwss)
 - [Institutions and Elections Project](https://havardhegre.net/iaep/)
 - [Judicial Review of Congress Database](https://scholar.princeton.edu/kewhitt/judicial-review-congress-database)
+- [Jurist-Derived Judicial Ideology Scores](https://judjis.org/)
 - [Legislative production in the EU, 1967-2012](http://www.dimiter.eu/Data.html)
 - [Presidential Power Scores](https://presidential-power.net/?page_id=2148)
 - [Rule of Law Index](https://worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-rule-law-index-2016/current-historical-data)
