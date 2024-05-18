@@ -634,6 +634,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 ### Protest
 
 - [Crowd Counting Consortium Dataset](https://github.com/nonviolent-action-lab/crowd-counting-consortium)
+- [Dissent Scores](https://doi.org/10.7910/DVN/CL4CA8)
 - [European Protest and Coercion Data](http://web.ku.edu/~ronfrand/data/index.html)
 - [Historical Social Conflict Database](https://www.unicaen.fr/hiscod/accueil.html)
 - [Lankina Russian Protest-Event Dataset](https://katerinatertytchnaya.com/research/)
