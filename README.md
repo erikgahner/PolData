@@ -415,6 +415,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Commercial Military Actor Database](https://doi.org/10.7910/DVN/TOFZ09)
 - [Conflict Catalog](http://www.cgeh.nl/data#conflict)
 - [Contemporary Slavery in Armed Conflict](https://www.csac.org.uk/dataset/)
+- [Corpus of Resolutions: UN Security Council](https://doi.org/10.5281/zenodo.11212056)
 - [Correlates of War](http://www.correlatesofwar.org/)
 - [Counter Trafficking Data Collaborative](https://www.ctdatacollaborative.org/global-dataset-0)
 - [Coup D'état Project](https://clinecenter.illinois.edu/project/research-themes/democracy-and-development/coup-detat-project-cdp)
