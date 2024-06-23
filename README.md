@@ -224,7 +224,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Coalition Inclusion Probabilities Dataset](https://coalition-leverage.org/cip-data/)
 - [Commissioners of the European Union](http://holgerdoering.net/data.html)
 - [Comparative Agendas Project](http://www.comparativeagendas.net/datasets_codebooks)
-- [CongressData](https://congress.ippsr.msu.edu/congress/)
+- [CongressData](https://cspp.ippsr.msu.edu/congress/)
 - [Congress slaveowners](https://github.com/washingtonpost/data-congress-slaveowners/)
 - [Congressional Scandals](https://doi.org/10.7910/DVN/BID3QM)
 - [Danish Legislator Database](https://doi.org/10.7910/DVN/4SFNC0)
