@@ -411,6 +411,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Chance-Corrected Measures of Foreign Policy Similarity](https://doi.org/10.7910/DVN/ALVXLM)
 - [Change in Source of Leader Support](http://www.chisols.org/)
 - [Chinese Economic Sanctions Dataset](https://sites.google.com/view/jackzhang/twl/data)
+- [CIRIGHTS](https://cirights.com/)
 - [Colonial Dates Dataset](https://doi.org/10.7910/DVN/T9SDEW)
 - [Colpus Regime Data](https://www.johnjchin.com/colpus)
 - [Commercial Military Actor Database](https://doi.org/10.7910/DVN/TOFZ09)
