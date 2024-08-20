@@ -289,6 +289,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/)
 - [Democratic Diffusion](https://www3.nd.edu/~mcoppedg/crd/datacrd.htm)
 - [Electoral Systems and the Personal Vote](https://doi.org/10.7910/DVN/AMRXJA)
+- [Episodes of Regime Transformation](https://github.com/vdeminstitute/ERT)
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
 - [Political Regimes of the World](https://link.springer.com/article/10.1057/s41304-018-0149-8)
 - [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
