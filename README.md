@@ -494,6 +494,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Peaceful Resolution of Territorial Disputes](https://doi.org/10.1177%2F0022343319895560)
 - [Peacekeeping and the Peacekept](http://www.columbia.edu/~vpf4/research.htm)
 - [PeaceKeeping Operations Corpus](https://doi.org/10.1177/0022343320978693)
+- [Perceived Mass Atrocities Dataset](https://doi.org/10.1177/00223433241249333)
 - [Police Reforms in Peace Agreements](https://doi.org/10.1177/0022343316628932)
 - [Political Apology database](https://doi.org/10.1177%2F00223433211024696)
 - [Political Risk Insurance](https://github.com/vincentarelbundock/opic)
