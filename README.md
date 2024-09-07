@@ -129,6 +129,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/data-documentation/share-data-releases.html)
 - [Survey of the Incarcerated](https://github.com/themarshallproject/incarcerated_survey)
 - [The SOM Institute Cumulative Dataset](https://snd.gu.se/en/catalogue/study/snd0905)
+- [The Volebny Kompas Datasets](https://doi.org/10.1038/s41597-024-03777-0)
 - [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)
 
 #### Panel
