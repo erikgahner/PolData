@@ -259,7 +259,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Party-Interest Group Relationships in Contemporary Democracies](https://pairdem.org/pairdem/)
 - [Political Leaders’ Affiliation Database](https://doi.org/10.7910/DVN/YUS575)
 - [Political Parties of India](https://tcpd.ashoka.edu.in/political-parties-of-india/)
-- [Political Party Database](https://dataverse.harvard.edu/dataverse/politicalparties)
+- [Political Party Database](https://www.politicalpartydb.org/)
 - [Populism and Political Parties Expert Survey](http://poppa-data.eu/)
 - [Private Members' Bills in the UK House of Commons](https://doi.org/10.7910/DVN/EEYIHN)
 - [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
@@ -638,7 +638,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [parlScot](https://doi.org/10.7910/DVN/EQ9WBE)
 - [ParlSpeech](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9&version=1.0)
 - [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
-- [Swedish parliamentary proceedings](https://github.com/welfare-state-analytics/riksdagen-corpus)
+- [Swedish parliamentary proceedings](https://github.com/swerik-project/the-swedish-parliament-corpus)
 - [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
 - [United Nations General Debate Corpus](https://github.com/sjankin/UnitedNations)
 
