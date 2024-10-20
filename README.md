@@ -373,6 +373,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Electoral Volatility in the European Parliament elections](https://cise.luiss.it/cise/dataset-of-electoral-volatility-in-the-european-parliament-elections-since-1979/)
 - [European NUTS-Level Election Database](https://eu-ned.com/)
 - [German Bundestag Election Results at Constituency Level](https://doi.org/10.7910/DVN/S1M6SA)
+- [German Election Database](http://www.german-elections.com/)
 - [Global Dataset on Turnout](https://doi.org/10.7910/DVN/NYXHU9)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
 - [Inequality and Direct Democracy: European Referenda](https://www.goethe-university-frankfurt.de/74273531/Inequality_and_Direct_Democracy_in_Europe)
