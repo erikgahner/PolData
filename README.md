@@ -708,6 +708,20 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [State Networks](https://ippsr.msu.edu/public-policy/state-networks)
 - [World Migration Matrix](https://sites.google.com/brown.edu/louis-putterman/world-migration-matrix-1500-2000)
 
+### R packages
+
+- {[acled.api](https://gitlab.com/chris-dworschak/acled.api)}: Automated Retrieval of ACLED Conflict Event Data
+- {[AustralianPoliticians](https://github.com/RohanAlexander/AustralianPoliticians/)}: Provides Datasets About Australian Politicians
+- {[cesR](https://github.com/hodgettsp/cesR)}: Access the Canadian Election Study Datasets
+- {[democracyData](https://github.com/xmarquez/democracyData/)}: Access and manipulate most standard scholarly measures of democracy
+- {[elections](https://cran.r-project.org/web/packages/elections/index.html)}: USA Presidential Elections Data
+- {[electionsBR](https://github.com/silvadenisson/electionsBR)}: R Functions to Download and Clean Brazilian Electoral Data
+- {[fec16](https://github.com/baumer-lab/fec16)}: Data Package for the 2016 United States Federal Elections
+- {[infoelectoral](https://github.com/rOpenSpain/infoelectoral)}: Download Spanish Election Results
+- {[nzelect](https://cran.r-project.org/web/packages/nzelect/index.html)}: New Zealand Election Data
+- {[SLPresElection](https://github.com/Amalan-ConStat/SLPresElection)}: Presidential Election Data of "Sri Lanka" from 1982 to 2015
+- {[turkeyelections](https://github.com/ozancanozdemir/turkeyelections)}: The Most Comprehensive R Package for Turkish Election Results
+
 ### Additional overviews of datasets
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
