@@ -628,6 +628,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Political speeches and debates
 - [Australian Parliamentary Debates](https://doi.org/10.5281/zenodo.7336075)
+- [Danish Legislative Speech Corpus](https://doi.org/10.7910/DVN/PNCBKF)
 - [Debates in the Council of the European Union](https://wratil.eu/projects)
 - [EUSpeech](https://doi.org/10.7910/DVN/XPCVEI)
 - [European Central Bank: Speeches data](https://www.ecb.europa.eu/press/key/html/downloads.en.html)
