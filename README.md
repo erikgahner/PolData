@@ -363,6 +363,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 - [African Elections Database](https://africanelections.tripod.com/)
 - [American Local Government Elections Database](https://doi.org/10.1038/s41597-023-02792-x)
+- [Cast vote records](https://doi.org/10.1038/s41597-024-04017-1)
 - [Comprehensive European Parliament Electoral Data](https://doi.org/10.7910/DVN/GNRMTO)
 - [Constituency-Level Elections Archive](http://www.electiondataarchive.org/)
 - [Democratic Electoral Systems](http://mattgolder.com/elections)
@@ -646,6 +647,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [ParlSpeech](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9&version=1.0)
 - [ParlSpeech V2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN)
 - [Swedish parliamentary proceedings](https://github.com/swerik-project/the-swedish-parliament-corpus)
+- [The Norwegian Parliamentary Debates Dataset](https://doi.org/10.1038/s41597-024-04142-x)
 - [The UN Security Council Debates](https://doi.org/10.7910/DVN/KGVSYH)
 - [United Nations General Debate Corpus](https://github.com/sjankin/UnitedNations)
 
