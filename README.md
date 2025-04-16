@@ -268,6 +268,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Scottish Party Election Manifestos](https://doi.org/10.7910/DVN/PH8XZO)
 - [Select American State Party Platforms](https://doi.org/10.7910/DVN/KNOSHL)
 - [State Legislator Shor-McCarty Ideology Data](https://americanlegislatures.com/data/)
+- [Swedish Historical Municipal Council Database](https://doi.org/10.7910/DVN/LGAF8A)
 - [The Comparative Legislators Database](https://github.com/saschagobel/legislatoR)
 - [The Dataset of Turkish Political Elites](http://www.tevfikmuratyildirim.com/datasets.html)
 - [The Party Personnel Datasets](https://doi.org/10.7910/DVN/Z8AK9Z)
