@@ -275,6 +275,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [The PopuList](https://popu-list.org/)
 - [The Reed-Smith Japanese House of Representatives Elections Dataset](https://doi.org/10.7910/DVN/QFEPXD)
 - [Thin Anti-Establishment Supply Dataset](https://doi.org/10.1177/13540688221080536)
+- [US Governors Populism Database](https://doi.org/10.1177/13540688251327564)
 - [Varieties of Party Identity and Organization (V-Party)](https://doi.org/10.23696/vpartydsv1)
 - [Voteview: Congressional Roll-Call Votes Database](https://voteview.com/data)
 - [Women in National Parliaments](http://www.ipu.org/wmn-e/world-arc.htm)
@@ -614,6 +615,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Trans Rights Indicator Project](https://doi.org/10.1017/S1537592723002827)
 - [Working Time Regulation](https://sites.google.com/view/magnusberglirasmussen/datasets)
 - [World Education Reform Database](https://werd.stanford.edu/)
+- [World Refugee and Asylum Policies](https://datanalytics.worldbank.org/dwrap/)
 
 ### Political elites
 
