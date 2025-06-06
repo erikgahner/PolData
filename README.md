@@ -347,6 +347,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [International Trade and Production Database for Estimation](https://www.usitc.gov/data/gravity/itpde.htm)
 - [Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689)
 - [Jordà-Schularick-Taylor Macrohistory Database](http://www.macrohistory.net/data/)
+- [Knowledge Economy Index](https://www.knowledge-economy-index.com/data-and-documentation)
 - [Long-Term Productivity Database](http://longtermproductivity.com/)
 - [Maddison Project Database](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020?lang=en)
 - [National Accounts Main Aggregates Database](https://unstats.un.org/unsd/snaama/dnlList.asp)
