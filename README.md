@@ -190,7 +190,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 
 ### Political institutions
 
-- [ACLP Political and Economic Database](https://sites.google.com/site/joseantoniocheibub/datasets/democracy-and-development-aclp)
 - [Berlin Infringement Database](https://www.polsoz.fu-berlin.de/polwiss/forschung/international/europa/bid/index.html)
 - [Comparative Political Data Set](http://www.cpds-data.org/)
 - [Comparative Voter ID Law Index](https://doi.org/10.7910/DVN/RU2F9A)
@@ -383,6 +382,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [German Election Database](http://www.german-elections.com/)
 - [Global Dataset on Turnout](https://doi.org/10.7910/DVN/NYXHU9)
 - [Global Elections Database](http://www.globalelectionsdatabase.com/index.php/datasets)
+- [Indian election data for polling stations and villages](https://doi.org/10.7910/DVN/KKOWNJ)
 - [Inequality and Direct Democracy: European Referenda](https://www.goethe-university-frankfurt.de/74273531/Inequality_and_Direct_Democracy_in_Europe)
 - [Inequality and Direct Democracy: International Referenda](https://www.goethe-university-frankfurt.de/74273531/Inequality_and_Direct_Democracy_in_Europe)
 - [Local Government Dataset](http://www.jon.fiva.no/data.htm)
