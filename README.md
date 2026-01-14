@@ -173,7 +173,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [PollBasePro: Daily Estimates of Aggregate Voting Intention in Great Britain](https://github.com/jackobailey/britpol)
 - [Poll of Polls](https://pollofpolls.eu/)
 - [Polls and the Timeline of Elections](https://liberalarts.utexas.edu/government/faculty/cw26629#datasets-on-polls-and-the-timeline-of-elections)
-- [Public support for political parties in Denmark](https://github.com/erikgahner/polls)
 - [State Executive Approval Database](https://doi.org/10.15139/S3/QHHQEF)
 - [SwedishPolls](https://github.com/MansMeg/SwedishPolls)
 
@@ -300,7 +299,6 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Episodes of Regime Transformation](https://github.com/vdeminstitute/ERT)
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
 - [Political Regimes of the World](https://link.springer.com/article/10.1057/s41304-018-0149-8)
-- [Polity IV Project: Political Regime Characteristics and Transitions](http://www.systemicpeace.org/polity/polity4.htm)
 - [Polyarchy Index of Democracy](https://www.prio.org/data/20)
 - [State Democracy Index](https://sites.google.com/view/jakegrumbach/state-democracy-index)
 - [Unified Democracy Scores](http://www.unified-democracy-scores.org/uds.html)
