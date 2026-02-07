@@ -494,7 +494,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Measuring the Impacts of Colonialism](https://andrewalter.netlify.com/project/globdev/)
 - [Memberships in Conventional Intergovernmental Organizations](http://www.systemicpeace.org/inscrdata.html)
 - [Militant Group Electoral Participation Dataset](https://doi.org/10.7910/DVN/FB0R8A)
-- [Militarized Compellent Threats](http://hdl.handle.net/1902.1/17315)
+- [Militarized Compellent Threats](https://doi.org/10.7910/DVN/VDJQ1E)
 - [Militarized Interstate Confrontation Dataset](https://doi.org/10.1177/00220027221104704)
 - [Militarized Interstate Events](https://doi.org/10.1177/07388942231182674)
 - [Military Intervention Project](https://sites.tufts.edu/css/mip-research/)
