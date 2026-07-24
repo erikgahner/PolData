@@ -88,7 +88,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [German Longitudinal Election Study](https://gles-en.eu/)
 - [Hellenic National Election Studies](http://www.elnes.gr/)
 - [Icelandic National Election Study](http://fel.hi.is/icelandic_national_election_study_icenes)
-- [Irish National Election Study](http://www.tcd.ie/ines/index.php?action=download)
+- [Irish Election Studies Archive](https://irishelectionstudies.org/)
 - [Israel National Election Studies](https://socsci4.tau.ac.il/mu2/ines/)
 - [Italian National Election Studies](http://www.itanes.org/en/)
 - [New Zealand Election Study](http://www.nzes.org/exec/show/data)
