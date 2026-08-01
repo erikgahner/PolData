@@ -184,6 +184,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 ### Constitutions
 
 - [Comparative Constitutions Project](http://comparativeconstitutionsproject.org/download-data/)
+- [Comprehensive Courts of Appeals Database](https://coadata.org/data/)
 - [Constitutional Court of Turkey Justice Decisions Dataset](http://www.efetokdemir.com/data.html)
 - [Electoral Legislation by Country](https://doi.org/10.7910/DVN/TIH5FK)
 - [Judicial Checks and Balances](http://faculty.tuck.dartmouth.edu/rafael-laporta/research-publications/)
