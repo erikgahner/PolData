@@ -760,6 +760,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Economic Data freely available online](https://www.economicsnetwork.ac.uk/data_sets)
 - [Economic databases](https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases_en)
 - [European Representative Democracy Data Archive](http://www.erdda.se/)
+- [Free Datasets for Social Science Research](https://github.com/toddrjones/datasets/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [ILOSTAT](https://ilostat.ilo.org/)
 - [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
