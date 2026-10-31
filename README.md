@@ -242,6 +242,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Global Party Survey](https://www.globalpartysurvey.org/)
 - [Immigration in Party Manifestos](https://doi.org/10.1177%2F0010414019858936)
 - [Issue ownership](https://henrikbechseeberg.weebly.com/datasets.html)
+- [Japanese Municipal Elections Dataset](https://charlesmcclean.com/jmed/)
 - [Latin American Legislators Dataset](https://doi.org/10.17605/OSF.IO/NK4MA)
 - [Legislator Diversity](https://www.legislatordiversity.com/)
 - [Local Candidate Dataset](http://www.jon.fiva.no/data.htm)
