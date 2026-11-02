@@ -299,6 +299,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Democracy Cross-National Data](https://www.pippanorris.com/data)
 - [Democratic Accountability and Citizen-Politician Linkages](https://sites.duke.edu/democracylinkage/data/)
 - [Democratic Diffusion](https://www3.nd.edu/~mcoppedg/crd/datacrd.htm)
+- [Democratic Erosion Event Dataset](https://democratic-erosion.org/dataset/)
 - [Electoral Systems and the Personal Vote](https://doi.org/10.7910/DVN/AMRXJA)
 - [Episodes of Regime Transformation](https://github.com/vdeminstitute/ERT)
 - [Global State of Democracy](https://www.idea.int/gsod-indices/dataset-resources)
