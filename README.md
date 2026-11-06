@@ -267,6 +267,7 @@ Make a new issue in the repository or send me a mail at `erikgahner@gmail.com`.
 - [Political Leaders’ Affiliation Database](https://doi.org/10.7910/DVN/YUS575)
 - [Political Parties of India](https://tcpd.ashoka.edu.in/political-parties-of-india/)
 - [Political Party Database](https://www.politicalpartydb.org/)
+- [Political Party Links](https://polpal.org/)
 - [Populism and Political Parties Expert Survey](http://poppa-data.eu/)
 - [Private Members' Bills in the UK House of Commons](https://doi.org/10.7910/DVN/EEYIHN)
 - [Regional Manifestos Project](http://www.regionalmanifestosproject.com/ingles/download-dataset)
